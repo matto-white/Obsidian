@@ -1,2 +1,3 @@
 # Obsidian
  
+My school notes
