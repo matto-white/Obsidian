@@ -27,4 +27,4 @@ settembre 1792 - Inizio repubblica
 21 gennaio 1793 - Luigi 16° viene ghigliottinato pubblicamente. 
 Gli stati europei creano una coalizione anti-rivoluzione, così la francia dichiara guerra a tutte quelle nazioni.
 In Vandea viene istituito un esercito anti-costituzionale. Visto che in francia i volontari arruolati non bastano, si instaura la leva militare obbligatoria di 30000 persone, che vendono mandate a soffocare la rivolta in Vandea.
-Il clima politico peggiora molto,.
+Il clima politico peggiora molto.
