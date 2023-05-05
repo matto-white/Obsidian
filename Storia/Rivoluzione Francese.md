@@ -25,6 +25,7 @@ Sanculotti  assaltano le prigioni e fanno più di 1000 morti perchè gli era giu
 settembre 1792 - Inizio repubblica
 ![[../Recording 20230427132502.webm]]
 21 gennaio 1793 - Luigi 16° viene ghigliottinato pubblicamente. 
-Gli stati europei creano una coalizione anti-rivoluzione, così la francia dichiara guerra a tutte quelle nazioni.
-In Vandea viene istituito un esercito anti-costituzionale. Visto che in francia i volontari arruolati non bastano, si instaura la leva militare obbligatoria di 30000 persone, che vendono mandate a soffocare la rivolta in Vandea.
-Il clima politico peggiora molto.
+Febbraio 1793 - Gli stati europei creano una coalizione anti-rivoluzione, così la francia dichiara guerra a tutte quelle nazioni.
+In Vandea viene istituito un esercito anti-costituzionale. Visto che in francia i volontari arruolati non bastano, si instaura la leva militare obbligatoria di 30000 persone, che vendono mandate a soffocare la rivolta in Vandea. Il clima politico peggiora molto.
+1793 - Seconda costituzione (Non entra in vigore)
+1795 - Terza costituzione
