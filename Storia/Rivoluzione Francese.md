@@ -17,15 +17,14 @@ luglio 1790 - Creano una costituzione del clero
 20/21 giugno 1791 - Le guardie fermano una carrozza al confine con le fiandre Austriache, e sulla carrozza trovano Luigi 16° con tutta la famiglia travestiti.
 settembre 1791 - Entra in vigore la nuova costituzione. Prima di sciogliere l'assemblea Robespierre (Giacobini) propone che l'ultima decisione sia un decreto con cui si vieta a chi ha già fatto parte dell'assemblea costituente non può candidarsi all'assemblea legislativa. All'assemblea legislativa la maggior parte dei candidati erano indipendenti
 
-![[../Recording 20230427103940.webm]]
 1792 - Il governo monarchico dichiara guerra all'Europa, per difendere la rivoluzione. Austria e Prussia firmano una dichiarazione congiunta per proteggere la famiglia reale Francese. Luigi 16° spingeva per una guerra e lo propone all'assemblea, che vota a favore di una guerra contro Austria e Prussia.
 giugno 1792 - Insurrezione dei sanculotti che occupano l'assemblea legislativa, e obbligano Luigi 16° a mettere il berretto Frigio e a brindare alla Rivoluzione. 
 10 agosto 1792 - Guidati da d'Anton e Marà, i sanculotti assaltano le Twillerì, arrestano il re e la famiglia.
 Sanculotti  assaltano le prigioni e fanno più di 1000 morti perchè gli era giunta voce che stavano tramando contro la rivoluzione.
 settembre 1792 - Inizio repubblica
-![[../Recording 20230427132502.webm]]
+
 21 gennaio 1793 - Luigi 16° viene ghigliottinato pubblicamente. 
 Febbraio 1793 - Gli stati europei creano una coalizione anti-rivoluzione, così la francia dichiara guerra a tutte quelle nazioni.
 In Vandea viene istituito un esercito anti-costituzionale. Visto che in francia i volontari arruolati non bastano, si instaura la leva militare obbligatoria di 30000 persone, che vendono mandate a soffocare la rivolta in Vandea. Il clima politico peggiora molto.
 1793 - Seconda costituzione (Non entra in vigore)
-1795 - Terza costituzione
+1795 - Terza costituzione. In futuro avvengono molte votazioni annullate e molte congiure.
