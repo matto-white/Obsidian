@@ -1,39 +1,52 @@
 {
   "main": {
-    "id": "9881664b7bd12e48",
+    "id": "f421269db20f3021",
     "type": "split",
     "children": [
       {
-        "id": "9ee8e5fe899ce4a5",
+        "id": "b54a22e960d3e0ad",
         "type": "tabs",
         "children": [
           {
-            "id": "b0a37ff1e55057fe",
+            "id": "3c0a6a4041814c1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Rivoluzione Francese.md",
+                "file": "Italiano/Ugo Foscolo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a329ac502dec2991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/Alessandro Manzoni.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6c3e2644f1439391",
+    "id": "dd81e816e28bd161",
     "type": "split",
     "children": [
       {
-        "id": "5ddbeff4253c8bd0",
+        "id": "256b92dbc1367b65",
         "type": "tabs",
         "children": [
           {
-            "id": "6a2f85d9ae1f32c3",
+            "id": "44405b07b666432f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "58f2798abf836b00",
+            "id": "4ad5f340a5ddea50",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,15 @@
             }
           },
           {
-            "id": "b507df3364d966df",
+            "id": "0d118a0c37031e24",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "02921e5d9486591b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,44 +93,44 @@
     "width": 300
   },
   "right": {
-    "id": "4a56230024100544",
+    "id": "0be33b4eec71d325",
     "type": "split",
     "children": [
       {
-        "id": "bbb3ac60f0c8d3d8",
+        "id": "b5e7009935086950",
         "type": "tabs",
         "children": [
           {
-            "id": "d176212b6041616d",
+            "id": "3cdf3ec8f048358a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Rivoluzione Francese.md",
+                "file": "Italiano/Alessandro Manzoni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "e59049336945556d",
+            "id": "cbdbc26488298532",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Rivoluzione Francese.md",
+                "file": "Italiano/Alessandro Manzoni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "964dd70ded261c04",
+            "id": "30fa0e2c89bd2c17",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,47 +141,61 @@
             }
           },
           {
-            "id": "a49ec87d2aedf2c9",
+            "id": "d57bcfb232d8c6cf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Rivoluzione Francese.md"
+                "file": "Italiano/Alessandro Manzoni.md"
               }
             }
-          },
-          {
-            "id": "5e4b7df608794846",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "audio-recorder:Avvia/ferma registrazione": false
     }
   },
-  "active": "b0a37ff1e55057fe",
+  "active": "a329ac502dec2991",
   "lastOpenFiles": [
-    "README.md",
-    "Storia/Rivoluzione Francese.md",
-    "Recording 20230427103940.webm",
+    "Italiano/Ugo Foscolo.md",
     "Italiano/Alessandro Manzoni.md",
-    "Obsidian/README.md",
-    "Obsidian"
+    "Storia/Indipendenza americana.md",
+    "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
+    "Storia/Rivoluzione Francese.md",
+    "Recording 20230427132502.webm",
+    "2023-04-27.md",
+    "Recording 20230427103940.webm",
+    "Recording 20230427102205.webm",
+    "Sistemi e Reti/TCP.md",
+    "Sistemi e Reti/TCP.sync-conflict-20230417-170013-C5LEHAY.md",
+    "tcp_data_transfer 1.png",
+    "_resources/tcp_data_transfer 1.png",
+    "\"../Sistemi.md",
+    "\"..",
+    "_resources/tcp_data_transfer.png",
+    "\"home/mattia/Scuola/Sistemi e reti/tcp_data_transfer.png\".md",
+    "\"home/mattia/Scuola/Sistemi e reti",
+    "\"home/mattia/Scuola",
+    "\"home/mattia",
+    "\"home",
+    "_resources/Handshake.png",
+    "Senza nome.canvas",
+    "_resources/TCP Header.png",
+    "_resources/TCP.pdf",
+    "Untitled",
+    "Untitled.md"
   ]
 }

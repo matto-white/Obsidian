@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "6681aa632914c52e",
+    "type": "split",
+    "children": [
+      {
+        "id": "edd6817c81504aae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7d0d78a65fdae7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storia/Indipendenza americana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "823c1bc4db870f74",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1915fb20b46a24ff",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a499c5a1bbab438e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b9eeadc1a01f106a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "dc920a16720e5310",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "57375848f97a2043",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a4550b05823acc77",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Storia/Indipendenza americana.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c6b2dbfa6b5930ec",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Storia/Indipendenza americana.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6bd9daf06de1024a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Storia/Indipendenza americana.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d7d0d78a65fdae7a",
+  "lastOpenFiles": [
+    "Appunti storia.md",
+    "Storia/Rivoluzione Francese.md",
+    "Storia/Indipendenza americana.md",
+    "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
+    "Italiano/Ugo Foscolo.md",
+    "_resources/TCP.pdf",
+    "Sistemi e Reti/TCP.md"
+  ]
+}

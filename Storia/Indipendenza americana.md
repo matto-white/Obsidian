@@ -1,4 +1,4 @@
-- Settembre 1783' Parigi, firmata pace
+- Settembre 1783' Versailles, firmata pace
     l'Inghilterra restituisce la Florida alla Francia
 - 1787 approvata costituzione degli stati uniti:
     "Noi popolo degli stati uniti..."
