@@ -19,4 +19,4 @@ Ottobre 1781 - caduta di Yorktown
 14 luglio - presa della bastiglia
 4 agosto - abolizione del regime feudale
 26 agosto - dichiarazione dei diritti dell'uomo e del cittadino
-5/6 ottobre - Luigi XVI firma la Dichiarazione dei diritti
+5/6 ottobre - Luigi XVI firma la Dichiarazione dei diritti.
