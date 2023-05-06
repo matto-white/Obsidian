@@ -16,3 +16,7 @@ Ottobre 1781 - caduta di Yorktown
 5 maggio 1789 - Convocazione stati generali
 17 giugno - assemblea nazionale
 9 luglio assemblea costituente
+14 luglio - presa della bastiglia
+4 agosto - abolizione del regime feudale
+26 agosto - dichiarazione dei diritti dell'uomo e del cittadino
+5/6 ottobre - Luigi XVI firma la Dichiarazione dei diritti
