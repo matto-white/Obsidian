@@ -19,5 +19,13 @@ Ottobre 1781 - caduta di Yorktown
 14 luglio - presa della bastiglia
 4 agosto - abolizione del regime feudale
 26 agosto - dichiarazione dei diritti dell'uomo e del cittadino
-5/6 ottobre - Luigi XVI firma la Dichiarazione dei diritti
+5/6 ottobre 1789 - Luigi XVI firma la Dichiarazione dei diritti
 2 novembre 1789 - requisizione beni della chiesa
+20/21 giugno 1791 - Luigi XVI e la famiglia vennero fermati a Verennes mentre tentavano di scappare verso i paesi bassi austriaci
+3 settembre 1791 - Entra in vigore la nuova Costituzione (Monarchia costituzionale)
+Aprile 1792 - Approvata dichiarazione di guerra della Francia contro l'Austria e Prussia
+20 giugno 1792 - i sanculotti invasero l'assemblea legislativa, e costrinsero Luigi XVI a indossare il berretto frigio e a brindare alla rivoluzione
+10 agosto 1792 - I sanculotti insediarono all'hotel de Ville la Comune di Parigi (nuovo consiglio rivoluzionario)
+2/6 settembre 1792 - i sanculotti assaltano le prigioni per scovare i traditori e ucciderli (ne muoiono più di 1200) "Massacri di settembre"
+20 settembre 1792 - L'esercito Francese batte quello austro-prussiano a Valmy
+21 settembre 1792 - abolizione monarchia e proclamazione della repubblica 
