@@ -21,4 +21,3 @@ Ottobre 1781 - caduta di Yorktown
 26 agosto - dichiarazione dei diritti dell'uomo e del cittadino
 5/6 ottobre - Luigi XVI firma la Dichiarazione dei diritti
 2 novembre 1789 - requisizione beni della chiesa
-
