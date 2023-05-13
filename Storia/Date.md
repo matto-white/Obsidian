@@ -31,3 +31,7 @@ Aprile 1792 - Approvata dichiarazione di guerra della Francia contro l'Austria e
 21 settembre 1792 - abolizione monarchia e proclamazione della repubblica 
 21 gennaio 1793 - Luigi XVI viene ghigliottinato 
 2 giugno 1793 - sanculotti assaltano la convenzione chiedendo l'estromissione di tutti i girondini
+Approvazione della Costituzione del 1793 (anno 1 delle repubblica)
+4 febbraio 1794 - abolizione della schiavitù
+26 giugno 1794 - Vittoria nella battaglia di Fleurus
+27 luglio 1794 - arresto di Robespierre 
