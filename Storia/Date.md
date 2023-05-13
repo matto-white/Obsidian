@@ -29,3 +29,5 @@ Aprile 1792 - Approvata dichiarazione di guerra della Francia contro l'Austria e
 2/6 settembre 1792 - i sanculotti assaltano le prigioni per scovare i traditori e ucciderli (ne muoiono più di 1200) "Massacri di settembre"
 20 settembre 1792 - L'esercito Francese batte quello austro-prussiano a Valmy
 21 settembre 1792 - abolizione monarchia e proclamazione della repubblica 
+21 gennaio 1793 - Luigi XVI viene ghigliottinato 
+2 giugno 1793 - sanculotti assaltano la convenzione chiedendo l'estromissione di tutti i girondini
