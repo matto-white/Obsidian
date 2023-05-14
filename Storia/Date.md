@@ -36,4 +36,5 @@ Approvazione della Costituzione del 1793 (anno 1 delle repubblica)
 4 febbraio 1794 - abolizione della schiavitù
 26 giugno 1794 - Vittoria nella battaglia di Fleurus
 27 luglio 1794 - arresto di Robespierre 
+
 Nuova costituzione del 1795 (anno 3)
