@@ -15,7 +15,9 @@ Ottobre 1781 - caduta di Yorktown
 
 ## Rivoluzione francese
 5 maggio 1789 - Convocazione stati generali
-17 giugno - assemblea nazionale
+17 giugno - assemblea nazionale ```markdown
+<br/>
+```
 9 luglio assemblea costituente
 14 luglio - presa della bastiglia
 4 agosto - abolizione del regime feudale
