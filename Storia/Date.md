@@ -35,5 +35,6 @@ Aprile 1792 - Approvata dichiarazione di guerra della Francia contro l'Austria e
 Approvazione della Costituzione del 1793 (anno 1 delle repubblica)<br/>
 4 febbraio 1794 - abolizione della schiavitù<br/>
 26 giugno 1794 - Vittoria nella battaglia di Fleurus<br/>
-27 luglio 1794 - arresto di Robespierre <br/>
+27 luglio 1794 - arresto di Robespierre  
+
 Nuova costituzione del 1795 (anno 3)<br/>
