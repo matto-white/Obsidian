@@ -5,7 +5,8 @@
 1770 - Strage di Boston  
 16 dicembre 1773 - Boston tea party  
 Settembre 1774 - Primo congresso continentale  
-Aprile 1775, Lexington - primo scontro a fuoco tra americani e inglesi  
+Aprile 1775, Lexington - primo scontro a fuoco tra americani e inglesi
+Aprile 1775 - secondo congresso continentale
 4 luglio 1776 - votata la Dichiarazione di indipendenza  
 Ottobre 1781 - caduta di Yorktown  
 1783 - trattato di Versailles  
