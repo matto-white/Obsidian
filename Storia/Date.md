@@ -11,7 +11,7 @@ Aprile 1775 - secondo congresso continentale
 Ottobre 1781 - caduta di Yorktown  
 1783 - trattato di Versailles  
 1788 - viene approvata la Nuova Costituzione
-
+1791 - dieci emandamenti
 
 ## Rivoluzione francese
 5 maggio 1789 - Convocazione stati generali
