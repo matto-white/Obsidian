@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Rivoluzione Francese.md",
+                "file": "Italiano/Promessi Sposi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Rivoluzione Francese.md",
+                "file": "Italiano/Promessi Sposi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Rivoluzione Francese.md",
+                "file": "Italiano/Promessi Sposi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Rivoluzione Francese.md"
+                "file": "Italiano/Promessi Sposi.md"
               }
             }
           },
@@ -154,8 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e4b7df608794846",
+  "active": "b0a37ff1e55057fe",
   "lastOpenFiles": [
+    "Italiano/Alessandro Manzoni.md",
+    "Italiano/Promessi Sposi.md",
+    "Storia/Rivoluzione Francese.md",
     "README.md",
     "Storia/Indipendenza americana.md",
     "Storia/Date.md",
@@ -177,8 +180,6 @@
     "Obsidian/Italiano/Alessandro Manzoni.md",
     "Obsidian/Italiano",
     "Obsidian",
-    "Storia/Rivoluzione Francese.md",
-    "Recording 20230427103940.webm",
-    "Italiano/Alessandro Manzoni.md"
+    "Recording 20230427103940.webm"
   ]
 }
