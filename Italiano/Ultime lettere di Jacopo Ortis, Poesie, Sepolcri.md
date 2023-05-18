@@ -18,7 +18,7 @@ Finisce con: 25 Marzo 1799, L'amico tuo Jacopo Ortis
 12 sonetti) Sono una sorta di biografia
 
 # Carme dei Sepolcri
+Metrica: 295 endecasillabi sciolti
 Pubblicato nel 1807 a brescia, la considera la usa prima vera lirica. È stato composto in qualche settimana dopo una serie di sollecitazioni: 
 1) Discussione con Ippolito Pindemonte (a cui è dedicato)
 2) Editto di Saint Cloud 1806 (Napoleone), Dice che: "I cimiteri devono essere costruiti al di fuori delle mura"
-Il testo è compost da 295 endecasillabi sciolti (non in rima)
