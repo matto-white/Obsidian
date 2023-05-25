@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9ee8e5fe899ce4a5",
+        "id": "486d71186b94ca05",
         "type": "tabs",
         "children": [
           {
-            "id": "b0a37ff1e55057fe",
+            "id": "c1c9bb1d42d6cdc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
+                "file": "Storia/Napoleone.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
+                "file": "Storia/Napoleone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
+                "file": "Storia/Napoleone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md"
+                "file": "Storia/Napoleone.md"
               }
             }
           },
@@ -154,12 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0a37ff1e55057fe",
+  "active": "c1c9bb1d42d6cdc2",
   "lastOpenFiles": [
-    "Italiano/Ugo Foscolo.md",
-    "Italiano/Alessandro Manzoni.md",
-    "Italiano/Promessi Sposi.md",
     "Storia/Rivoluzione Francese.md",
+    "Storia/Napoleone.md",
+    "Italiano/Ugo Foscolo.md",
+    "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
+    "Italiano/Promessi Sposi.md",
+    "Italiano/Alessandro Manzoni.md",
     "README.md",
     "Storia/Indipendenza americana.md",
     "Storia/Date.md",
