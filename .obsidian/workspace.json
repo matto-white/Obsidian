@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
+                "file": "Storia/Napoleone.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
+                "file": "Storia/Napoleone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
+                "file": "Storia/Napoleone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md"
+                "file": "Storia/Napoleone.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "b0a37ff1e55057fe",
   "lastOpenFiles": [
+    "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
     "Italiano/Ugo Foscolo.md",
     "Italiano/Alessandro Manzoni.md",
     "Italiano/Promessi Sposi.md",
