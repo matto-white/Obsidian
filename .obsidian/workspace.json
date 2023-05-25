@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8c1e3ed22281af17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storia/Napoleone.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c1e3ed22281af17",
+  "active": "b0a37ff1e55057fe",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Storia/Napoleone.md",
+    "conflict-files-obsidian-git.md",
     "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
     "Italiano/Ugo Foscolo.md",
     "Italiano/Alessandro Manzoni.md",
