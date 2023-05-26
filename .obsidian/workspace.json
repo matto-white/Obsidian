@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Napoleone.md",
+                "file": "Italiano/Leopardi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Napoleone.md",
+                "file": "Italiano/Leopardi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Napoleone.md",
+                "file": "Italiano/Leopardi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Napoleone.md"
+                "file": "Italiano/Leopardi.md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "b0a37ff1e55057fe",
   "lastOpenFiles": [
+    "Storia/Napoleone.md",
+    "Italiano/Leopardi.md",
     "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
     "Italiano/Ugo Foscolo.md",
     "Italiano/Alessandro Manzoni.md",
