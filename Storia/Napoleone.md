@@ -14,4 +14,7 @@ La battaglia di Marenga è da manuale.
 1801 - Austriaci firmano una prima pace.
 1802 - Firmata pace con gli Inglesi, che restituisce le Antille (Santo Domingo) alla Francia e la Francia dona Seilon, Malta viene consegnata ai Francesi e l'egitto agli Inglesi. Scatta una rivolta di schiavi (Ritornati "legali" con la costituzione dell'anno 8°) a Santo Domingo che viene presto sedata.
 Napoleone diventa console a vita con potere di indicare il suo successore, (diventa un monarca). Dopo aver riordinato l'esercito riordina anche lo stato, con una precisa scala gerarchica
-1804 - Codice civile.
+1803 - Ricomincia la guerra contro l'Inghilterra (e più avanti con altri stati) e Napoleone scampa ad un attentato organizzato da Cadoudal
+Napoleone sfrutta l'attentato e fa un nuovo plebiscito che rendere la Francia un impero
+1804 - Codice civile (Codice Napoleonico).
+maggio 1805 - Terza coalizione antifrancese
