@@ -18,3 +18,15 @@ Napoleone diventa console a vita con potere di indicare il suo successore, (dive
 Napoleone sfrutta l'attentato e fa un nuovo plebiscito che rendere la Francia un impero
 1804 - Codice civile (Codice Napoleonico).
 maggio 1805 - Terza coalizione antifrancese
+Vittoria inglese a Trafalgar, ma morte dell'ammiraglio Nelson.
+Napoleone vince a Ulma e a Hausterlitz. L'imperatore asburgo chiede la pace.
+1806 - La Confederazione del Reno passa dalla parte della Francia, e cade il sacro romano impero che poi verrà chiamato impero d'Austria.
+La francia conquista roma e il vaticano.
+1806 - Quarta coalizione antifrancese (Si aggiunge anche la Prussia)
+settembre 1806 - Vengono sconfitti i Prussiani a Iena, che apre le porte per Berlino
+Creazione blocco continentale
+Accordi di Tinsit
+Il portogallo è l'unico che non rispetta il blocco continentale
+1807 - Ferdinando 4 (Spagna) toglie il trono al Padre, che chiede aiuto a Napoleone che li fa abdicare tutti e due e fa salire al trono Giuseppe Bonaparte
+1808 - quinta coalizione anti Francese. Napoleone arriva di nuovo alle porte di vienna, e sconfigge l'esercito Austriaco (Battaglia di Vagram). Entra a vienna, e firma la pace di Shombron
+Napoleone ha un figlio, che viene subito nominato re di Roma
