@@ -31,3 +31,10 @@ Il portogallo è l'unico che non rispetta il blocco continentale
 1808 - quinta coalizione anti Francese. Napoleone arriva di nuovo alle porte di vienna, e sconfigge l'esercito Austriaco (Battaglia di Vagram). Entra a vienna, e firma la pace di Shombron
 Sposa Maria d'Austria
 1811 - Napoleone ha un figlio
+Napoleone vende la Louisiana agli Stati Uniti d'America
+Conquista della Russia, partono in 700000 e tornano in 100000 (si ritirano)
+Napoleone torna in Francia e trova la 6 coalizione antifrancese
+Ottobre 1813 - Esercito Francese viene sconfitto, Napoleone viene costretto ad abdicare.
+1814 - Congresso di Vienna (per decidere come sistemare l'Europa). Decidono di tornare alla situazione pre-rivoluzione (restaurazone). In Francia torna luigi 18. Napoleone viene nominato Imperatore dell'Isola d'Elba (Esilio)
+Napoleone riesce a scappare e si fa trovare a Parigi, viene accolto con entusiasmo, e per 3 mesi ritorna Imperatore di Francia (i 100 giorni). Promulga una nuova Costituzione. Con una spedizione si dirige verso L'Olanda per isolare Prussiani, Austriaci e Inglesi. 
+18 giugno 1815 - La battaglia si svolge a Waterloo, ma la Francia perde. Napoleone viene spedito in esilio a Sant'Elena.
