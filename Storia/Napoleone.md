@@ -27,6 +27,7 @@ settembre 1806 - Vengono sconfitti i Prussiani a Iena, che apre le porte per Ber
 Creazione blocco continentale
 Accordi di Tinsit
 Il portogallo è l'unico che non rispetta il blocco continentale
-1807 - Ferdinando 4 (Spagna) toglie il trono al Padre, che chiede aiuto a Napoleone che li fa abdicare tutti e due e fa salire al trono Giuseppe Bonaparte
+1807 - Invade il Portogallo. Ferdinando 4 (Spagna) toglie il trono al Padre, che chiede aiuto a Napoleone che li fa abdicare tutti e due e fa salire al trono Giuseppe Bonaparte
 1808 - quinta coalizione anti Francese. Napoleone arriva di nuovo alle porte di vienna, e sconfigge l'esercito Austriaco (Battaglia di Vagram). Entra a vienna, e firma la pace di Shombron
-Napoleone ha un figlio, che viene subito nominato re di Roma
+Sposa Maria d'Austria
+1811 - Napoleone ha un figlio
