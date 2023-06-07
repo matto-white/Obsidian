@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Date Napoleone.md",
+                "file": "Storia/Date.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Storia/Date Napoleone.md",
+            "file": "Storia/Date.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Storia/Date Napoleone.md",
+            "file": "Storia/Date.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Storia/Date Napoleone.md"
+            "file": "Storia/Date.md"
           }
         }
       }
@@ -141,10 +141,8 @@
   },
   "active": "d7d0d78a65fdae7a",
   "lastOpenFiles": [
-    "Storia/Date.md",
-    "Storia/Date Napoleone.md",
-    "Storia/Napoleone.md",
     "Storia/Rivoluzione Francese.md",
+    "Storia/Date.md",
     "Storia/Indipendenza americana.md",
     "Appunti storia.md",
     "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
