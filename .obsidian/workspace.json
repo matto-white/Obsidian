@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57a232acd36ba4f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storia/Capitoli Storia Estate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Napoleone.md",
+                "file": "Storia/Capitoli Storia Estate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Napoleone.md",
+                "file": "Storia/Capitoli Storia Estate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Napoleone.md"
+                "file": "Storia/Capitoli Storia Estate.md"
               }
             }
           },
@@ -154,8 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0a37ff1e55057fe",
+  "active": "57a232acd36ba4f8",
   "lastOpenFiles": [
+    "Storia/Capitoli Storia Estate.md",
     "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
     "Italiano/Alessandro Manzoni.md",
     "Italiano/Alessandro Manzoni.sync-conflict-20230517-160724-C5LEHAY.md",
