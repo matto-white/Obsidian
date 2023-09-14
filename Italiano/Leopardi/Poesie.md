@@ -1,6 +1,6 @@
 #Leopardi 
 
-## Piccoli Dilli
+## Piccoli Idilli
 Il primo amore
-[[L'Infinito |L'Infinito]]
-...
+L'Infinito
+La sera del dì di festa

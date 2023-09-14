@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "85d4bdc7d53beb52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Italiano/Leopardi/Poesie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85d4bdc7d53beb52",
+  "active": "ce8a8e7aacb366a0",
   "lastOpenFiles": [
-    "Italiano/Leopardi/L'Infinito.md",
-    "Italiano/Leopardi/Poesie.md",
     "Italiano/Leopardi/Leopardi.md",
+    "Italiano/Leopardi/Poesie.md",
+    "Italiano/Leopardi/L'Infinito.md",
     "Untitled.md",
     "Italiano/Leopardi",
     "Storia/Napoleone.md",
