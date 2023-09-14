@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6d3d228eb8eb296b",
+        "id": "f13620b8841703c9",
         "type": "tabs",
         "children": [
           {
-            "id": "46d539d343ab3ca8",
+            "id": "ce8a8e7aacb366a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Capitoli Storia Estate.md",
+                "file": "Italiano/Leopardi/Poesie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85d4bdc7d53beb52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/Leopardi/Poesie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Capitoli Storia Estate.md",
+                "file": "Italiano/Leopardi/Poesie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Capitoli Storia Estate.md",
+                "file": "Italiano/Leopardi/Poesie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Capitoli Storia Estate.md"
+                "file": "Italiano/Leopardi/Poesie.md"
               }
             }
           },
@@ -154,17 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a2f85d9ae1f32c3",
+  "active": "85d4bdc7d53beb52",
   "lastOpenFiles": [
+    "Italiano/Leopardi/L'Infinito.md",
+    "Italiano/Leopardi/Poesie.md",
+    "Italiano/Leopardi/Leopardi.md",
+    "Untitled.md",
+    "Italiano/Leopardi",
     "Storia/Napoleone.md",
-    "Storia/Capitoli Storia Estate.md",
     "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
+    "Italiano/Ugo Foscolo.md",
     "Italiano/Alessandro Manzoni.md",
+    "Storia/Capitoli Storia Estate.md",
     "Italiano/Alessandro Manzoni.sync-conflict-20230517-160724-C5LEHAY.md",
     "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.sync-conflict-20230522-170202-C5LEHAY.md",
     "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.sync-conflict-20230522-125710-C5LEHAY.md",
-    "Italiano/Ugo Foscolo.md",
-    "Italiano/Leopardi.md",
     "conflict-files-obsidian-git.md",
     "Italiano/Promessi Sposi.md",
     "Storia/Rivoluzione Francese.md",
