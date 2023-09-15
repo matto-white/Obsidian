@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c07d2095fcc39807",
+        "id": "cdf29ba80ef013a6",
         "type": "tabs",
         "children": [
           {
-            "id": "305d688d6bfe04d5",
+            "id": "69d0e6de2bada354",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GPOI/Microeconomia.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GPOI/Microeconomia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GPOI/Microeconomia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GPOI/Microeconomia.md"
+              }
             }
           },
           {
@@ -146,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "305d688d6bfe04d5",
+  "active": "6a2f85d9ae1f32c3",
   "lastOpenFiles": [
+    "GPOI/Microeconomia.md",
+    "GPOI",
     "Italiano/Leopardi/Poesie.md",
     "Italiano/Leopardi/Leopardi.md",
     "Italiano/Leopardi/L'Infinito.md",
@@ -182,7 +192,6 @@
     "Obsidian/README.md",
     "Obsidian/Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
     "Obsidian/Italiano/Ugo Foscolo.md",
-    "Obsidian/Italiano/Alessandro Manzoni.md",
     "Obsidian/Italiano",
     "Obsidian",
     "Recording 20230427103940.webm"
