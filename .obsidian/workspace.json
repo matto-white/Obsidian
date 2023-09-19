@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c83f5632ff44c9fd",
+        "id": "9bf832e8000d1dbe",
         "type": "tabs",
         "children": [
           {
-            "id": "1d6f732cc14942f3",
+            "id": "3873e420a63ac633",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Leopardi/Leopardi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bc2a1bc633fef1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Italiano/Leopardi/Poesie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb2727613903fa53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Italiano/Leopardi/La sera del dì di festa.md",
+                "file": "GPOI/Microeconomia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Leopardi/La sera del dì di festa.md",
+                "file": "GPOI/Microeconomia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Leopardi/La sera del dì di festa.md",
+                "file": "GPOI/Microeconomia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Leopardi/La sera del dì di festa.md"
+                "file": "GPOI/Microeconomia.md"
               }
             }
           },
@@ -179,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb2727613903fa53",
+  "active": "3873e420a63ac633",
   "lastOpenFiles": [
-    "Italiano/Leopardi/Poesie.md",
     "Italiano/Leopardi/Leopardi.md",
+    "Italiano/Leopardi/Poesie.md",
     "Italiano/Leopardi/La sera del dì di festa.md",
     "Italiano/Promessi Sposi.md",
     "Storia/Cap. 7.md",
