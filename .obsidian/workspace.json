@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Cap. 7.md",
+                "file": "Italiano/Leopardi/Leopardi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bc2a1bc633fef1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/Leopardi/Poesie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb2727613903fa53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/Leopardi/La sera del dì di festa.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Cap. 7.md",
+                "file": "Italiano/Leopardi/La sera del dì di festa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Cap. 7.md",
+                "file": "Italiano/Leopardi/La sera del dì di festa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Cap. 7.md"
+                "file": "Italiano/Leopardi/La sera del dì di festa.md"
               }
             }
           },
@@ -154,11 +179,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a2f85d9ae1f32c3",
+  "active": "fb2727613903fa53",
   "lastOpenFiles": [
+    "Italiano/Leopardi/Poesie.md",
+    "Italiano/Leopardi/Leopardi.md",
+    "Italiano/Leopardi/La sera del dì di festa.md",
+    "Italiano/Promessi Sposi.md",
+    "Storia/Cap. 7.md",
     "Storia/Napoleone.md",
     "Storia/Date Napoleone.md",
-    "Storia/Cap. 7.md",
     "Storia/Capitoli Storia Estate.md",
     "GPOI/Microeconomia.md",
     "GPOI/offerta.png",
@@ -166,8 +195,6 @@
     "GPOI/domanda.png",
     "GPOI/domanda.png.crdownload",
     "GPOI",
-    "Italiano/Leopardi/Poesie.md",
-    "Italiano/Leopardi/Leopardi.md",
     "Italiano/Leopardi/L'Infinito.md",
     "Untitled.md",
     "Italiano/Leopardi",
@@ -178,7 +205,6 @@
     "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.sync-conflict-20230522-170202-C5LEHAY.md",
     "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.sync-conflict-20230522-125710-C5LEHAY.md",
     "conflict-files-obsidian-git.md",
-    "Italiano/Promessi Sposi.md",
     "Storia/Rivoluzione Francese.md",
     "README.md",
     "Storia/Indipendenza americana.md",
@@ -195,7 +221,6 @@
     "Obsidian/Storia",
     "Obsidian/Sistemi e Reti/TCP.md",
     "Obsidian/Sistemi e Reti",
-    "Obsidian/README.md",
     "Obsidian/Italiano",
     "Obsidian"
   ]
