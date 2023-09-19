@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPOI/Microeconomia.md",
+                "file": "Sistemi e Reti/Esercizi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPOI/Microeconomia.md",
+                "file": "Sistemi e Reti/Esercizi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPOI/Microeconomia.md",
+                "file": "Sistemi e Reti/Esercizi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPOI/Microeconomia.md"
+                "file": "Sistemi e Reti/Esercizi.md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "3873e420a63ac633",
   "lastOpenFiles": [
+    "GPOI/Microeconomia.md",
+    "Sistemi e Reti/Esercizi.md",
     "Italiano/Leopardi/Leopardi.md",
     "Italiano/Leopardi/Poesie.md",
     "Italiano/Leopardi/La sera del dì di festa.md",
@@ -164,7 +166,6 @@
     "Storia/Napoleone.md",
     "Storia/Date Napoleone.md",
     "Storia/Capitoli Storia Estate.md",
-    "GPOI/Microeconomia.md",
     "GPOI/offerta.png",
     "GPOI/offerta.png.crdownload",
     "GPOI/domanda.png",
@@ -194,7 +195,6 @@
     "Obsidian/Storia/Indipendenza americana.md",
     "Obsidian/Storia/Date.md",
     "Obsidian/Storia",
-    "Obsidian/Sistemi e Reti/TCP.md",
     "Obsidian/Sistemi e Reti",
     "Obsidian/Italiano",
     "Obsidian"
