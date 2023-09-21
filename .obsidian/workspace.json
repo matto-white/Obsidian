@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Leopardi/All'Italia.md",
+                "file": "Italiano/Leopardi/Canti.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Leopardi/All'Italia.md",
+                "file": "Italiano/Leopardi/Canti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Leopardi/All'Italia.md",
+                "file": "Italiano/Leopardi/Canti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Leopardi/All'Italia.md"
+                "file": "Italiano/Leopardi/Canti.md"
               }
             }
           },
@@ -156,12 +156,13 @@
   },
   "active": "295ae8841205b407",
   "lastOpenFiles": [
+    "Italiano/Leopardi/Poesie.md",
+    "La sera del dì di festa.md",
+    "Italiano/Leopardi/La sera del dì di festa.md",
+    "Italiano/Leopardi/Canti.md",
     "Italiano/Leopardi/Leopardi.md",
-    "Italiano/Leopardi/All'Italia.md",
     "Sistemi e Reti/Esercizi.md",
     "GPOI/Microeconomia.md",
-    "Italiano/Leopardi/Poesie.md",
-    "Italiano/Leopardi/La sera del dì di festa.md",
     "Italiano/Promessi Sposi.md",
     "Storia/Cap. 7.md",
     "Storia/Napoleone.md",
@@ -193,7 +194,6 @@
     "Obsidian/_resources/Handshake.png",
     "Obsidian/_resources",
     "Obsidian/Storia/Rivoluzione Francese.md",
-    "Obsidian/Storia/Indipendenza americana.md",
     "Obsidian/Storia",
     "Obsidian/Sistemi e Reti",
     "Obsidian/Italiano",
