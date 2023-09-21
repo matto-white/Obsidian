@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9bf832e8000d1dbe",
+        "id": "4ac0764c38e0cd8f",
         "type": "tabs",
         "children": [
           {
-            "id": "3873e420a63ac633",
+            "id": "295ae8841205b407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e Reti/Esercizi.md",
+                "file": "Italiano/Leopardi/All'Italia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e Reti/Esercizi.md",
+                "file": "Italiano/Leopardi/All'Italia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e Reti/Esercizi.md",
+                "file": "Italiano/Leopardi/All'Italia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e Reti/Esercizi.md"
+                "file": "Italiano/Leopardi/All'Italia.md"
               }
             }
           },
@@ -154,11 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3873e420a63ac633",
+  "active": "295ae8841205b407",
   "lastOpenFiles": [
-    "GPOI/Microeconomia.md",
-    "Sistemi e Reti/Esercizi.md",
     "Italiano/Leopardi/Leopardi.md",
+    "Italiano/Leopardi/All'Italia.md",
+    "Sistemi e Reti/Esercizi.md",
+    "GPOI/Microeconomia.md",
     "Italiano/Leopardi/Poesie.md",
     "Italiano/Leopardi/La sera del dì di festa.md",
     "Italiano/Promessi Sposi.md",
@@ -193,7 +194,6 @@
     "Obsidian/_resources",
     "Obsidian/Storia/Rivoluzione Francese.md",
     "Obsidian/Storia/Indipendenza americana.md",
-    "Obsidian/Storia/Date.md",
     "Obsidian/Storia",
     "Obsidian/Sistemi e Reti",
     "Obsidian/Italiano",
