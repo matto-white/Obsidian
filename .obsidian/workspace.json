@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "875bff691dc2146e",
+            "id": "5becd066d974c77d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "875bff691dc2146e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storia/Cap. 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Cap. 7.md",
+                "file": "Storia/Cap. 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Cap. 7.md",
+                "file": "Storia/Cap. 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Cap. 7.md"
+                "file": "Storia/Cap. 9.md"
               }
             }
           },
@@ -156,6 +169,8 @@
   },
   "active": "875bff691dc2146e",
   "lastOpenFiles": [
+    "Storia/Cap. 7.md",
+    "Storia/Cap. 9.md",
     "Italiano/Leopardi/Canti.md",
     "Italiano/Leopardi/Poesie.md",
     "La sera del dì di festa.md",
@@ -164,7 +179,6 @@
     "Sistemi e Reti/Esercizi.md",
     "GPOI/Microeconomia.md",
     "Italiano/Promessi Sposi.md",
-    "Storia/Cap. 7.md",
     "Storia/Napoleone.md",
     "Storia/Date Napoleone.md",
     "Storia/Capitoli Storia Estate.md",
@@ -193,7 +207,6 @@
     "Obsidian/_resources/TCP Header.png",
     "Obsidian/_resources/Handshake.png",
     "Obsidian/_resources",
-    "Obsidian/Storia/Rivoluzione Francese.md",
     "Obsidian/Storia",
     "Obsidian/Sistemi e Reti",
     "Obsidian/Italiano",
