@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Cap. 9.md",
+                "file": "Storia/Italia.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Cap. 9.md",
+                "file": "Storia/Italia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Cap. 9.md",
+                "file": "Storia/Italia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Cap. 9.md"
+                "file": "Storia/Italia.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "875bff691dc2146e",
   "lastOpenFiles": [
-    "Storia/Cap. 7.md",
     "Storia/Cap. 9.md",
+    "Storia/Italia.md",
+    "Storia/Cap. 7.md",
     "Italiano/Leopardi/Canti.md",
     "Italiano/Leopardi/Poesie.md",
     "La sera del dì di festa.md",
@@ -200,7 +201,6 @@
     "Storia/Rivoluzione Francese.md",
     "README.md",
     "Storia/Indipendenza americana.md",
-    "Storia/Date.md",
     "Obsidian/_resources/tcp_data_transfer.png",
     "Obsidian/_resources/tcp_data_transfer 1.png",
     "Obsidian/_resources/TCP.pdf",
