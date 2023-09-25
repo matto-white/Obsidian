@@ -9,3 +9,4 @@ Tra il 1820 e il 1821, insurrezioni ebbero luogo in diverse parti d'Italia, incl
 Nel 1831, la Carboneria organizzò nuovi moti liberali in Italia, coinvolgendo ceti borghesi e parti della popolazione. Ma anche questi furono soffocati dall'azione militare austriaca e dalla mancanza di intervento dalla Francia.
 
 In conclusione, sebbene le insurrezioni del 1820-1821 e del 1831 non abbiano portato ai risultati sperati, rappresentarono un punto di svolta, dimostrando l'emergere di un desiderio diffuso di un governo costituzionale in Italia.
+
