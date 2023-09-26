@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c3065fb0588398fc",
+        "id": "f14c1ab9ff000f9e",
         "type": "tabs",
         "children": [
           {
-            "id": "4e8d5437b7a5e852",
+            "id": "079322020a440aad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Leopardi/Leopardi.md",
+                "file": "GPOI/Microeconomia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Leopardi/Leopardi.md",
+                "file": "GPOI/Microeconomia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Leopardi/Leopardi.md",
+                "file": "GPOI/Microeconomia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Leopardi/Leopardi.md"
+                "file": "GPOI/Microeconomia.md"
               }
             }
           },
@@ -154,18 +154,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e8d5437b7a5e852",
+  "active": "079322020a440aad",
   "lastOpenFiles": [
+    "Chart Tue Sep 26 2023.png",
+    "GPOI/Microeconomia.md",
+    "2023-09-26.md",
+    "Untitled.canvas",
+    "Storia/Cap. 7.md",
+    "GPOI/Untitled.md",
+    "Italiano/Leopardi/Leopardi.md",
     "Storia/Italia.md",
     "Storia/Cap. 9.md",
-    "Storia/Cap. 7.md",
     "Italiano/Leopardi/Canti.md",
     "Italiano/Leopardi/Poesie.md",
     "La sera del dì di festa.md",
     "Italiano/Leopardi/La sera del dì di festa.md",
-    "Italiano/Leopardi/Leopardi.md",
     "Sistemi e Reti/Esercizi.md",
-    "GPOI/Microeconomia.md",
     "Italiano/Promessi Sposi.md",
     "Storia/Napoleone.md",
     "Storia/Date Napoleone.md",
@@ -185,9 +189,6 @@
     "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.sync-conflict-20230522-170202-C5LEHAY.md",
     "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.sync-conflict-20230522-125710-C5LEHAY.md",
     "conflict-files-obsidian-git.md",
-    "Storia/Rivoluzione Francese.md",
-    "README.md",
-    "Storia/Indipendenza americana.md",
     "Obsidian/_resources/tcp_data_transfer.png",
     "Obsidian/_resources/tcp_data_transfer 1.png",
     "Obsidian/_resources/TCP.pdf",
