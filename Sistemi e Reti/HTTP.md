@@ -1,0 +1,1 @@
+è il protocollo che regola lo scambio di messaggi tra il web server e il web client. è un protocollo basato sul modello client server
