@@ -22,3 +22,20 @@ Connect
 2 tipi di messaggi:
 	Http request
 	Http response
+
+### HTTP request
+composto da 3 parti:
+	Riga di richiesta
+	Sezione header
+	Body
+### HTTP response
+composto da 3 parti:
+	Riga di stato
+	Sezione header
+	Body
+
+1) Riga di stato contiene un codice a 3 cifre
+	200 Ok
+	404 Not found
+	400 Wrong request
+	500 Internal server error
