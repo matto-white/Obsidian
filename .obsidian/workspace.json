@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f77a7c5d69144930",
+        "id": "6d45c7ffff0cb5e1",
         "type": "tabs",
         "children": [
           {
-            "id": "55fbd8c3943166dd",
+            "id": "7754935a433366ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e Reti/HTTP.md",
+                "file": "Italiano/Leopardi/Leopardi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c5203a48ae0f689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/Leopardi/Alla sua donna.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e Reti/HTTP.md",
+                "file": "Italiano/Leopardi/Alla sua donna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e Reti/HTTP.md",
+                "file": "Italiano/Leopardi/Alla sua donna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e Reti/HTTP.md"
+                "file": "Italiano/Leopardi/Alla sua donna.md"
               }
             }
           },
@@ -154,8 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55fbd8c3943166dd",
+  "active": "0c5203a48ae0f689",
   "lastOpenFiles": [
+    "Italiano/Leopardi/Leopardi.md",
+    "Italiano/Leopardi/Alla sua donna.md",
+    "Italiano/Leopardi/Poesie.md",
+    "Storia/Cap. 9.md",
     "Sistemi e Reti/HTTP.md",
     "GPOI/Microeconomia.md",
     "Chart Tue Sep 26 2023.png",
@@ -163,11 +180,8 @@
     "Untitled.canvas",
     "Storia/Cap. 7.md",
     "GPOI/Untitled.md",
-    "Italiano/Leopardi/Leopardi.md",
     "Storia/Italia.md",
-    "Storia/Cap. 9.md",
     "Italiano/Leopardi/Canti.md",
-    "Italiano/Leopardi/Poesie.md",
     "La sera del dì di festa.md",
     "Italiano/Leopardi/La sera del dì di festa.md",
     "Sistemi e Reti/Esercizi.md",
@@ -189,7 +203,6 @@
     "Italiano/Alessandro Manzoni.sync-conflict-20230517-160724-C5LEHAY.md",
     "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.sync-conflict-20230522-170202-C5LEHAY.md",
     "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.sync-conflict-20230522-125710-C5LEHAY.md",
-    "conflict-files-obsidian-git.md",
     "Obsidian/_resources/tcp_data_transfer.png",
     "Obsidian/_resources/tcp_data_transfer 1.png",
     "Obsidian/_resources/TCP.pdf",

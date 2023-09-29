@@ -22,7 +22,7 @@ Incomincia ad appassionarsi del tema politico
 Comincia ad osservare la figlia del cocchiere di casa, Teresa. Se ne innamora, ma la ragazza muore lo stesso anno, avvenimento che turba molto Giacomo.
 Arriva Giordani in visita, e va via definendo Giacomo un colosso.
 Compone "All'Italia" e "Per il monumento di Dante"
-1819 - Comincia a scrivere le prime [[Poesie | Poesie]], dove comincia a riconoscersi una sua scrittura.
+1819 - Comincia a scrivere le prime [[Poesie |Poesie]], dove comincia a riconoscersi una sua scrittura.
 Decide di girare il mondo ma gli serviva il passaporto, solo che doveva essere maggiorenne. Convince un amico di famiglia a fargli fare i documenti. Il padre lo scopre e gli fa la predica, e leopardi decide di rinunciarci, ma scopre che il padre ha chiesto al direttore della polizia di non far arrivare il passaporto. Va in crisi.
 
-Va a Roma e ne rimane deluso perché si aspettava la grande Roma che leggeva nei libri di Storia. Conosce molti stranieri, tra cui Niebuhr (Ambasciatore di Prussia). Ad aprile torna a casa. (Fino a pagina 75 )
+Va a Roma e ne rimane deluso perché si aspettava la grande Roma che leggeva nei libri di Storia. Conosce molti stranieri, tra cui Niebuhr (Ambasciatore di Prussia). Ad aprile torna a casa. Inizia un periodo di silenzio poetico che dura 5 anni, ma prima di finire il primo periodo poetico scrive "[[Alla sua donna]]".
