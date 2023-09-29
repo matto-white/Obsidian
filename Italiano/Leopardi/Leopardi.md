@@ -1,7 +1,14 @@
-#Leopardi
+---
+tags:
+  - Leopardi
+aliases:
+  - Giacomo
+  - Leopardi
+Last Update: 29/09/2023 9:50
+---
+
 1798 - Nasce a Recanati
 Monaldo Leopardi    Adelaide Antici
-
 
 ## Il suo paese
 Nasce a Recanati (Stato pontificio) nel 1798
