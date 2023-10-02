@@ -38,3 +38,29 @@ Analisi delle situazioni di non equilibrio
 	![[Microeconomia 2023-10-02 10.25.00.excalidraw]]
 2) Eccesso di domanda
 	![[Microeconomia 2023-10-02 10.32.22.excalidraw]]
+
+
+Esercizio: La curva estiva della domanda delle arance...q=50-p/2
+50-p/2=q
+p/2=50-q
+p=100-2q
+q   p
+0   100
+1    98
+2    96
+
+```chart
+type: line
+labels: [0, 5, 50, 100]
+series:
+  - title: 
+    data: [100, 90, 0]
+tension: 0.2
+width: 80%
+labelColors: false
+fill: false
+beginAtZero: true
+bestFit: false
+bestFitTitle: undefined
+bestFitNumber: 0
+```

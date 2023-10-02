@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4a56230024100544",
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +158,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b58a8ce20e397b2",
+  "active": "5e4b7df608794846",
   "lastOpenFiles": [
     "Excalidraw/Microeconomia 2023-10-02 10.40.18.excalidraw.md",
     "GPOI/Microeconomia.md",
