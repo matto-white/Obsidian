@@ -21,5 +21,20 @@ Profitto = ricavi - costi di produzione
 Prezzo del petrolio aumenta, come cambia la curva? Si sposta verso sinistra
 
 Legge della domanda e dell'offerta permette di determinare il punto di equilibrio di mercato di un bene (Prezzo di equilibrio, quantità prodotta)
-![[Chart Tue Sep 26 2023.png|800]]
 
+
+Quattro casi:
+1) La domanda aumenta
+	![[Microeconomia 2023-10-02 10.12.30.excalidraw]]
+2) L'offerta'diminuisce
+	![[Microeconomia 2023-10-02 10.17.15.excalidraw]]
+3) La domanda diminuisce
+	![[Microeconomia 2023-10-02 10.19.09.excalidraw]]
+4) L'offerta diminuisce
+	![[Microeconomia 2023-10-02 10.22.24.excalidraw]]
+
+Analisi delle situazioni di non equilibrio
+1) Ipotizziamo che il prezzo sia P1 > P* -> Mercato in cui vi è un eccesso di offerta
+	![[Microeconomia 2023-10-02 10.25.00.excalidraw]]
+2) Eccesso di domanda
+	![[Microeconomia 2023-10-02 10.32.22.excalidraw]]
