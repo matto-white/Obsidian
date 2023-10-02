@@ -33,3 +33,5 @@ Compone "All'Italia" e "Per il monumento di Dante"
 Decide di girare il mondo ma gli serviva il passaporto, solo che doveva essere maggiorenne. Convince un amico di famiglia a fargli fare i documenti. Il padre lo scopre e gli fa la predica, e leopardi decide di rinunciarci, ma scopre che il padre ha chiesto al direttore della polizia di non far arrivare il passaporto. Va in crisi.
 
 Va a Roma e ne rimane deluso perché si aspettava la grande Roma che leggeva nei libri di Storia. Conosce molti stranieri, tra cui Niebuhr (Ambasciatore di Prussia). Ad aprile torna a casa. Inizia un periodo di silenzio poetico che dura 5 anni, ma prima di finire il primo periodo poetico scrive "[[Alla sua donna]]".
+
+1826 - Pubblica una prima versione de "Le operette morali". Nell'ultima edizione (1832) sono presenti 24 testi

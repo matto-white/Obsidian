@@ -1,5 +1,5 @@
 Scritta appena torna a Recanati.
-Dal punto di vista metrico è un esperimento. è una canzone per via dell'alternanza di endecasillabi e settenari, è divisa in strofe di 11 versi (Normalmente si andava dai 14 al 20 versi), per un totale di 55 versi (5 stanze). L'alternanza di endecasillabi e settenari è diverso nelle varie stanze (Rompe la metrica per poter dare più importanza al contenuto).
+Dal punto di vista metrico è un esperimento. è una canzone per via dell'alternanza di endecasillabi e settenari, è divisa in strofe di 11 versi (Normalmente si andava dai 14 ai 20 versi), per un totale di 55 versi (5 stanze). L'alternanza di endecasillabi e settenari è diverso nelle varie stanze (Rompe la metrica per poter dare più importanza al contenuto).
 
 ### La Poesia
 Cara beltà: Chi è la donna? La bellezza

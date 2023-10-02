@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Leopardi/Alla sua donna.md",
+                "file": "Italiano/Leopardi/Leopardi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Leopardi/Alla sua donna.md",
+                "file": "Italiano/Leopardi/Leopardi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Leopardi/Alla sua donna.md"
+                "file": "Italiano/Leopardi/Leopardi.md"
               }
             }
           },
@@ -159,6 +158,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "whisper:Open recording controls": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c5203a48ae0f689",
+  "active": "7754935a433366ec",
   "lastOpenFiles": [
-    "Italiano/Leopardi/Leopardi.md",
     "Italiano/Leopardi/Alla sua donna.md",
+    "Italiano/Leopardi/Leopardi.md",
     "Italiano/Leopardi/Poesie.md",
     "Storia/Cap. 9.md",
     "Sistemi e Reti/HTTP.md",
