@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "369dfcc0148519a1",
+        "id": "142635da0fbe45de",
         "type": "tabs",
         "children": [
           {
-            "id": "7b58a8ce20e397b2",
+            "id": "efacf7b7ec26499c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPOI/Microeconomia.md",
+                "file": "Sistemi e Reti/Nomi di dominio e DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4a56230024100544",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPOI/Microeconomia.md",
+                "file": "Sistemi e Reti/Nomi di dominio e DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPOI/Microeconomia.md",
+                "file": "Sistemi e Reti/Nomi di dominio e DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPOI/Microeconomia.md"
+                "file": "Sistemi e Reti/Nomi di dominio e DNS.md"
               }
             }
           },
@@ -158,10 +157,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e4b7df608794846",
+  "active": "efacf7b7ec26499c",
   "lastOpenFiles": [
-    "Excalidraw/Microeconomia 2023-10-02 10.40.18.excalidraw.md",
+    "Sistemi e Reti/Nomi di dominio e DNS.md",
     "GPOI/Microeconomia.md",
+    "Excalidraw/Microeconomia 2023-10-02 10.40.18.excalidraw.md",
     "Excalidraw/Microeconomia 2023-10-02 10.32.22.excalidraw.md",
     "Excalidraw/Microeconomia 2023-10-02 10.25.00.excalidraw.md",
     "Excalidraw/Microeconomia 2023-10-02 10.22.24.excalidraw.md",
@@ -188,7 +188,6 @@
     "Sistemi e Reti/Esercizi.md",
     "Italiano/Promessi Sposi.md",
     "Storia/Napoleone.md",
-    "Storia/Date Napoleone.md",
     "GPOI/offerta.png",
     "GPOI/offerta.png.crdownload",
     "GPOI/domanda.png",
