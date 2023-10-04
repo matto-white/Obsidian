@@ -1,1 +1,3 @@
 Fare schema dei primi 3 paragrafi
+...
+Il presidente del Messico mette in sieme un esercito, riceve appoggio dalgi stati uniti, riprende il controllo della situazione e Massimiliano d'Asburgo viene fucilato.
