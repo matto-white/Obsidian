@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "fd4a34a6b06b7434",
+        "id": "cd2e03f0a3883f20",
         "type": "tabs",
         "children": [
           {
-            "id": "ce246c164d2d239b",
+            "id": "6f70add983055876",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Cap. 11.md",
+                "file": "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6144b4183ad2dac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Cap. 11.md",
+                "file": "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Cap. 11.md",
+                "file": "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Cap. 11.md"
+                "file": "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md"
               }
             }
           },
@@ -156,10 +168,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce246c164d2d239b",
+  "active": "6f70add983055876",
   "lastOpenFiles": [
-    "Storia/Cap. 9 e 10.md",
+    "Italiano/Leopardi/Le operette morali.md",
+    "Italiano/Leopardi/Leopardi.md",
+    "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
+    "Italiano/Leopardi/leopardi_operette_morali.pdf",
+    "Italiano/Leopardi/Poesie.md",
+    "Italiano/Leopardi/Alla sua donna.md",
+    "Italiano/Leopardi/Canti.md",
     "Storia/Cap. 11.md",
+    "Storia/Cap. 9 e 10.md",
     "Sistemi e Reti/Nomi di dominio e DNS.md",
     "GPOI/Microeconomia.md",
     "Excalidraw/Microeconomia 2023-10-02 10.40.18.excalidraw.md",
@@ -172,9 +191,6 @@
     "Excalidraw/Microeconomia 2023-10-02 10.09.10.excalidraw.md",
     "Excalidraw/Drawing 2023-10-02 10.08.16.excalidraw.md",
     "Excalidraw",
-    "Italiano/Leopardi/Alla sua donna.md",
-    "Italiano/Leopardi/Leopardi.md",
-    "Italiano/Leopardi/Poesie.md",
     "Sistemi e Reti/HTTP.md",
     "Chart Tue Sep 26 2023.png",
     "2023-09-26.md",
@@ -182,11 +198,7 @@
     "Storia/Cap. 7.md",
     "GPOI/Untitled.md",
     "Storia/Italia.md",
-    "Italiano/Leopardi/Canti.md",
     "La sera del dì di festa.md",
-    "Italiano/Leopardi/La sera del dì di festa.md",
-    "Sistemi e Reti/Esercizi.md",
-    "Italiano/Promessi Sposi.md",
     "GPOI/offerta.png",
     "GPOI/offerta.png.crdownload",
     "GPOI/domanda.png",
@@ -200,7 +212,6 @@
     "Obsidian/_resources/Handshake.png",
     "Obsidian/_resources",
     "Obsidian/Storia",
-    "Obsidian/Sistemi e Reti",
-    "Obsidian/Italiano"
+    "Obsidian/Sistemi e Reti"
   ]
 }

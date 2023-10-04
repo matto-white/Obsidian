@@ -34,4 +34,4 @@ Decide di girare il mondo ma gli serviva il passaporto, solo che doveva essere m
 
 Va a Roma e ne rimane deluso perché si aspettava la grande Roma che leggeva nei libri di Storia. Conosce molti stranieri, tra cui Niebuhr (Ambasciatore di Prussia). Ad aprile torna a casa. Inizia un periodo di silenzio poetico che dura 5 anni, ma prima di finire il primo periodo poetico scrive "[[Alla sua donna]]".
 
-1826 - Pubblica una prima versione de "Le operette morali". Nell'ultima edizione (1832) sono presenti 24 testi
+1826 - Pubblica una prima versione de [[Le operette morali|"Le operette morali"]]. Nell'ultima edizione (1832) sono presenti 24 testi
