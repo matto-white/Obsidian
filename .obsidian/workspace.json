@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "eb94d170e2b39377",
+        "id": "631de52800070193",
         "type": "tabs",
         "children": [
           {
-            "id": "b8a61d4dd44bb0de",
+            "id": "71284d92c4ee5476",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Cap. 11.md",
+                "file": "Italiano/Leopardi/Le operette morali.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01127cdbaac59927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Cap. 11.md",
+                "file": "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Cap. 11.md",
+                "file": "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Cap. 11.md"
+                "file": "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md"
               }
             }
           },
@@ -157,12 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b507df3364d966df",
+  "active": "01127cdbaac59927",
   "lastOpenFiles": [
-    "Storia/Cap. 9 e 10.md",
-    "Storia/Cap. 11.md",
-    "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
     "Italiano/Leopardi/Le operette morali.md",
+    "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
+    "Storia/Cap. 11.md",
+    "Storia/Cap. 9 e 10.md",
     "Italiano/Leopardi/Leopardi.md",
     "Italiano/Leopardi/leopardi_operette_morali.pdf",
     "Italiano/Leopardi/Poesie.md",
