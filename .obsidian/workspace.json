@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prussia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -157,7 +157,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58f2798abf836b00",
+  "active": "b507df3364d966df",
   "lastOpenFiles": [
     "Storia/Cap. 9 e 10.md",
     "Storia/Cap. 11.md",
