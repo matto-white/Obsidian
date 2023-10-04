@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Cap. 9 e 10.md",
+                "file": "Storia/Cap. 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "napoleone ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Cap. 9 e 10.md",
+                "file": "Storia/Cap. 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Cap. 9 e 10.md",
+                "file": "Storia/Cap. 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Cap. 9 e 10.md"
+                "file": "Storia/Cap. 11.md"
               }
             }
           },
@@ -157,8 +156,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58f2798abf836b00",
+  "active": "b8a61d4dd44bb0de",
   "lastOpenFiles": [
+    "Storia/Cap. 9 e 10.md",
     "Storia/Cap. 11.md",
     "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
     "Italiano/Leopardi/Le operette morali.md",
@@ -167,7 +167,6 @@
     "Italiano/Leopardi/Poesie.md",
     "Italiano/Leopardi/Alla sua donna.md",
     "Italiano/Leopardi/Canti.md",
-    "Storia/Cap. 9 e 10.md",
     "Sistemi e Reti/Nomi di dominio e DNS.md",
     "GPOI/Microeconomia.md",
     "Excalidraw/Microeconomia 2023-10-02 10.40.18.excalidraw.md",
