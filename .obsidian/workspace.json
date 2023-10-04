@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vienna",
+                "query": "napoleone ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8a61d4dd44bb0de",
+  "active": "58f2798abf836b00",
   "lastOpenFiles": [
     "Storia/Cap. 11.md",
     "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
