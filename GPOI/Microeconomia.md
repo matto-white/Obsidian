@@ -43,24 +43,24 @@ Analisi delle situazioni di non equilibrio
 Esercizio: La curva estiva della domanda delle arance...q=50-p/2
 50-p/2=q
 p/2=50-q
-p=100-2q
+p=100-2*q
 q   p
 0   100
 1    98
 2    96
 
-```chart
-type: line
-labels: [0, 5, 50, 100]
-series:
-  - title: 
-    data: [100, 90, 0]
-tension: 0.2
-width: 80%
-labelColors: false
-fill: false
-beginAtZero: true
-bestFit: false
-bestFitTitle: undefined
-bestFitNumber: 0
-```
+Esercizio 2: curva di domanda q = 60 -p/3 e la seguente curva di offerta p = 20 + 4*q
+1) trovare il punto di equilibrio
+2) supponendo che la curva di domanda a causa di un aumento del reddito dei consumatori aumenti, scrivere l'equazione della retta (e disegnarla) supponendo che il prezzo di equilibrio aumenti del 10%
+
+![[Microeconomia 2023-10-04 12.10.56.excalidraw]]
+
+domanda p=180 -q*3
+q    p
+0    180
+60    0
+
+offerta p = 20 + 4*q
+q    p
+0    20
+60    260

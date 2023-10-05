@@ -4,35 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "631de52800070193",
+        "id": "a0feb56c8c6a372d",
         "type": "tabs",
         "children": [
           {
-            "id": "71284d92c4ee5476",
+            "id": "52f4548d4e44a60b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Leopardi/Le operette morali.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01127cdbaac59927",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
+                "file": "GPOI/Microeconomia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "aae1857ca6354243",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76612f39ae154f87",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Microeconomia 2023-10-04 12.10.56.excalidraw.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
+                "file": "Excalidraw/Microeconomia 2023-10-04 12.10.56.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
+                "file": "Excalidraw/Microeconomia 2023-10-04 12.10.56.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md"
+                "file": "Excalidraw/Microeconomia 2023-10-04 12.10.56.excalidraw.md"
               }
             }
           },
@@ -169,10 +172,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01127cdbaac59927",
+  "active": "76612f39ae154f87",
   "lastOpenFiles": [
-    "Italiano/Leopardi/Le operette morali.md",
+    "GPOI/Microeconomia.md",
+    "Excalidraw/Microeconomia 2023-10-04 12.10.56.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-04 12.10.44.excalidraw.md",
     "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
+    "Italiano/Leopardi/Le operette morali.md",
     "Storia/Cap. 11.md",
     "Storia/Cap. 9 e 10.md",
     "Italiano/Leopardi/Leopardi.md",
@@ -181,7 +187,6 @@
     "Italiano/Leopardi/Alla sua donna.md",
     "Italiano/Leopardi/Canti.md",
     "Sistemi e Reti/Nomi di dominio e DNS.md",
-    "GPOI/Microeconomia.md",
     "Excalidraw/Microeconomia 2023-10-02 10.40.18.excalidraw.md",
     "Excalidraw/Microeconomia 2023-10-02 10.32.22.excalidraw.md",
     "Excalidraw/Microeconomia 2023-10-02 10.25.00.excalidraw.md",
@@ -199,7 +204,6 @@
     "Storia/Cap. 7.md",
     "GPOI/Untitled.md",
     "Storia/Italia.md",
-    "La sera del dì di festa.md",
     "GPOI/offerta.png",
     "GPOI/offerta.png.crdownload",
     "GPOI/domanda.png",
