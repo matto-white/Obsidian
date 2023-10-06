@@ -1,1 +1,0 @@
-tasso è al manicomio
