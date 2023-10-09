@@ -4,18 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "6b5bdac8d97aef7c",
+        "id": "c38cb80869c51ec0",
         "type": "tabs",
         "children": [
           {
-            "id": "5fc9989dd10a4a13",
+            "id": "099ebb2e672e59a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
+                "file": "GPOI/Guadagno.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9723adc85b720e55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f06f4fe8b6f9dfbe",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md"
               }
             }
           }
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
+                "file": "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
+                "file": "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Leopardi/Dialogo della natura e di un islandese.md"
+                "file": "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md"
               }
             }
           },
@@ -156,17 +172,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a2f85d9ae1f32c3",
+  "active": "f06f4fe8b6f9dfbe",
   "lastOpenFiles": [
-    "Italiano/Leopardi/Le operette morali.md",
+    "Excalidraw/Guadagno 2023-10-09 12.02.40.excalidraw.md",
+    "GPOI/Guadagno.md",
+    "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md",
+    "Excalidraw/Guadagno 2023-10-09 12.14.59.excalidraw.md",
+    "Excalidraw/Guadagno 2023-10-09 12.11.59.excalidraw.md",
+    "Excalidraw/Guadagno 2023-10-09 12.11.21.excalidraw.md",
+    "GPOI/Microeconomia.md",
     "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
+    "Italiano/Leopardi/Le operette morali.md",
     "Sistemi e Reti/Nomi di dominio e DNS.md",
     "Excalidraw/Nomi di dominio e DNS 2023-10-06 09.22.02.excalidraw.md",
     "Excalidraw/Nomi di dominio e DNS 2023-10-06 09.18.13.excalidraw.md",
     "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
     "Italiano/Leopardi/leopardi_operette_morali.pdf",
     "Italiano/Leopardi/Leopardi.md",
-    "GPOI/Microeconomia.md",
     "Excalidraw/Microeconomia 2023-10-04 12.10.56.excalidraw.md",
     "Excalidraw/Drawing 2023-10-04 12.10.44.excalidraw.md",
     "Storia/Cap. 11.md",
@@ -179,14 +201,8 @@
     "Excalidraw/Microeconomia 2023-10-02 10.25.00.excalidraw.md",
     "Excalidraw/Microeconomia 2023-10-02 10.22.24.excalidraw.md",
     "Excalidraw/Microeconomia 2023-10-02 10.19.09.excalidraw.md",
-    "Excalidraw/Microeconomia 2023-10-02 10.12.30.excalidraw.md",
-    "Excalidraw/Microeconomia 2023-10-02 10.17.15.excalidraw.md",
-    "Excalidraw/Microeconomia 2023-10-02 10.09.10.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-02 10.08.16.excalidraw.md",
     "Excalidraw",
-    "Sistemi e Reti/HTTP.md",
     "Chart Tue Sep 26 2023.png",
-    "2023-09-26.md",
     "Untitled.canvas",
     "GPOI/offerta.png",
     "GPOI/offerta.png.crdownload",
