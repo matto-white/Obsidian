@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Leopardi/Le operette morali.md",
+                "file": "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Leopardi/Le operette morali.md",
+                "file": "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Leopardi/Le operette morali.md",
+                "file": "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Leopardi/Le operette morali.md"
+                "file": "Italiano/Leopardi/Dialogo della natura e di un islandese.md"
               }
             }
           },
@@ -156,14 +156,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5fc9989dd10a4a13",
+  "active": "6a2f85d9ae1f32c3",
   "lastOpenFiles": [
+    "Italiano/Leopardi/Le operette morali.md",
+    "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
     "Sistemi e Reti/Nomi di dominio e DNS.md",
     "Excalidraw/Nomi di dominio e DNS 2023-10-06 09.22.02.excalidraw.md",
     "Excalidraw/Nomi di dominio e DNS 2023-10-06 09.18.13.excalidraw.md",
     "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
     "Italiano/Leopardi/leopardi_operette_morali.pdf",
-    "Italiano/Leopardi/Le operette morali.md",
     "Italiano/Leopardi/Leopardi.md",
     "GPOI/Microeconomia.md",
     "Excalidraw/Microeconomia 2023-10-04 12.10.56.excalidraw.md",
@@ -187,7 +188,6 @@
     "Chart Tue Sep 26 2023.png",
     "2023-09-26.md",
     "Untitled.canvas",
-    "Storia/Cap. 7.md",
     "GPOI/offerta.png",
     "GPOI/offerta.png.crdownload",
     "GPOI/domanda.png",

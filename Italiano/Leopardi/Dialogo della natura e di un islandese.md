@@ -1,0 +1,1 @@
+L'Islandese scappa dalla natura, ma la incontra (sotto forma di donna) in centr'Africa
