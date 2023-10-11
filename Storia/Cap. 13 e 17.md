@@ -6,4 +6,4 @@ E il governo sabaudo si trova davanti un paese molto diverso, soprattutto dal pu
 Fino al 1876 il governo viene gestito dalla destra storica
 
 brigantaggio
-annessione del lazio all'italia (presa di roma)
+annessione del lazio all'Italia (presa di roma)
