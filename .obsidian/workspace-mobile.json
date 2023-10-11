@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Date Napoleone.md",
+                "file": "Sistemi e Reti/Nomi di dominio e DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Storia/Date Napoleone.md",
+            "file": "Sistemi e Reti/Nomi di dominio e DNS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Storia/Date Napoleone.md",
+            "file": "Sistemi e Reti/Nomi di dominio e DNS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Storia/Date Napoleone.md"
+            "file": "Sistemi e Reti/Nomi di dominio e DNS.md"
           }
         }
       }
@@ -141,15 +141,40 @@
   },
   "active": "d7d0d78a65fdae7a",
   "lastOpenFiles": [
-    "Storia/Date.md",
     "Storia/Date Napoleone.md",
-    "Storia/Napoleone.md",
-    "Storia/Rivoluzione Francese.md",
-    "Storia/Indipendenza americana.md",
-    "Appunti storia.md",
-    "Italiano/Ultime lettere di Jacopo Ortis, Poesie, Sepolcri.md",
-    "Italiano/Ugo Foscolo.md",
-    "_resources/TCP.pdf",
-    "Sistemi e Reti/TCP.md"
+    "Excalidraw/Guadagno 2023-10-09 12.02.40.excalidraw.md",
+    "Italiano/Leopardi/Le operette morali.md",
+    "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
+    "GPOI/Guadagno.md",
+    "GPOI/offerta.png",
+    "Storia/Italia.md",
+    "Italiano/Leopardi/Canti.md",
+    "Italiano/Leopardi/leopardi_operette_morali.pdf",
+    "Excalidraw/Microeconomia 2023-10-02 10.19.09.excalidraw.md",
+    "Excalidraw/Nomi di dominio e DNS 2023-10-06 09.18.13.excalidraw.md",
+    "Sistemi e Reti/Nomi di dominio e DNS.md",
+    "Storia/Cap. 7.md",
+    "Excalidraw/Drawing 2023-10-04 12.10.44.excalidraw.md",
+    "Excalidraw/Microeconomia 2023-10-04 12.10.56.excalidraw.md",
+    "Sistemi e Reti/HTTP.md",
+    "Excalidraw/Guadagno 2023-10-09 12.11.21.excalidraw.md",
+    "Italiano/Leopardi/Poesie.md",
+    "Storia/Cap. 11.md",
+    "Chart Tue Sep 26 2023.png",
+    "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
+    "Excalidraw/Microeconomia 2023-10-02 10.40.18.excalidraw.md",
+    "Italiano/Leopardi/Alla sua donna.md",
+    "Sistemi e Reti/Esercizi.md",
+    "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md",
+    "Italiano/Leopardi/Leopardi.md",
+    "Excalidraw/Microeconomia 2023-10-02 10.12.30.excalidraw.md",
+    "GPOI/Microeconomia.md",
+    "Excalidraw/Microeconomia 2023-10-02 10.22.24.excalidraw.md",
+    "GPOI/domanda.png",
+    "Untitled.canvas",
+    "Italiano/Leopardi",
+    "GPOI",
+    "Excalidraw",
+    "_resources/TCP.pdf"
   ]
 }

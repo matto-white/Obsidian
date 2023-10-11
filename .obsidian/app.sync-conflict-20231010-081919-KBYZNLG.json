@@ -1,6 +1,6 @@
 {
   "readableLineLength": false,
-  "promptDelete": false,
+  "promptDelete": true,
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
     "editor:insert-embed",
