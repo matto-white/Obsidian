@@ -7,3 +7,7 @@ Fino al 1876 il governo viene gestito dalla destra storica
 
 brigantaggio
 annessione del lazio all'Italia (presa di roma)
+
+viene raggiunto il pareggio di bilancio, il governo (Destra storica) viene sfiduciato e Umberto I (figlio di Vittorio Emanuele II) da il potere del governo a De Pretis (Sinistra storica)
+
+Cauta democratizzazione: obbligo scolastico per i bambini fino alla 3 elementare
