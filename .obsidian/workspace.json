@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c38cb80869c51ec0",
+        "id": "75066cbe8d20109c",
         "type": "tabs",
         "children": [
           {
-            "id": "099ebb2e672e59a4",
+            "id": "10f860d729a28099",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPOI/Guadagno.md",
+                "file": "Storia/Cap. 13 e 17 - 2.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9723adc85b720e55",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f06f4fe8b6f9dfbe",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md"
               }
             }
           }
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md",
+                "file": "Storia/Cap. 13 e 17 - 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md",
+                "file": "Storia/Cap. 13 e 17 - 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md"
+                "file": "Storia/Cap. 13 e 17 - 2.md"
               }
             }
           },
@@ -162,7 +146,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "whisper:Open recording controls": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,10 +155,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f06f4fe8b6f9dfbe",
+  "active": "10f860d729a28099",
   "lastOpenFiles": [
-    "Excalidraw/Guadagno 2023-10-09 12.02.40.excalidraw.md",
+    "Storia/Cap. 13 e 17 - 2.md",
     "GPOI/Guadagno.md",
+    "Excalidraw/Guadagno 2023-10-09 12.02.40.excalidraw.md",
     "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md",
     "Excalidraw/Guadagno 2023-10-09 12.14.59.excalidraw.md",
     "Excalidraw/Guadagno 2023-10-09 12.11.59.excalidraw.md",
@@ -200,7 +184,6 @@
     "Excalidraw/Microeconomia 2023-10-02 10.32.22.excalidraw.md",
     "Excalidraw/Microeconomia 2023-10-02 10.25.00.excalidraw.md",
     "Excalidraw/Microeconomia 2023-10-02 10.22.24.excalidraw.md",
-    "Excalidraw/Microeconomia 2023-10-02 10.19.09.excalidraw.md",
     "Excalidraw",
     "Chart Tue Sep 26 2023.png",
     "Untitled.canvas",
