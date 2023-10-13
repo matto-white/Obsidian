@@ -15,3 +15,14 @@ costi che variano di prezzo a seconda della quantità utilizzata
 
 ### Ricavi costi:
 ![[Guadagno 2023-10-09 12.17.30.excalidraw]]
+
+
+Esercizio:
+R = 2Q -> P = 2 (R = PQ)
+C = 1/2 + Q^2
+
+Q    R    C
+0    0    1/2
+1    2     3/2
+3    6    19/2
+![[Guadagno 2023-10-11 12.13.49.excalidraw]]
