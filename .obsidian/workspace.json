@@ -35,14 +35,26 @@
             "id": "4e17c25f19ce5313",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Italiano/Leopardi/leopardi_operette_morali.pdf"
+                "file": "Italiano/Leopardi/Poesie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a6c47ac891c3203",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Leopardi/leopardi_operette_morali.pdf",
+                "file": "Italiano/Leopardi/Poesie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Leopardi/leopardi_operette_morali.pdf",
+                "file": "Italiano/Leopardi/Poesie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Leopardi/leopardi_operette_morali.pdf"
+                "file": "Italiano/Leopardi/Poesie.md"
               }
             }
           },
@@ -178,11 +190,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e17c25f19ce5313",
+  "active": "9a6c47ac891c3203",
   "lastOpenFiles": [
-    "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
-    "Italiano/Leopardi/leopardi_operette_morali.pdf",
+    "Italiano/Leopardi/Canti.md",
     "Italiano/Leopardi/Le operette morali.md",
+    "Italiano/Leopardi/Poesie.md",
+    "Italiano/Leopardi/Leopardi.md",
+    "Italiano/Leopardi/leopardi_operette_morali.pdf",
+    "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
     "GPOI/Guadagno.md",
     "Excalidraw/Guadagno 2023-10-11 12.13.49.excalidraw.md",
     "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md",
@@ -198,14 +213,11 @@
     "Excalidraw/Nomi di dominio e DNS 2023-10-06 09.22.02.excalidraw.md",
     "Excalidraw/Nomi di dominio e DNS 2023-10-06 09.18.13.excalidraw.md",
     "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
-    "Italiano/Leopardi/Leopardi.md",
     "Excalidraw/Microeconomia 2023-10-04 12.10.56.excalidraw.md",
     "Excalidraw/Drawing 2023-10-04 12.10.44.excalidraw.md",
     "Storia/Cap. 11.md",
     "Storia/Cap. 9 e 10.md",
-    "Italiano/Leopardi/Poesie.md",
     "Italiano/Leopardi/Alla sua donna.md",
-    "Italiano/Leopardi/Canti.md",
     "Excalidraw/Microeconomia 2023-10-02 10.40.18.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
