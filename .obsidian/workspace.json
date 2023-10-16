@@ -4,38 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "c37cfeefed3b0f04",
+        "id": "886d1fd0f6a26f75",
         "type": "tabs",
         "children": [
           {
-            "id": "a32f9d24dfdee7e2",
+            "id": "8a31d674afd8d900",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPOI/Guadagno.md",
+                "file": "Italiano/Leopardi/Le operette morali.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "3c9d9ef3d81ebc25",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "11fad101c032a70e",
+            "id": "6e2e25defb8ec145",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Guadagno 2023-10-11 12.13.49.excalidraw.md"
+                "file": "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e17c25f19ce5313",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Italiano/Leopardi/leopardi_operette_morali.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Guadagno 2023-10-11 12.13.49.excalidraw.md",
+                "file": "Italiano/Leopardi/leopardi_operette_morali.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Guadagno 2023-10-11 12.13.49.excalidraw.md",
+                "file": "Italiano/Leopardi/leopardi_operette_morali.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Guadagno 2023-10-11 12.13.49.excalidraw.md"
+                "file": "Italiano/Leopardi/leopardi_operette_morali.pdf"
               }
             }
           },
@@ -171,8 +178,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "11fad101c032a70e",
+  "active": "4e17c25f19ce5313",
   "lastOpenFiles": [
+    "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
+    "Italiano/Leopardi/leopardi_operette_morali.pdf",
+    "Italiano/Leopardi/Le operette morali.md",
     "GPOI/Guadagno.md",
     "Excalidraw/Guadagno 2023-10-11 12.13.49.excalidraw.md",
     "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md",
@@ -184,13 +194,10 @@
     "Excalidraw/Guadagno 2023-10-09 12.11.59.excalidraw.md",
     "Excalidraw/Guadagno 2023-10-09 12.11.21.excalidraw.md",
     "GPOI/Microeconomia.md",
-    "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
-    "Italiano/Leopardi/Le operette morali.md",
     "Sistemi e Reti/Nomi di dominio e DNS.md",
     "Excalidraw/Nomi di dominio e DNS 2023-10-06 09.22.02.excalidraw.md",
     "Excalidraw/Nomi di dominio e DNS 2023-10-06 09.18.13.excalidraw.md",
     "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
-    "Italiano/Leopardi/leopardi_operette_morali.pdf",
     "Italiano/Leopardi/Leopardi.md",
     "Excalidraw/Microeconomia 2023-10-04 12.10.56.excalidraw.md",
     "Excalidraw/Drawing 2023-10-04 12.10.44.excalidraw.md",
@@ -200,7 +207,6 @@
     "Italiano/Leopardi/Alla sua donna.md",
     "Italiano/Leopardi/Canti.md",
     "Excalidraw/Microeconomia 2023-10-02 10.40.18.excalidraw.md",
-    "Excalidraw/Microeconomia 2023-10-02 10.32.22.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
     "GPOI/offerta.png",
