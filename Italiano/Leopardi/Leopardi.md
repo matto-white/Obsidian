@@ -5,6 +5,7 @@ aliases:
   - Giacomo
   - Leopardi
 Last Update: 29/09/2023 9:50
+excalidraw-plugin:
 ---
 
 1798 - Nasce a Recanati
