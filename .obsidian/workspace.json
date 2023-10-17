@@ -28,9 +28,21 @@
                 "file": "Italiano/Leopardi/leopardi_operette_morali.pdf"
               }
             }
+          },
+          {
+            "id": "958ba5eb041a18fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Leopardi/leopardi_operette_morali.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Leopardi/leopardi_operette_morali.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Leopardi/leopardi_operette_morali.pdf"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -166,10 +178,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "71242cfd3ae7e009",
+  "active": "958ba5eb041a18fb",
   "lastOpenFiles": [
-    "Italiano/Leopardi/Leopardi.md",
     "Italiano/Leopardi/leopardi_operette_morali.pdf",
+    "conflict-files-obsidian-git.md",
+    "Italiano/Leopardi/Leopardi.md",
     "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
     "Italiano/Leopardi/Le operette morali.md",
     "GPOI/Guadagno.md",
@@ -194,7 +207,6 @@
     "Italiano/Leopardi/Poesie.md",
     "Italiano/Leopardi/Alla sua donna.md",
     "Italiano/Leopardi/Canti.md",
-    "Excalidraw/Microeconomia 2023-10-02 10.40.18.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
     "GPOI/offerta.png",
