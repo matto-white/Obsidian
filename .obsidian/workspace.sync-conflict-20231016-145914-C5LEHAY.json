@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f12dd34a75a8bad",
+        "id": "474b1f17084c40a1",
         "type": "tabs",
         "children": [
           {
-            "id": "08d3bdb2d895b763",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Italiano/Leopardi/Poesie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdf17b05b4acdbda",
+            "id": "93f32e006474525c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Leopardi/Poesie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Leopardi/Poesie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Italiano/Leopardi/Poesie.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,19 +147,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08d3bdb2d895b763",
+  "active": "93f32e006474525c",
   "lastOpenFiles": [
-    "Italiano/Leopardi/G.A.Levi_Leopardi. Una biografia per immagini.pdf",
     "Italiano/Leopardi/Poesie.md",
-    "Italiano/Leopardi/leopardi_operette_morali.pdf",
     "Italiano/Leopardi/Leopardi.md",
-    "Storia/Appunti interrogazione pellegrino.md",
-    "Storia/Cap. 11.md",
-    "Storia/Cap. 9 e 10.md",
-    "Storia/Cap. 7.md",
-    "conflict-files-obsidian-git.md",
-    "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
     "Italiano/Leopardi/Le operette morali.md",
+    "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
+    "Italiano/Leopardi/Canti.md",
+    "Italiano/Leopardi/leopardi_operette_morali.pdf",
     "GPOI/Guadagno.md",
     "Excalidraw/Guadagno 2023-10-11 12.13.49.excalidraw.md",
     "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md",
@@ -193,6 +172,10 @@
     "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
     "Excalidraw/Microeconomia 2023-10-04 12.10.56.excalidraw.md",
     "Excalidraw/Drawing 2023-10-04 12.10.44.excalidraw.md",
+    "Storia/Cap. 11.md",
+    "Storia/Cap. 9 e 10.md",
+    "Italiano/Leopardi/Alla sua donna.md",
+    "Excalidraw/Microeconomia 2023-10-02 10.40.18.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
     "GPOI/offerta.png",
@@ -207,6 +190,7 @@
     "Obsidian/_resources/TCP Header.png",
     "Obsidian/_resources/Handshake.png",
     "Obsidian/_resources",
-    "Obsidian/Storia"
+    "Obsidian/Storia",
+    "Obsidian/Sistemi e Reti"
   ]
 }

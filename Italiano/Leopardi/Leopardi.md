@@ -36,3 +36,5 @@ Decide di girare il mondo ma gli serviva il passaporto, solo che doveva essere m
 Va a Roma e ne rimane deluso perché si aspettava la grande Roma che leggeva nei libri di Storia. Conosce molti stranieri, tra cui Niebuhr (Ambasciatore di Prussia). Ad aprile torna a casa. Inizia un periodo di silenzio poetico che dura 5 anni, ma prima di finire il primo periodo poetico scrive "[[Alla sua donna]]".
 
 1826 - Pubblica una prima versione de [[Le operette morali|"Le operette morali"]]. Nell'ultima edizione (1832) sono presenti 24 testi
+
+Se ne va da Recanati e va a Milano, Firenze (Dove conosce Manzoni)..., ma non riesce a trovarsi un lavoro stabile. Viene ospitato da vari amici, e da lezioni private di Latino. Va a trovare una cameriera che lavorava da loro quando era ragazzo. Scrive Stella. Ogni tanto torna a Recanati. Firenze non gli piace come clima, e quindi trova come soluzione (per non andare troppo lontano da Firenze) di andare ad abitare a Pisa (che si rivela un ottimo posto, qui riprende a scrivere poesie.
