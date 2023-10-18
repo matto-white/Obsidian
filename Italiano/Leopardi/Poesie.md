@@ -6,5 +6,5 @@
 - La sera del dì di festa
 
 ## Grandi Idilli
-- Il Risorgimento
+- ![[Il Risorgimento]]
 - 
