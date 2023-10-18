@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "753b698b4f011ad7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9cdbc7396fb14283",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "6b7eedd9156bb518",
         "type": "tabs",
         "children": [
@@ -58,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af2259da20f9ea8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/Leopardi/Il Risorgimento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
+                "file": "Italiano/Leopardi/Il Risorgimento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
+                "file": "Italiano/Leopardi/Il Risorgimento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md"
+                "file": "Italiano/Leopardi/Il Risorgimento.md"
               }
             }
           },
@@ -196,15 +190,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cdbc7396fb14283",
+  "active": "af2259da20f9ea8c",
   "lastOpenFiles": [
-    "Storia/Napoleone.sync-conflict-20230606-112950-C5LEHAY.md",
+    "Italiano/Leopardi/Le operette morali.md",
+    "Storia/Cap. 13 e 17.md",
     "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
+    "Storia/Napoleone.sync-conflict-20230606-112950-C5LEHAY.md",
     "Italiano/Leopardi/Il Risorgimento.md",
     "conflict-files-obsidian-git.md",
     "Italiano/Leopardi/leopardi_canti.pdf",
     "Italiano/Leopardi/Poesie.md",
-    "Storia/Cap. 13 e 17.md",
     "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
     "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
     "Italiano/Leopardi/Canti.md",
@@ -215,7 +210,6 @@
     "Storia/Cap. 11.md",
     "Storia/Cap. 9 e 10.md",
     "Storia/Cap. 7.md",
-    "Italiano/Leopardi/Le operette morali.md",
     "GPOI/Guadagno.md",
     "Excalidraw/Guadagno 2023-10-11 12.13.49.excalidraw.md",
     "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md",
