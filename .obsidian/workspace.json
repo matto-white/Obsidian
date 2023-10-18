@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6eb150ae99ef983c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6b7eedd9156bb518",
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Leopardi/Il Risorgimento.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Leopardi/Il Risorgimento.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Leopardi/Il Risorgimento.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -196,10 +209,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cdbc7396fb14283",
+  "active": "6eb150ae99ef983c",
   "lastOpenFiles": [
-    "Italiano/Leopardi/leopardi_canti.pdf",
     "Italiano/Leopardi/Il Risorgimento.md",
+    "conflict-files-obsidian-git.md",
+    "Italiano/Leopardi/leopardi_canti.pdf",
     "Italiano/Leopardi/Poesie.md",
     "Storia/Cap. 13 e 17.md",
     "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
@@ -212,7 +226,6 @@
     "Storia/Cap. 11.md",
     "Storia/Cap. 9 e 10.md",
     "Storia/Cap. 7.md",
-    "conflict-files-obsidian-git.md",
     "Italiano/Leopardi/Le operette morali.md",
     "GPOI/Guadagno.md",
     "Excalidraw/Guadagno 2023-10-11 12.13.49.excalidraw.md",
