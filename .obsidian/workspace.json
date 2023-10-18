@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Leopardi/Il Risorgimento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eb150ae99ef983c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6b7eedd9156bb518",
@@ -139,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md"
               }
             }
           },
@@ -209,8 +196,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6eb150ae99ef983c",
+  "active": "9cdbc7396fb14283",
   "lastOpenFiles": [
+    "Storia/Napoleone.sync-conflict-20230606-112950-C5LEHAY.md",
+    "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
     "Italiano/Leopardi/Il Risorgimento.md",
     "conflict-files-obsidian-git.md",
     "Italiano/Leopardi/leopardi_canti.pdf",
@@ -239,7 +228,6 @@
     "GPOI/Microeconomia.md",
     "Sistemi e Reti/Nomi di dominio e DNS.md",
     "Excalidraw/Nomi di dominio e DNS 2023-10-06 09.22.02.excalidraw.md",
-    "Excalidraw/Nomi di dominio e DNS 2023-10-06 09.18.13.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
     "GPOI/offerta.png",
