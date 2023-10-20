@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Leopardi/Il Risorgimento.md",
+                "file": "Italiano/Leopardi/Leopardi.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Leopardi/Il Risorgimento.md",
+                "file": "Italiano/Leopardi/Leopardi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Leopardi/Il Risorgimento.md",
+                "file": "Italiano/Leopardi/Leopardi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Leopardi/Il Risorgimento.md"
+                "file": "Italiano/Leopardi/Leopardi.md"
               }
             }
           },
@@ -192,11 +192,11 @@
   },
   "active": "af2259da20f9ea8c",
   "lastOpenFiles": [
+    "Italiano/Leopardi/Il Risorgimento.md",
     "Italiano/Leopardi/Le operette morali.md",
     "Storia/Cap. 13 e 17.md",
     "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
     "Storia/Napoleone.sync-conflict-20230606-112950-C5LEHAY.md",
-    "Italiano/Leopardi/Il Risorgimento.md",
     "conflict-files-obsidian-git.md",
     "Italiano/Leopardi/leopardi_canti.pdf",
     "Italiano/Leopardi/Poesie.md",
