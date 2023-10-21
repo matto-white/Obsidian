@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e Reti/Crittografia.md",
+                "file": "Italiano/Leopardi/Leopardi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e Reti/Crittografia.md",
+                "file": "Italiano/Leopardi/Leopardi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e Reti/Crittografia.md",
+                "file": "Italiano/Leopardi/Leopardi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e Reti/Crittografia.md"
+                "file": "Italiano/Leopardi/Leopardi.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "117651a4fb2b9bef",
   "lastOpenFiles": [
-    "Sistemi e Reti/Nomi di dominio e DNS.md",
     "Sistemi e Reti/Crittografia.md",
+    "Sistemi e Reti/Nomi di dominio e DNS.md",
     "Italiano/Leopardi/Poesie.md",
     "Storia/Cap. 13 e 17.md",
     "Italiano/Leopardi/leopardi_canti.pdf",
