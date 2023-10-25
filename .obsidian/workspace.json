@@ -13,48 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Cap. 13 e 17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c47d00dfd026c21",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Italiano/Leopardi/leopardi_canti.pdf"
-              }
-            }
-          },
-          {
-            "id": "c9844288943a4e4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Italiano/Leopardi/Poesie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af2259da20f9ea8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Italiano/Leopardi/Leopardi.md",
+                "file": "Sistemi e Reti/Crittografia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Leopardi/Leopardi.md",
+                "file": "Sistemi e Reti/Crittografia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Leopardi/Leopardi.md",
+                "file": "Sistemi e Reti/Crittografia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Leopardi/Leopardi.md"
+                "file": "Sistemi e Reti/Crittografia.md"
               }
             }
           },
@@ -190,22 +155,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af2259da20f9ea8c",
+  "active": "117651a4fb2b9bef",
   "lastOpenFiles": [
+    "Sistemi e Reti/Nomi di dominio e DNS.md",
+    "Sistemi e Reti/Crittografia.md",
+    "Italiano/Leopardi/Poesie.md",
+    "Storia/Cap. 13 e 17.md",
+    "Italiano/Leopardi/leopardi_canti.pdf",
+    "Italiano/Leopardi/leopardi_operette_morali.pdf",
+    "Italiano/Leopardi/Poesie.sync-conflict-20231018-115808-C5LEHAY.md",
+    "Italiano/Leopardi/Poesie.sync-conflict-20231018-141940-C5LEHAY.md",
+    "Italiano/Leopardi/Leopardi.md",
     "Italiano/Leopardi/Il Risorgimento.md",
     "Italiano/Leopardi/Le operette morali.md",
-    "Storia/Cap. 13 e 17.md",
     "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
     "Storia/Napoleone.sync-conflict-20230606-112950-C5LEHAY.md",
     "conflict-files-obsidian-git.md",
-    "Italiano/Leopardi/leopardi_canti.pdf",
-    "Italiano/Leopardi/Poesie.md",
     "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
     "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
     "Italiano/Leopardi/Canti.md",
     "Italiano/Leopardi/G.A.Levi_Leopardi. Una biografia per immagini.pdf",
-    "Italiano/Leopardi/leopardi_operette_morali.pdf",
-    "Italiano/Leopardi/Leopardi.md",
     "Storia/Appunti interrogazione pellegrino.md",
     "Storia/Cap. 11.md",
     "Storia/Cap. 9 e 10.md",
@@ -218,10 +187,6 @@
     "Excalidraw/Guadagno 2023-10-09 12.02.40.excalidraw.md",
     "Excalidraw/Guadagno 2023-10-09 12.14.59.excalidraw.md",
     "Excalidraw/Guadagno 2023-10-09 12.11.59.excalidraw.md",
-    "Excalidraw/Guadagno 2023-10-09 12.11.21.excalidraw.md",
-    "GPOI/Microeconomia.md",
-    "Sistemi e Reti/Nomi di dominio e DNS.md",
-    "Excalidraw/Nomi di dominio e DNS 2023-10-06 09.22.02.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
     "GPOI/offerta.png",
