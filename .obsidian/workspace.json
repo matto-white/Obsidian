@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1820",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
