@@ -8,18 +8,37 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<<< HEAD:.obsidian/workspace.sync-conflict-20231026-103240-C5LEHAY.json
             "id": "117651a4fb2b9bef",
+========
+            "id": "c9844288943a4e4a",
+>>>>>>>> origin/main:.obsidian/workspace.sync-conflict-20231020-110140-C5LEHAY.json
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<<< HEAD:.obsidian/workspace.sync-conflict-20231026-103240-C5LEHAY.json
                 "file": "GPOI/Microeconomia.md",
+========
+                "file": "Italiano/Leopardi/Le operette morali.md",
+>>>>>>>> origin/main:.obsidian/workspace.sync-conflict-20231020-110140-C5LEHAY.json
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c47d00dfd026c21",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Italiano/Leopardi/leopardi_operette_morali.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +104,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<<< HEAD:.obsidian/workspace.sync-conflict-20231026-103240-C5LEHAY.json
                 "file": "GPOI/Microeconomia.md",
+========
+                "file": "Italiano/Leopardi/leopardi_operette_morali.pdf",
+>>>>>>>> origin/main:.obsidian/workspace.sync-conflict-20231020-110140-C5LEHAY.json
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<<< HEAD:.obsidian/workspace.sync-conflict-20231026-103240-C5LEHAY.json
                 "file": "GPOI/Microeconomia.md",
+========
+                "file": "Italiano/Leopardi/leopardi_operette_morali.pdf",
+>>>>>>>> origin/main:.obsidian/workspace.sync-conflict-20231020-110140-C5LEHAY.json
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +152,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<<< HEAD:.obsidian/workspace.sync-conflict-20231026-103240-C5LEHAY.json
                 "file": "GPOI/Microeconomia.md"
+========
+                "file": "Italiano/Leopardi/leopardi_operette_morali.pdf"
+>>>>>>>> origin/main:.obsidian/workspace.sync-conflict-20231020-110140-C5LEHAY.json
               }
             }
           },
@@ -155,6 +186,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<<< HEAD:.obsidian/workspace.sync-conflict-20231026-103240-C5LEHAY.json
   "active": "117651a4fb2b9bef",
   "lastOpenFiles": [
     "Italiano/Leopardi/Leopardi.md",
@@ -175,6 +207,24 @@
     "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
     "Italiano/Leopardi/Canti.md",
     "Italiano/Leopardi/G.A.Levi_Leopardi. Una biografia per immagini.pdf",
+========
+  "active": "0c47d00dfd026c21",
+  "lastOpenFiles": [
+    "Italiano/Leopardi/Le operette morali.md",
+    "Italiano/Leopardi/Il Risorgimento.md",
+    "Italiano/Leopardi/leopardi_operette_morali.pdf",
+    "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
+    "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
+    "Italiano/Leopardi/leopardi_canti.pdf",
+    "Italiano/Leopardi/Poesie.md",
+    "Storia/Cap. 13 e 17.md",
+    "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
+    "Storia/Napoleone.sync-conflict-20230606-112950-C5LEHAY.md",
+    "conflict-files-obsidian-git.md",
+    "Italiano/Leopardi/Canti.md",
+    "Italiano/Leopardi/G.A.Levi_Leopardi. Una biografia per immagini.pdf",
+    "Italiano/Leopardi/Leopardi.md",
+>>>>>>>> origin/main:.obsidian/workspace.sync-conflict-20231020-110140-C5LEHAY.json
     "Storia/Appunti interrogazione pellegrino.md",
     "Storia/Cap. 11.md",
     "Storia/Cap. 9 e 10.md",
@@ -187,6 +237,12 @@
     "Excalidraw/Guadagno 2023-10-09 12.02.40.excalidraw.md",
     "Excalidraw/Guadagno 2023-10-09 12.14.59.excalidraw.md",
     "Excalidraw/Guadagno 2023-10-09 12.11.59.excalidraw.md",
+<<<<<<<< HEAD:.obsidian/workspace.sync-conflict-20231026-103240-C5LEHAY.json
+========
+    "Excalidraw/Guadagno 2023-10-09 12.11.21.excalidraw.md",
+    "GPOI/Microeconomia.md",
+    "Sistemi e Reti/Nomi di dominio e DNS.md",
+>>>>>>>> origin/main:.obsidian/workspace.sync-conflict-20231020-110140-C5LEHAY.json
     "Excalidraw",
     "Untitled.canvas",
     "GPOI/offerta.png",
