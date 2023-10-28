@@ -4,28 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "3c70b3edb7139215",
+        "id": "c8121daf88a7f9f1",
         "type": "tabs",
         "children": [
           {
-            "id": "ab373d4a6005cba2",
+            "id": "1ec379c736539d37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Leopardi/Leopardi.md",
-                "mode": "source",
+                "file": "GPOI/Microeconomia.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "8d53d6ccc03710f2",
+            "id": "376653541410210e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Italiano/Leopardi/leopardi_canti.pdf"
+                "file": "GPOI/Guadagno.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Leopardi/Leopardi.md",
+                "file": "GPOI/Microeconomia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Leopardi/Leopardi.md",
+                "file": "GPOI/Microeconomia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Leopardi/Leopardi.md"
+                "file": "GPOI/Microeconomia.md"
               }
             }
           },
@@ -165,15 +167,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab373d4a6005cba2",
+  "active": "1ec379c736539d37",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "GPOI/Guadagno.md",
+    "GPOI/Microeconomia.md",
+    "Italiano/Leopardi/leopardi_canti.pdf",
+    "Italiano/Leopardi/Poesie.md",
     "Italiano/Leopardi/Leopardi.md",
+    "conflict-files-obsidian-git.md",
     "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
     "Italiano/Leopardi/Poesie.sync-conflict-20231018-141940-C5LEHAY.md",
     "Italiano/Leopardi/Poesie.sync-conflict-20231018-115808-C5LEHAY.md",
-    "Italiano/Leopardi/Poesie.md",
-    "Italiano/Leopardi/leopardi_canti.pdf",
     "Storia/Cap. 13 e 17.md",
     "Sistemi e Reti/Crittografia.md",
     "Sistemi e Reti/Nomi di dominio e DNS.md",
@@ -189,7 +193,6 @@
     "Storia/Cap. 11.md",
     "Storia/Cap. 9 e 10.md",
     "Storia/Cap. 7.md",
-    "GPOI/Guadagno.md",
     "Excalidraw/Guadagno 2023-10-11 12.13.49.excalidraw.md",
     "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md",
     "Chart Tue Sep 26 2023.png",
