@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPOI/Microeconomia.md",
+                "file": "Sistemi e Reti/Nomi di dominio e DNS.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPOI/Microeconomia.md",
+                "file": "Sistemi e Reti/Nomi di dominio e DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPOI/Microeconomia.md",
+                "file": "Sistemi e Reti/Nomi di dominio e DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPOI/Microeconomia.md"
+                "file": "Sistemi e Reti/Nomi di dominio e DNS.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "1ec379c736539d37",
   "lastOpenFiles": [
-    "GPOI/Guadagno.md",
     "GPOI/Microeconomia.md",
+    "GPOI/Guadagno.md",
     "Italiano/Leopardi/leopardi_canti.pdf",
     "Italiano/Leopardi/Poesie.md",
     "Italiano/Leopardi/Leopardi.md",
