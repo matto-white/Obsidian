@@ -40,5 +40,18 @@ Le posizioni occupate dalle unità di testo in chiaro sono cambiate secondo un d
 
 chiave: pesca
 
+
+#### Cifrari mono alfabetici
+su utilizza un alfabeto per il testo in chiaro e una permutazione dello stesso alfabeto per il testo cifrato
+
+#### Cifrari poli alfabetici
+se alterna più alfabeti cifranti che sono permutazioni dell'alfabeto in chiaro
 ### Crittografia asimmetrica
 La chiave di cifratura è diversa da quella di decifratura
+2 chiavi: 1 pubblica e 1 privata
+
+Es 1) Voglio garantire la riservatezza e l'integrità
+chiave pubblica -> file originale --> file criptato ->-> file criptato -> chiave privata -> file originale
+
+Es 2) Modalità autenticazione
+chiave privata -> file originale -> file criptato ->-> file criptato -> chiave pubblica -> file originale

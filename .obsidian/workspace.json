@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e Reti/Nomi di dominio e DNS.md",
-                "mode": "preview",
+                "file": "Sistemi e Reti/Crittografia.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e Reti/Nomi di dominio e DNS.md",
+                "file": "Sistemi e Reti/Crittografia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e Reti/Nomi di dominio e DNS.md",
+                "file": "Sistemi e Reti/Crittografia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e Reti/Nomi di dominio e DNS.md"
+                "file": "Sistemi e Reti/Crittografia.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "1ec379c736539d37",
   "lastOpenFiles": [
+    "Sistemi e Reti/Nomi di dominio e DNS.md",
     "GPOI/Microeconomia.md",
     "GPOI/Guadagno.md",
     "Italiano/Leopardi/leopardi_canti.pdf",
@@ -180,7 +181,6 @@
     "Italiano/Leopardi/Poesie.sync-conflict-20231018-115808-C5LEHAY.md",
     "Storia/Cap. 13 e 17.md",
     "Sistemi e Reti/Crittografia.md",
-    "Sistemi e Reti/Nomi di dominio e DNS.md",
     "Italiano/Leopardi/leopardi_operette_morali.pdf",
     "Italiano/Leopardi/Il Risorgimento.md",
     "Italiano/Leopardi/Le operette morali.md",
