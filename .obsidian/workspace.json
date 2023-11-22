@@ -11,9 +11,27 @@
             "id": "2b9233739cc7f7e3",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/Verga/Verga.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cbd8d3977ba0151a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c5f55a9194513d7",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "Italiano/Boito/boito_l_alfier_nero.pdf"
+                "file": "Italiano/Verga/boito_l_alfier_nero.pdf"
               }
             }
           }
@@ -83,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Boito/boito_l_alfier_nero.pdf",
+                "file": "Italiano/Verga/boito_l_alfier_nero.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Boito/boito_l_alfier_nero.pdf",
+                "file": "Italiano/Verga/boito_l_alfier_nero.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Boito/boito_l_alfier_nero.pdf"
+                "file": "Italiano/Verga/boito_l_alfier_nero.pdf"
               }
             }
           },
@@ -140,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,10 +172,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b9233739cc7f7e3",
+  "active": "6c5f55a9194513d7",
   "lastOpenFiles": [
+    "Italiano/Verga/Verga.md",
+    "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Storia/Cap. 16.md",
-    "Italiano/Boito",
+    "Italiano/Verga",
     "conflict-files-obsidian-git.md",
     "Storia/Asia.md",
     "Storia/Cap. 14.md",
@@ -185,7 +206,6 @@
     "Italiano/Leopardi/Poesie.sync-conflict-20231018-115808-C5LEHAY.md",
     "Italiano/Leopardi/leopardi_operette_morali.pdf",
     "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
-    "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
     "Italiano/Leopardi/G.A.Levi_Leopardi. Una biografia per immagini.pdf",
     "Excalidraw",
     "Untitled.canvas",
@@ -194,7 +214,6 @@
     "GPOI/domanda.png",
     "GPOI/domanda.png.crdownload",
     "GPOI",
-    "Italiano/Leopardi",
     "Obsidian/_resources/tcp_data_transfer.png",
     "Obsidian/_resources/tcp_data_transfer 1.png",
     "Obsidian/_resources/TCP Header.png",
