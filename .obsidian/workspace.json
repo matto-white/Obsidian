@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Verga/boito_l_alfier_nero.pdf",
+                "file": "Italiano/Verga/Verga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Verga/boito_l_alfier_nero.pdf",
+                "file": "Italiano/Verga/Verga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Verga/boito_l_alfier_nero.pdf"
+                "file": "Italiano/Verga/Verga.md"
               }
             }
           },
@@ -172,10 +172,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c5f55a9194513d7",
+  "active": "2b9233739cc7f7e3",
   "lastOpenFiles": [
-    "Italiano/Verga/Verga.md",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
+    "Italiano/Verga/Verga.md",
     "Storia/Cap. 16.md",
     "Italiano/Verga",
     "conflict-files-obsidian-git.md",
