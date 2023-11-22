@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a696846b931b47cc",
+        "id": "dd52d170fa687aa7",
         "type": "tabs",
         "children": [
           {
-            "id": "2b9233739cc7f7e3",
+            "id": "8dc2a759dc5b3729",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Verga/Verga.md",
+                "file": "Storia/Stati Uniti.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cbd8d3977ba0151a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6c5f55a9194513d7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Italiano/Verga/boito_l_alfier_nero.pdf"
               }
             }
           }
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Verga/Verga.md",
+                "file": "Storia/Stati Uniti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Verga/Verga.md",
+                "file": "Storia/Stati Uniti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Verga/Verga.md"
+                "file": "Storia/Stati Uniti.md"
               }
             }
           },
@@ -172,14 +156,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b9233739cc7f7e3",
+  "active": "8dc2a759dc5b3729",
   "lastOpenFiles": [
-    "Italiano/Verga/boito_l_alfier_nero.pdf",
-    "Italiano/Verga/Verga.md",
     "Storia/Cap. 16.md",
+    "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
+    "Storia/Asia.md",
+    "Italiano/Verga/Verga.md",
+    "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Italiano/Verga",
     "conflict-files-obsidian-git.md",
-    "Storia/Asia.md",
     "Storia/Cap. 14.md",
     "Storia/Stati Uniti.md",
     "Storia/Napoleone.sync-conflict-20230606-112950-C5LEHAY.md",
@@ -201,7 +186,6 @@
     "Italiano/Leopardi/Il Risorgimento.md",
     "GPOI/Guadagno.md",
     "GPOI/Microeconomia.md",
-    "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
     "Italiano/Leopardi/Poesie.sync-conflict-20231018-141940-C5LEHAY.md",
     "Italiano/Leopardi/Poesie.sync-conflict-20231018-115808-C5LEHAY.md",
     "Italiano/Leopardi/leopardi_operette_morali.pdf",
