@@ -19,4 +19,4 @@ Le ferrovie si evolvono molto grazie alla guerra
 Generale Lee firma la pace.
 
 1865 - Nasce il "Ku klux clan", atti di terrorismo verso il governo federale e linciaggi contro i quartieri neri e contro chiunque li aiuti.
-1865 - Un militante degli stati del sud uccide Lincoln. Il vicepresidente al tempo era uno schiavista, che alla morte di Lincoln diventa presidente e permette agli stati del sud di creare i "Black Codes". Da inizio ad una segregazione razziale che continuerà fino al 1970'''
+1865 - Un militante degli stati del sud uccide Lincoln. Il vicepresidente al tempo era uno schiavista, che alla morte di Lincoln diventa presidente e permette agli stati del sud di creare i "Black Codes". Da inizio ad una segregazione razziale che continuerà fino al 1970''' 
