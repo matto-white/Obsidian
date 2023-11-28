@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ee69aabfee1753b1",
+        "id": "14c1cb932fa9df5c",
         "type": "tabs",
         "children": [
           {
-            "id": "79488accc17f0f96",
+            "id": "8ee77cb4de71412f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Cap 1 & 2(Libro 3).md",
+                "file": "Italiano/Verga/Verga.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bisma",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Cap 1 & 2(Libro 3).md",
+                "file": "Italiano/Verga/Verga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Cap 1 & 2(Libro 3).md",
+                "file": "Italiano/Verga/Verga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Cap 1 & 2(Libro 3).md"
+                "file": "Italiano/Verga/Verga.md"
               }
             }
           },
@@ -157,7 +156,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58f2798abf836b00",
+  "active": "8ee77cb4de71412f",
   "lastOpenFiles": [
     "Storia/Cap 1 & 2(Libro 3).md",
     "Sistemi e Reti/VLAN.md",
