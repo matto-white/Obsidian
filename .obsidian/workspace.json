@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPOI/Project Management.md",
+                "file": "Sistemi e Reti/VLAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPOI/Project Management.md",
+                "file": "Sistemi e Reti/VLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPOI/Project Management.md",
+                "file": "Sistemi e Reti/VLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPOI/Project Management.md"
+                "file": "Sistemi e Reti/VLAN.md"
               }
             }
           },
@@ -158,11 +158,12 @@
   },
   "active": "40f570aa58711b84",
   "lastOpenFiles": [
+    "GPOI/Project Management.md",
+    "Sistemi e Reti/VLAN.md",
     "Italiano/Verga/L'alfier nero.md",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Storia/Ripasso Libro 12 14 16.md",
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
-    "GPOI/Project Management.md",
     "GPOI/~syncthing~Project Management.md.tmp",
     "Storia/Stati Uniti.md",
     "Storia/Cap. 16.md",
