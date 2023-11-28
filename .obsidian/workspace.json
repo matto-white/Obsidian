@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Cap 1 (Libro 3).md",
+                "file": "Storia/Cap 1 & 2(Libro 3).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bisma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Cap 1 (Libro 3).md",
+                "file": "Storia/Cap 1 & 2(Libro 3).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Cap 1 (Libro 3).md",
+                "file": "Storia/Cap 1 & 2(Libro 3).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Cap 1 (Libro 3).md"
+                "file": "Storia/Cap 1 & 2(Libro 3).md"
               }
             }
           },
@@ -156,9 +157,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79488accc17f0f96",
+  "active": "58f2798abf836b00",
   "lastOpenFiles": [
-    "Storia/Cap 1 (Libro 3).md",
+    "Storia/Cap 1 & 2(Libro 3).md",
     "Sistemi e Reti/VLAN.md",
     "GPOI/Project Management.md",
     "Italiano/Verga/L'alfier nero.md",
