@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "14c1cb932fa9df5c",
+        "id": "b5ad182f00ddee91",
         "type": "tabs",
         "children": [
           {
-            "id": "8ee77cb4de71412f",
+            "id": "5ad9bd3519d28406",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Italiano/Verga/Verga.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e7e346e547a85c4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc2f46943b506cd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/Verga/Prefazione alla fortuna dei Rugon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Verga/Verga.md",
+                "file": "Italiano/Verga/Prefazione alla fortuna dei Rugon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Verga/Verga.md",
+                "file": "Italiano/Verga/Prefazione alla fortuna dei Rugon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Verga/Verga.md"
+                "file": "Italiano/Verga/Prefazione alla fortuna dei Rugon.md"
               }
             }
           },
@@ -156,12 +174,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ee77cb4de71412f",
+  "active": "fc2f46943b506cd8",
   "lastOpenFiles": [
+    "Italiano/Verga/Verga.md",
+    "Italiano/Verga/Prefazione alla fortuna dei Rugon.md",
+    "Italiano/Verga/L'alfier nero.md",
     "Storia/Cap 1 & 2(Libro 3).md",
     "Sistemi e Reti/VLAN.md",
     "GPOI/Project Management.md",
-    "Italiano/Verga/L'alfier nero.md",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Storia/Ripasso Libro 12 14 16.md",
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
@@ -170,7 +190,6 @@
     "Storia/Cap. 16.md",
     "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
     "Storia/Asia.md",
-    "Italiano/Verga/Verga.md",
     "Italiano/Verga",
     "conflict-files-obsidian-git.md",
     "Storia/Cap. 14.md",
@@ -191,7 +210,6 @@
     "README.md",
     "Untitled.md",
     "Italiano/Leopardi/Il Risorgimento.md",
-    "GPOI/Guadagno.md",
     "Italiano/Leopardi/leopardi_operette_morali.pdf",
     "Italiano/Leopardi/G.A.Levi_Leopardi. Una biografia per immagini.pdf",
     "Excalidraw",

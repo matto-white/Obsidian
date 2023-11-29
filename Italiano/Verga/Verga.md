@@ -10,3 +10,5 @@ i carbonarti della montagna (Romanzo storico sui moti risorgimentali)
 A Milano verga conosce Treves, il suo editore per tutta la vita
 Pubblica "Tigre Reale"
 Scrive "Eros"
+Corrente Letteraria di "Zolà"
+[[Prefazione alla fortuna dei Rugon|Prefazione alla fortuna dei Rugon]]
