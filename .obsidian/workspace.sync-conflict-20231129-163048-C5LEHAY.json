@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "474b1f17084c40a1",
+        "id": "dd52d170fa687aa7",
         "type": "tabs",
         "children": [
           {
-            "id": "93f32e006474525c",
+            "id": "8dc2a759dc5b3729",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Storia/Stati Uniti.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.5
   },
   "right": {
     "id": "4a56230024100544",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Storia/Stati Uniti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Storia/Stati Uniti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Storia/Stati Uniti.md"
+              }
             }
           },
           {
@@ -134,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,50 +156,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93f32e006474525c",
+  "active": "8dc2a759dc5b3729",
   "lastOpenFiles": [
-    "Italiano/Leopardi/Poesie.md",
-    "Italiano/Leopardi/Leopardi.md",
-    "Italiano/Leopardi/Le operette morali.md",
-    "Italiano/Leopardi/Dialogo della natura e di un islandese.md",
+    "Storia/Cap. 16.md",
+    "Storia/Ripasso Libro 12 14 16.md",
+    "Italiano/Verga/L'alfier nero.md",
+    "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
+    "GPOI/Project Management.md",
+    "GPOI/~syncthing~Project Management.md.tmp",
+    "Storia/Stati Uniti.md",
+    "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
+    "Storia/Asia.md",
+    "Italiano/Verga/Verga.md",
+    "Italiano/Verga/boito_l_alfier_nero.pdf",
+    "Italiano/Verga",
+    "conflict-files-obsidian-git.md",
+    "Storia/Cap. 14.md",
+    "Storia/Napoleone.sync-conflict-20230606-112950-C5LEHAY.md",
+    "Sistemi e Reti/Sistemi di autenticazione.md",
+    "Sistemi e Reti/Crittografia.md",
     "Italiano/Leopardi/Canti.md",
-    "Italiano/Leopardi/leopardi_operette_morali.pdf",
-    "GPOI/Guadagno.md",
-    "Excalidraw/Guadagno 2023-10-11 12.13.49.excalidraw.md",
-    "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md",
-    "Storia/Cap. 13 e 17.md",
-    "Chart Tue Sep 26 2023.png",
-    "Storia/Cap. 13 e 17 - 2.md",
-    "Excalidraw/Guadagno 2023-10-09 12.02.40.excalidraw.md",
-    "Excalidraw/Guadagno 2023-10-09 12.14.59.excalidraw.md",
-    "Excalidraw/Guadagno 2023-10-09 12.11.59.excalidraw.md",
-    "Excalidraw/Guadagno 2023-10-09 12.11.21.excalidraw.md",
-    "GPOI/Microeconomia.md",
+    "Italiano/Leopardi/leopardi_canti.pdf",
+    "Italiano/Leopardi/Le operette morali.md",
+    "Italiano/Leopardi/Leopardi.md",
     "Sistemi e Reti/Nomi di dominio e DNS.md",
-    "Excalidraw/Nomi di dominio e DNS 2023-10-06 09.22.02.excalidraw.md",
-    "Excalidraw/Nomi di dominio e DNS 2023-10-06 09.18.13.excalidraw.md",
-    "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
-    "Excalidraw/Microeconomia 2023-10-04 12.10.56.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-04 12.10.44.excalidraw.md",
-    "Storia/Cap. 11.md",
-    "Storia/Cap. 9 e 10.md",
-    "Italiano/Leopardi/Alla sua donna.md",
-    "Excalidraw/Microeconomia 2023-10-02 10.40.18.excalidraw.md",
+    "Sistemi e Reti/HTTP.md",
+    "Sistemi e Reti/TCP.md",
+    "Storia/Cap. 13 e 17.md",
+    "_resources/Handshake.png",
+    "_resources/TCP.pdf",
+    "Chart Tue Sep 26 2023.png",
+    "README.md",
+    "Untitled.md",
+    "Italiano/Leopardi/Il Risorgimento.md",
+    "GPOI/Guadagno.md",
+    "GPOI/Microeconomia.md",
+    "Italiano/Leopardi/Poesie.sync-conflict-20231018-141940-C5LEHAY.md",
+    "Italiano/Leopardi/leopardi_operette_morali.pdf",
+    "Italiano/Leopardi/G.A.Levi_Leopardi. Una biografia per immagini.pdf",
     "Excalidraw",
     "Untitled.canvas",
     "GPOI/offerta.png",
     "GPOI/offerta.png.crdownload",
     "GPOI/domanda.png",
-    "GPOI/domanda.png.crdownload",
-    "GPOI",
-    "Italiano/Leopardi",
     "Obsidian/_resources/tcp_data_transfer.png",
     "Obsidian/_resources/tcp_data_transfer 1.png",
-    "Obsidian/_resources/TCP.pdf",
     "Obsidian/_resources/TCP Header.png",
-    "Obsidian/_resources/Handshake.png",
-    "Obsidian/_resources",
-    "Obsidian/Storia",
-    "Obsidian/Sistemi e Reti"
+    "Obsidian/_resources/Handshake.png"
   ]
 }
