@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Verga/Prefazione alla fortuna dei Rugon.md",
+                "file": "Italiano/Verga/Verga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Verga/Prefazione alla fortuna dei Rugon.md",
+                "file": "Italiano/Verga/Verga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Verga/Prefazione alla fortuna dei Rugon.md"
+                "file": "Italiano/Verga/Verga.md"
               }
             }
           },
@@ -174,10 +174,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc2f46943b506cd8",
+  "active": "5ad9bd3519d28406",
   "lastOpenFiles": [
-    "Italiano/Verga/Verga.md",
     "Italiano/Verga/Prefazione alla fortuna dei Rugon.md",
+    "Italiano/Verga/Verga.md",
     "Italiano/Verga/L'alfier nero.md",
     "Storia/Cap 1 & 2(Libro 3).md",
     "Sistemi e Reti/VLAN.md",

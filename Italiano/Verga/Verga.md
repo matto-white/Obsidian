@@ -12,3 +12,6 @@ Pubblica "Tigre Reale"
 Scrive "Eros"
 Corrente Letteraria di "Zolà"
 [[Prefazione alla fortuna dei Rugon|Prefazione alla fortuna dei Rugon]]
+1876 - Viene pubblicato il libro dell'Inchiesta di Franchetti e Sonnino che fa cambiare modo di scrivere a Verga
+Scrive "Nedda" (Il soggetto del racconto è una bracciante che lavora a giornata nei campi della Sicilia)
+Verismo (Tecnica di scrittura)
