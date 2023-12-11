@@ -4,40 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b5ad182f00ddee91",
+        "id": "e3974279bde019ce",
         "type": "tabs",
         "children": [
           {
-            "id": "5ad9bd3519d28406",
+            "id": "dc9d0949c1c30fe7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Verga/Verga.md",
+                "file": "Sistemi e Reti/Crittografia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41dae31085680f98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemi e Reti/Crittografia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "e7e346e547a85c4c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fc2f46943b506cd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Italiano/Verga/Prefazione alla fortuna dei Rugon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Verga/Prefazione alla fortuna dei Rugon.md",
+                "file": "Sistemi e Reti/Crittografia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Verga/Prefazione alla fortuna dei Rugon.md",
+                "file": "Sistemi e Reti/Crittografia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Verga/Prefazione alla fortuna dei Rugon.md"
+                "file": "Sistemi e Reti/Crittografia.md"
               }
             }
           },
@@ -174,14 +169,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc2f46943b506cd8",
+  "active": "41dae31085680f98",
   "lastOpenFiles": [
+    "Sistemi e Reti/Nomi di dominio e DNS.md",
+    "Sistemi e Reti/Crittografia.md",
+    "GPOI/Project Management.md",
+    "Sistemi e Reti/TCP.md",
+    "Sistemi e Reti/Sistemi di autenticazione.md",
+    "Sistemi e Reti/VLAN.md",
     "Italiano/Verga/Verga.md",
     "Italiano/Verga/Prefazione alla fortuna dei Rugon.md",
     "Italiano/Verga/L'alfier nero.md",
     "Storia/Cap 1 & 2(Libro 3).md",
-    "Sistemi e Reti/VLAN.md",
-    "GPOI/Project Management.md",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Storia/Ripasso Libro 12 14 16.md",
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
@@ -194,15 +193,11 @@
     "conflict-files-obsidian-git.md",
     "Storia/Cap. 14.md",
     "Storia/Napoleone.sync-conflict-20230606-112950-C5LEHAY.md",
-    "Sistemi e Reti/Sistemi di autenticazione.md",
-    "Sistemi e Reti/Crittografia.md",
     "Italiano/Leopardi/Canti.md",
     "Italiano/Leopardi/leopardi_canti.pdf",
     "Italiano/Leopardi/Le operette morali.md",
     "Italiano/Leopardi/Leopardi.md",
-    "Sistemi e Reti/Nomi di dominio e DNS.md",
     "Sistemi e Reti/HTTP.md",
-    "Sistemi e Reti/TCP.md",
     "Storia/Cap. 13 e 17.md",
     "_resources/Handshake.png",
     "_resources/TCP.pdf",
