@@ -10,4 +10,8 @@ La Germania fa partire il piano "Shliffen", che comporta la presa di Parigi per 
 
 Sul fronte Orientale all'inizio i Tedeschi subiscono l'avanzata Russa (In Prussia e Galizia). Gulielmo II sostituisce i vertici militari del fronte, e mette un vecchio generale (Hidenburg) che ha come stratega un giovane tenente (Ludendorf). Nei primi mesi del 1915 i Tedeschi riescono ad avanzare sui Russi, ma la Germania è spaccata a metà per via dei due diversi piani d'azione dei due fronti.
 
-In Italia per ora sono fermi
+In Italia per ora sono fermi, non sanno con chi schierarsi
+
+Pausa della guerra su certi punti del fronte occidentale (1915) (Film: Jeux Noel)
+
+Battaglia di Gallipoli (1915) (Film: Gli anni spezzati). Gli Inglesi richiedono truppe all'Australia e alla Nuova Zelanda
