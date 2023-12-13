@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e3974279bde019ce",
+        "id": "072945a75d954ed2",
         "type": "tabs",
         "children": [
           {
-            "id": "dc9d0949c1c30fe7",
+            "id": "eaf09f5b520c4fba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e Reti/Crittografia.md",
+                "file": "Storia/Prima guerra mondiale.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e Reti/Crittografia.md",
+                "file": "Storia/Prima guerra mondiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e Reti/Crittografia.md",
+                "file": "Storia/Prima guerra mondiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e Reti/Crittografia.md"
+                "file": "Storia/Prima guerra mondiale.md"
               }
             }
           },
@@ -156,10 +156,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc9d0949c1c30fe7",
+  "active": "eaf09f5b520c4fba",
   "lastOpenFiles": [
-    "Sistemi e Reti/Nomi di dominio e DNS.md",
+    "conflict-files-obsidian-git.md",
+    "Storia/Cap 1 & 2(Libro 3).md",
+    "Storia/Prima guerra mondiale.md",
     "Sistemi e Reti/Crittografia.md",
+    "Sistemi e Reti/Nomi di dominio e DNS.md",
     "GPOI/Project Management.md",
     "Sistemi e Reti/TCP.md",
     "Sistemi e Reti/Sistemi di autenticazione.md",
@@ -167,7 +170,6 @@
     "Italiano/Verga/Verga.md",
     "Italiano/Verga/Prefazione alla fortuna dei Rugon.md",
     "Italiano/Verga/L'alfier nero.md",
-    "Storia/Cap 1 & 2(Libro 3).md",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Storia/Ripasso Libro 12 14 16.md",
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
@@ -177,7 +179,6 @@
     "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
     "Storia/Asia.md",
     "Italiano/Verga",
-    "conflict-files-obsidian-git.md",
     "Storia/Cap. 14.md",
     "Storia/Napoleone.sync-conflict-20230606-112950-C5LEHAY.md",
     "Italiano/Leopardi/Canti.md",
@@ -191,7 +192,6 @@
     "Chart Tue Sep 26 2023.png",
     "README.md",
     "Untitled.md",
-    "Italiano/Leopardi/Il Risorgimento.md",
     "Italiano/Leopardi/leopardi_operette_morali.pdf",
     "Italiano/Leopardi/G.A.Levi_Leopardi. Una biografia per immagini.pdf",
     "Excalidraw",

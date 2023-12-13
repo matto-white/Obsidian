@@ -18,6 +18,7 @@ Fasi del progetto:
 - esecuzione
 - chiusura
 
+<<<<<<< HEAD
 
 Piano di progetto è un modello previsionale e quindi una stima basata sui presupposti a volti incerti e quindi per natura è impreciso.
 Nota -> se ci sono rischi elevati ovviamente le informazioni presenti nel piano di progetto vanno sottoposte ad una gestione del rischio
@@ -33,3 +34,5 @@ WBS -> Work Breakdown Structure (Struttura Analitica di Progetto): È la rappres
 Ogni obbiettivo della WBS ha queste caratteristiche:
 - Ha un codice identificativo unico all'interno della WBS
 - Rappresenta un deliverable
+=======
+>>>>>>> origin/main
