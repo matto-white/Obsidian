@@ -16,7 +16,11 @@ Corrente Letteraria di "Zolà"
 [[Prefazione alla fortuna dei Rugon|Prefazione alla fortuna dei Rugon]]
 1876 - Viene pubblicato il libro dell'Inchiesta di Franchetti e Sonnino che fa cambiare modo di scrivere a Verga
 Scrive "Nedda" (Il soggetto del racconto è una bracciante che lavora a giornata nei campi della Sicilia)
-Scrive "Padron Tony"
+Scrive "Padron Tony" che poi diventerà "I Malavoglia"
+Scrive "Fantasticheria" (1879-1880)
 Scrive "Rosso Malpelo"
+Scrive "Mastro Don Gesualdo"
 Verismo (Tecnica di scrittura)
 Introduzione al Farina (Forse)
+
+1893 - Verga fa causa a Treves e vince. Si ritrova con un buon patrimonio e decide di investire nei terreni della famiglia in Sicilia. Si trasferisce nelle campagne Siciliane, e passa la vita a fare il proprietario terriero, scrivendo poco.
