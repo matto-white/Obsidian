@@ -11,8 +11,12 @@
             "id": "0fdbcf086c5d6343",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/Verga/Vita nei Campi.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Italiano/Verga/Vita nei Campi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Italiano/Verga/Vita nei Campi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Italiano/Verga/Vita nei Campi.md"
+              }
             }
           },
           {
@@ -150,8 +158,9 @@
   },
   "active": "0fdbcf086c5d6343",
   "lastOpenFiles": [
-    "GPOI/Project Management.md",
     "Italiano/Verga/Verga.md",
+    "Italiano/Verga/Vita nei Campi.md",
+    "GPOI/Project Management.md",
     "Storia/Prima guerra mondiale.md",
     "conflict-files-obsidian-git.md",
     "Storia/Cap 1 & 2(Libro 3).md",
@@ -183,7 +192,6 @@
     "_resources/TCP.pdf",
     "Chart Tue Sep 26 2023.png",
     "README.md",
-    "Untitled.md",
     "Italiano/Leopardi/leopardi_operette_morali.pdf",
     "Italiano/Leopardi/G.A.Levi_Leopardi. Una biografia per immagini.pdf",
     "Excalidraw",

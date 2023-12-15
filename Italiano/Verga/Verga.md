@@ -22,5 +22,4 @@ Scrive "Rosso Malpelo"
 Scrive "Mastro Don Gesualdo"
 Verismo (Tecnica di scrittura)
 Introduzione al Farina (Forse)
-
 1893 - Verga fa causa a Treves e vince. Si ritrova con un buon patrimonio e decide di investire nei terreni della famiglia in Sicilia. Si trasferisce nelle campagne Siciliane, e passa la vita a fare il proprietario terriero, scrivendo poco.
