@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7f7d2a852afad411",
+        "id": "083fccc68b72ac62",
         "type": "tabs",
         "children": [
           {
-            "id": "4127f1497a9a5a97",
+            "id": "2144b9639eef0225",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPOI/Project Management.md",
+                "file": "Storia/Prima guerra mondiale.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPOI/Project Management.md",
+                "file": "Storia/Prima guerra mondiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPOI/Project Management.md",
+                "file": "Storia/Prima guerra mondiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPOI/Project Management.md"
+                "file": "Storia/Prima guerra mondiale.md"
               }
             }
           },
@@ -156,11 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4127f1497a9a5a97",
+  "active": "2144b9639eef0225",
   "lastOpenFiles": [
+    "GPOI/Project Management.md",
     "GPOI/Guadagno.md",
     "GPOI/Microeconomia.md",
-    "GPOI/Project Management.md",
     "Italiano/Verga/I Malavoglia.md",
     "Italiano/Verga/Fantasticheria.md",
     "Italiano/Verga/Prefazione alla fortuna dei Rugon.md",

@@ -15,3 +15,4 @@ In Italia per ora sono fermi, non sanno con chi schierarsi
 Pausa della guerra su certi punti del fronte occidentale (1915) (Film: Jeux Noel)
 
 Battaglia di Gallipoli (1915) (Film: Gli anni spezzati). Gli Inglesi richiedono truppe all'Australia e alla Nuova Zelanda
+
