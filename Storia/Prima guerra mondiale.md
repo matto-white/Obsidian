@@ -12,7 +12,8 @@ Sul fronte Orientale all'inizio i Tedeschi subiscono l'avanzata Russa (In Prussi
 
 In Italia per ora sono fermi, non sanno con chi schierarsi
 
-Pausa della guerra su certi punti del fronte occidentale (1915) (Film: Jeux Noel)
+Pausa della guerra su certi punti del fronte occidentale (1915) (Film: Joyeux Noel)
 
 Battaglia di Gallipoli (1915) (Film: Gli anni spezzati). Gli Inglesi richiedono truppe all'Australia e alla Nuova Zelanda
 
+Ludendorf annuncia che la guerra è diventata totale (La guerra non è più contro l'esercito nemico, ma diventa contro lo stato nemico)
