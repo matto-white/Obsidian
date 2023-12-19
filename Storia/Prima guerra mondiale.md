@@ -17,3 +17,8 @@ Pausa della guerra su certi punti del fronte occidentale (1915) (Film: Joyeux No
 Battaglia di Gallipoli (1915) (Film: Gli anni spezzati). Gli Inglesi richiedono truppe all'Australia e alla Nuova Zelanda
 
 Ludendorf annuncia che la guerra è diventata totale (La guerra non è più contro l'esercito nemico, ma diventa contro lo stato nemico)
+
+### Italia
+Viene creata la linea Cadorna (1911-1918)
+Il governo Salandra considera tutte le possibilità, e crea alleanze con Austria (In cambio di Trento e Trieste in caso di vincita) e con la Germania
+1915 - Patto di Londra. La Triplice Intesa dice che se entrerà in guerra, se vincono l'Italia riceverà i territori
