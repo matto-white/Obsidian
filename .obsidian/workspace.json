@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Verga/I Malavoglia.md",
+                "file": "Storia/Prima guerra mondiale.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Verga/I Malavoglia.md",
+                "file": "Storia/Prima guerra mondiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Verga/I Malavoglia.md",
+                "file": "Storia/Prima guerra mondiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Verga/I Malavoglia.md"
+                "file": "Storia/Prima guerra mondiale.md"
               }
             }
           },
@@ -158,11 +158,11 @@
   },
   "active": "2cf3ee46eec13a1f",
   "lastOpenFiles": [
+    "Italiano/Verga/I Malavoglia.md",
     "Storia/Prima guerra mondiale.md",
     "GPOI/Project Management.md",
     "GPOI/Guadagno.md",
     "GPOI/Microeconomia.md",
-    "Italiano/Verga/I Malavoglia.md",
     "Italiano/Verga/Fantasticheria.md",
     "Italiano/Verga/Prefazione alla fortuna dei Rugon.md",
     "Italiano/Verga/Verga.md",
