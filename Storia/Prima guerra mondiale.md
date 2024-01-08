@@ -23,6 +23,7 @@ Viene creata la linea Cadorna (1911-1918)
 Il governo Salandra considera tutte le possibilità, e crea alleanze con Austria (In cambio di Trento e Trieste in caso di vincita) e con la Germania
 La Triplice Intesa (Regno Unito, Francia, Russia) dice che se entrerà in guerra, se vincono l'Italia riceverà i territori
 1915 - Patto di Londra (Eseguito senza consultare il Parlamento, in collegamento diretto con il Re che voleva entrare in guerra)
+Italia contro l'Austria e la Germania
 D'Annunzio è interventista ed è per la conquista delle terre irredenti
 Quando il patto di Londra viene presentato al parlamento, che viene rifiutato. Salandra da le sue dimissioni al re, che le rifiuta. Il parlamento vedendo che il Re è dalla parte del patto votano quasi tutti a favore.
 23 maggio 1915 - Viene presentata la dichiarazione di guerra all'Austria
