@@ -18,8 +18,6 @@ Fasi del progetto:
 - esecuzione
 - chiusura
 
-<<<<<<< HEAD
-
 Piano di progetto è un modello previsionale e quindi una stima basata sui presupposti a volti incerti e quindi per natura è impreciso.
 Nota -> se ci sono rischi elevati ovviamente le informazioni presenti nel piano di progetto vanno sottoposte ad una gestione del rischio
 
@@ -34,5 +32,22 @@ WBS -> Work Breakdown Structure (Struttura Analitica di Progetto): È la rappres
 Ogni obbiettivo della WBS ha queste caratteristiche:
 - Ha un codice identificativo unico all'interno della WBS
 - Rappresenta un deliverable
-=======
->>>>>>> origin/main
+
+
+
+Collocazione temporale -> Diagramma di Gantt
+
+Diagramma di Gantt: ha lo scopo di rappresentare la pianificazione di ogni attività nel tempo
+
+Diagramma di Gantt: due assi
+- Asse orizzontale: rappresento il tempo
+- Asse verticale: rappresento l'attività
+
+Regole:
+- Ogni attività è rappresentata da una barra rettangolare sul diagramma
+- Su ogni riga del diagramma può essere rappresentata una sola barra eventualmente spezzettata su più periodi di tempo
+- La lunghezza della barra, letta sull'asse orizzontale, rappresenta la durata dell'attività
+- La posizione della barra, letta sull'asse orizzontale, indica le date di inizio e di fine di ogni attività
+
+Es:
+![[Project Management 2024-01-08 10.28.28.excalidraw|60%]]
