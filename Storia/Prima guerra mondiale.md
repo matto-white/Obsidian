@@ -43,3 +43,9 @@ ottobre/novembre - Rivoluzione di Ottobre (Russia) dove sale al potere Lenin che
 Ludendorf arriva in Italia
 Irvin Rommel (Giovane ufficiale Tedesco) presenta un piano di attacco per l'Italia allo stato maggiore Tedesco (Ludendorf)
 Fine Ottobre - Inizia l'offensiva di Caporetto. Nel giro di qualche giorno l'Italia perde quasi tutto il Veneto
+
+Germania prova a sfondare il fronte occidentale, ma non ha le forze (Inglesi e Francesi sono aiutati dagli Americani, e sul campo si iniziano a vedere i primi carri armati)
+
+Austria: Cambia imperatore e decide di iniziare i dialoghi per la pace
+
+Quanto l'ultima offensiva Tedesca viene respinta, nella popolazione tedesca scatta una rivolta. Il Kaiser scappa in olanda, e il nuovo governo socialista firma l'armistizio (11 novembre 1918)
