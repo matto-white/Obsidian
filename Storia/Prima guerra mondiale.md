@@ -46,6 +46,6 @@ Fine Ottobre - Inizia l'offensiva di Caporetto. Nel giro di qualche giorno l'Ita
 
 Germania prova a sfondare il fronte occidentale, ma non ha le forze (Inglesi e Francesi sono aiutati dagli Americani, e sul campo si iniziano a vedere i primi carri armati)
 
-Austria: Cambia imperatore e decide di iniziare i dialoghi per la pace
+Austria: Cambia imperatore e decide di iniziare i dialoghi per la pace. Firmano l'armistizio il 3 novembre 1918
 
-Quanto l'ultima offensiva Tedesca viene respinta, nella popolazione tedesca scatta una rivolta. Il Kaiser scappa in olanda, e il nuovo governo socialista firma l'armistizio (11 novembre 1918)
+Quanto l'ultima offensiva Tedesca viene respinta, nella popolazione tedesca scatta una rivolta. Il Kaiser scappa in olanda, e il nuovo governo socialista firma l'armistizio il 11 novembre 1918
