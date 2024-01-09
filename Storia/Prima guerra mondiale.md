@@ -28,3 +28,18 @@ D'Annunzio è interventista ed è per la conquista delle terre irredenti
 Quando il patto di Londra viene presentato al parlamento, che viene rifiutato. Salandra da le sue dimissioni al re, che le rifiuta. Il parlamento vedendo che il Re è dalla parte del patto votano quasi tutti a favore.
 23 maggio 1915 - Viene presentata la dichiarazione di guerra all'Austria
 24 maggio 1915 - Inizio mobilitazioni militari
+
+Fine Italia
+
+Battaglia dello Jutland
+I tedeschi non riescono a sfondare il blocco marino dell'Inghilterra, quindi passano ad una guerra sottomarina (UBoat) e inizia ad affondare qualsiasi nave cargo, senza distinzione. Questo scatena la reazione degli Stati uniti di America, che decide di entrare in guerra.
+Intanto gli eserciti Europei sono sfiancati
+### 1916
+
+### 1917
+febbraio - Scoppia la prima rivoluzione Russa, che è guidata dai militari contro lo Zar. Lo Zar abdica e la Russia diventa una repubblica
+ottobre/novembre - Rivoluzione di Ottobre (Russia) dove sale al potere Lenin che firma la pace con i Tedeschi
+
+Ludendorf arriva in Italia
+Irvin Rommel (Giovane ufficiale Tedesco) presenta un piano di attacco per l'Italia allo stato maggiore Tedesco (Ludendorf)
+Fine Ottobre - Inizia l'offensiva di Caporetto. Nel giro di qualche giorno l'Italia perde quasi tutto il Veneto
