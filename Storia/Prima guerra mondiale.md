@@ -48,4 +48,7 @@ Germania prova a sfondare il fronte occidentale, ma non ha le forze (Inglesi e F
 
 Austria: Cambia imperatore e decide di iniziare i dialoghi per la pace. Firmano l'armistizio il 3 novembre 1918
 
-Quanto l'ultima offensiva Tedesca viene respinta, nella popolazione tedesca scatta una rivolta. Il Kaiser scappa in olanda, e il nuovo governo socialista firma l'armistizio il 11 novembre 1918
+Quanto l'ultima offensiva Tedesca viene respinta, nella popolazione tedesca scatta una rivolta. Il Kaiser scappa in Olanda, e il nuovo governo socialista firma l'armistizio il 11 novembre 1918
+
+### Trattati di pace
+Brestiliktov (Russia) tratta la pace con gli imperi centrali, concedendogli quasi tutto quello che chiedono e perde l'Ucraina, Polonia, Paesi Baltici, e gli viene imposta un'indennità di guerra
