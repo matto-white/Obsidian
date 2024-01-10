@@ -52,3 +52,5 @@ Quanto l'ultima offensiva Tedesca viene respinta, nella popolazione tedesca scat
 
 ### Trattati di pace
 Brestiliktov (Russia) tratta la pace con gli imperi centrali, concedendogli quasi tutto quello che chiedono e perde l'Ucraina, Polonia, Paesi Baltici, e gli viene imposta un'indennità di guerra
+
+14 punti di Wilson (8 gennaio 1918) - Sono delle linee guida per arrivare alla pace
