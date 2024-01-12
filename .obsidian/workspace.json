@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "740b6770da8e89b2",
+        "id": "26ec3e605e457953",
         "type": "tabs",
         "children": [
           {
-            "id": "f34177997f1d79db",
+            "id": "d11ce25803c004cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md",
+                "file": "Italiano/Verga/I Malavoglia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md",
+                "file": "Italiano/Verga/I Malavoglia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md",
+                "file": "Italiano/Verga/I Malavoglia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md"
+                "file": "Italiano/Verga/I Malavoglia.md"
               }
             }
           },
@@ -156,13 +156,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f34177997f1d79db",
+  "active": "d11ce25803c004cb",
   "lastOpenFiles": [
+    "Storia/Prima guerra mondiale.md",
     "Sistemi e Reti/NAT.md",
     "Excalidraw/NAT 2024-01-09 08.33.28.excalidraw.md",
     "GPOI/Project Management.md",
     "Excalidraw/Project Management 2024-01-08 10.28.28.excalidraw.md",
-    "Storia/Prima guerra mondiale.md",
     "Italiano/Verga/I Malavoglia.md",
     "GPOI/Guadagno.md",
     "GPOI/Microeconomia.md",
