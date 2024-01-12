@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "26ec3e605e457953",
+        "id": "1c27c0bbf0ad4f00",
         "type": "tabs",
         "children": [
           {
-            "id": "d11ce25803c004cb",
+            "id": "ffe3fc2a21984fa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Verga/I Malavoglia.md",
+                "file": "GPOI/Project Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Verga/I Malavoglia.md",
+                "file": "GPOI/Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Verga/I Malavoglia.md",
+                "file": "GPOI/Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Verga/I Malavoglia.md"
+                "file": "GPOI/Project Management.md"
               }
             }
           },
@@ -156,14 +156,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d11ce25803c004cb",
+  "active": "ffe3fc2a21984fa4",
   "lastOpenFiles": [
+    "Italiano/Verga/I Malavoglia.md",
     "Storia/Prima guerra mondiale.md",
     "Sistemi e Reti/NAT.md",
     "Excalidraw/NAT 2024-01-09 08.33.28.excalidraw.md",
     "GPOI/Project Management.md",
     "Excalidraw/Project Management 2024-01-08 10.28.28.excalidraw.md",
-    "Italiano/Verga/I Malavoglia.md",
     "GPOI/Guadagno.md",
     "GPOI/Microeconomia.md",
     "Italiano/Verga/Fantasticheria.md",
