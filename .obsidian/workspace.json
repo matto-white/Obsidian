@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPOI/Project Management.md",
+                "file": "Sistemi e Reti/Crittografia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPOI/Project Management.md",
+                "file": "Sistemi e Reti/Crittografia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPOI/Project Management.md",
+                "file": "Sistemi e Reti/Crittografia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPOI/Project Management.md"
+                "file": "Sistemi e Reti/Crittografia.md"
               }
             }
           },
@@ -158,11 +158,12 @@
   },
   "active": "ffe3fc2a21984fa4",
   "lastOpenFiles": [
+    "Sistemi e Reti/Esercizi.md",
+    "GPOI/Project Management.md",
     "Italiano/Verga/I Malavoglia.md",
     "Storia/Prima guerra mondiale.md",
     "Sistemi e Reti/NAT.md",
     "Excalidraw/NAT 2024-01-09 08.33.28.excalidraw.md",
-    "GPOI/Project Management.md",
     "Excalidraw/Project Management 2024-01-08 10.28.28.excalidraw.md",
     "GPOI/Guadagno.md",
     "GPOI/Microeconomia.md",
@@ -187,7 +188,6 @@
     "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
     "Storia/Asia.md",
     "Italiano/Verga",
-    "Storia/Cap. 14.md",
     "Italiano/Leopardi/leopardi_canti.pdf",
     "_resources/Handshake.png",
     "_resources/TCP.pdf",
