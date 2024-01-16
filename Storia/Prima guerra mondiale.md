@@ -1,3 +1,4 @@
+#WW1
 28 giugno 1914 - L'arciduca d'Austria Ferdinando, erede al trono viene ucciso nell'attentato di Sarajevo da Gavrilo Princip. Agli Austriaci non da molto fastidio, gli hanno quasi fatto un piacere, ma non lo possono far vedere
 23 luglio - l'Austria da un ultimatum alla Serbia pensandolo come strumento politico, ma non va come sperato
 25 luglio - La Serbia rifiuta l'ultimatum

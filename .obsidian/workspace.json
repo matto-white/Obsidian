@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md",
+                "file": "Storia/Rivoluzione Russa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md",
+                "file": "Storia/Rivoluzione Russa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md"
+                "file": "Storia/Rivoluzione Russa.md"
               }
             }
           },
@@ -168,10 +169,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a35bd39e8421197",
+  "active": "17915fdac8563c01",
   "lastOpenFiles": [
-    "Storia/Rivoluzione Russa.md",
     "Storia/Prima guerra mondiale.md",
+    "Storia/Rivoluzione Russa.md",
     "Italiano/Verga/I Malavoglia.md",
     "Italiano/Verga/Verga.md",
     "Sistemi e Reti/Crittografia.md",
