@@ -37,7 +37,7 @@ Intanto gli eserciti Europei sono sfiancati
 ### 1916
 
 ### 1917
-febbraio - Scoppia la prima rivoluzione Russa, che è guidata dai militari contro lo Zar. Lo Zar abdica e la Russia diventa una repubblica
+febbraio - Scoppia la prima , [[rivoluzione Russa|Rivoluzione Russa]], che è guidata dai militari contro lo Zar. Lo Zar abdica e la Russia diventa una repubblica
 ottobre/novembre - Rivoluzione di Ottobre (Russia) dove sale al potere Lenin che firma la pace con i Tedeschi
 
 Ludendorf arriva in Italia
@@ -55,3 +55,5 @@ Brestiliktov (Russia) tratta la pace con gli imperi centrali, concedendogli quas
 
 14 punti di Wilson (8 gennaio 1918) - Sono delle linee guida per arrivare alla pace
 Trattati di Versailles (Conferenza di Parigi) (1919)
+
+Sykes Picot - All'impero Ottomano viene dato il territorio Turco
