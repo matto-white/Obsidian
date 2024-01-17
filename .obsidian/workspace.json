@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5f836153dfcc06d9",
+        "id": "76334d02b91f210e",
         "type": "tabs",
         "children": [
           {
-            "id": "5e9583d3aacde890",
+            "id": "d91f2e20cb470319",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatica/Informatica.md",
+                "file": "Italiano/Verga/I Malavoglia.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "4a56230024100544",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatica/Informatica.md",
+                "file": "Italiano/Verga/I Malavoglia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatica/Informatica.md",
+                "file": "Italiano/Verga/I Malavoglia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatica/Informatica.md"
+                "file": "Italiano/Verga/I Malavoglia.md"
               }
             }
           },
@@ -157,14 +156,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e9583d3aacde890",
+  "active": "d91f2e20cb470319",
   "lastOpenFiles": [
+    "Storia/Rivoluzione Russa.md",
+    "Informatica/Informatica.md",
     "Pasted image 20240117103738.png",
     "Pasted image 20240117103611.png",
     "Pasted image 20240117103102.png",
     "Informatica per Istituti Tecnici Tecnologici - Indirizzo Informatica e Telecomunicazioni - Volume C (atlas-91705) (1).pdf",
-    "Storia/Rivoluzione Russa.md",
-    "Informatica/Informatica.md",
     "Pasted image 20240116142819.png",
     "Pasted image 20240116142633.png",
     "Italiano/Verga/I Malavoglia.md",
@@ -204,7 +203,6 @@
     "Untitled.canvas",
     "GPOI/offerta.png",
     "GPOI/domanda.png",
-    "Obsidian/_resources/tcp_data_transfer.png",
-    "Obsidian/_resources/tcp_data_transfer 1.png"
+    "Obsidian/_resources/tcp_data_transfer.png"
   ]
 }
