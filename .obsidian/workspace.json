@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Verga/I Malavoglia.md",
+                "file": "Informatica/Informatica.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "4a56230024100544",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Verga/I Malavoglia.md",
+                "file": "Informatica/Informatica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Verga/I Malavoglia.md",
+                "file": "Informatica/Informatica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Verga/I Malavoglia.md"
+                "file": "Informatica/Informatica.md"
               }
             }
           },
@@ -158,9 +159,13 @@
   },
   "active": "54e34bd074e60e59",
   "lastOpenFiles": [
+    "Pasted image 20240116142819.png",
+    "Pasted image 20240116142633.png",
+    "Italiano/Verga/I Malavoglia.md",
+    "Informatica/Informatica.md",
+    "Informatica",
     "Storia/Rivoluzione Russa.md",
     "Storia/Prima guerra mondiale.md",
-    "Italiano/Verga/I Malavoglia.md",
     "Italiano/Verga/Verga.md",
     "Sistemi e Reti/Crittografia.md",
     "Sistemi e Reti/Esercizi.md",
@@ -185,8 +190,6 @@
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
     "GPOI/~syncthing~Project Management.md.tmp",
     "Storia/Stati Uniti.md",
-    "Storia/Cap. 16.md",
-    "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
     "Italiano/Verga",
     "Italiano/Leopardi/leopardi_canti.pdf",
     "_resources/Handshake.png",
@@ -197,7 +200,6 @@
     "Excalidraw",
     "Untitled.canvas",
     "GPOI/offerta.png",
-    "GPOI/offerta.png.crdownload",
     "GPOI/domanda.png",
     "Obsidian/_resources/tcp_data_transfer.png",
     "Obsidian/_resources/tcp_data_transfer 1.png",
