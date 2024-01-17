@@ -1,3 +1,4 @@
+[[Informatica per Istituti Tecnici Tecnologici - Indirizzo Informatica e Telecomunicazioni - Volume C (atlas-91705) (1).pdf]]
 In generale un archivio è un insieme organizzato di informazioni caratterizzate da alcune
 proprietà fondamentali:
 • tra esse esiste un nesso logico (cioè sono in qualche modo inerenti ad un medesimo
@@ -70,4 +71,79 @@ un apposito linguaggio di interrogazione, QL (Query Language).
 dizzato in modo che l’utente possa agevolmente passare da un DBMS a un altro.
 
 ![[Pasted image 20240116142819.png]]
+
+La descrizione dei dati è formata dai metadati, cioè dati che descrivono i dati, e prende il
+nome di dizionario dei dati o anche catalogo dei dati (in inglese, data dictionary).
+Il fatto che la descrizione dei dati che compongono il database sia conservata all’interno dello stesso
+database e non nei programmi applicativi garantisce l’indipendenza logica dei programmi dai dati.
+Il DBMS attingendo alle informazioni memorizzate nel dizionario dei dati è anche in grado di:
+• realizzare i controlli per garantire l’integrità dei dati,
+• autorizzare gli utenti in base alle politiche definite per l’accesso ai dati,
+• fornire servizi per il controllo della consistenza.
+
+Per descrivere i dati, il loro significato, come sono correlati e i vincoli definiti su di essi si fa uso
+di modelli dei dati. Essi sono classificabili secondo diversi livelli di generalità.
+Il livello più generale è noto come modello concettuale (o modello a livello di oggetti), seguito
+dal modello logico dei dati (o modello a livello di record) e infine, al livello più basso, si trova
+il modello fisico dei dati, che si occupa delle modalità e delle tecniche usate nella registrazione
+sulle memorie di massa.
+
+Tra i numerosi modelli proposti per la progettazione concettuale, i più noti sono il modello
+orientato agli oggetti e il modello Entità/Associazioni. Il modello Entità/Associazioni, indicato
+come modello E/R dal termine inglese Entity/Relationship, è il modello adottato in questo testo
+per la progettazione concettuale e sarà sviluppato nel Capitolo 2, mentre il modello orientato agli
+oggetti è presentato nei Contenuti digitali integrativi.
+Nella costruzione del modello E/R di una realtà si individuano gli oggetti che la compongono
+dette entità, gli attributi, che rappresentano le caratteristiche delle entità individuate, e infine
+le associazioni che individuano le correlazioni logiche tra entità. Entità, attributi, associazioni
+sono rappresentate graficamente in un diagramma E/R.
+
+A partire dallo schema concettuale Entità/Associazioni, un database può essere progettato e
+realizzato passando al modello logico, cioè alle strutture di dati che organizzano i dati, in modo
+da consentire le operazioni di manipolazione e di interrogazione.
+Nello sviluppo della teoria dei database, dagli anni ’60 in poi, sono emersi tre diversi tipi di
+modelli a livello di record per le basi di dati: il modello gerarchico, il modello reticolare e il modello
+relazionale.
+
+Il modello relazionale rappresenta il database come un insieme di tabelle. Esso viene
+considerato attualmente il modello più semplice ed efficace, perché è più vicino al modo
+consueto di pensare i dati, e si adatta in modo naturale alla classificazione e alla strutturazione
+dei dati.
+
+Il modello relazionale è un modello basato sui valori. Le associazioni tra entità sono descritte
+solamente tramite i valori assunti da campi, nelle righe delle tabelle che modellano le entità
+stesse, senza fare uso di puntatori.
+
+Il modello fisico dei dati ha la funzione di descrivere il modo con il quale un dato modello logico
+è mappato sulle memorie di massa del computer. Nel caso del modello relazionale, il modello
+fisico precisa come sono realizzate le tabelle, il modo per implementare i vincoli sui dati che le
+compongono, come rappresentare le associazioni tra tabelle, come costruire gli indici sui campi
+di una tabella e così via.
+
+I moderni DBMS seguono, di fatto, l’impostazione concettuale dell’architettura a tre livelli
+ANSI/SPARC, proposta nel 1975 da un comitato (Standard Planning And Requirements Committee)
+dell’ANSI (American National Standards Institute). Secondo questa impostazione i dati sono
+descritti secondo tre differenti livelli di astrazione, mediante opportuni schemi. I tre livelli sono
+indicati come il livello esterno, il livello logico e il livello interno.
+
+![[Pasted image 20240117103102.png]]
+
+L’architettura a tre livelli dei database realizza meccanismi di astrazione dei dati e assicura
+l’indipendenza dei dati. Con questo termine si vuole indicare che i livelli superiori non sono
+influenzati, entro certi limiti, dai cambiamenti che avvengono nei livelli inferiori dell’architet-
+tura dei dati. Si identificano due livelli di indipendenza dei dati: l’indipendenza logica e
+l’indipendenza fisica.
+
+Il DBMS (DataBase Management System) è il software che consente di costruire e gestire una
+base di dati, realizzandola nella pratica su memoria di massa, a partire da un progetto e da
+uno schema dei dati definiti a livello concettuale e tradotto poi in un modello logico dei dati.
+Il DBMS costituisce quindi un’interfaccia tra gli utenti di un database con le loro applicazioni
+e le risorse costituite dall’hardware e dagli archivi di dati presenti in un sistema di elaborazione.
+
+![[Pasted image 20240117103611.png]]
+
+Una transazione consiste in un insieme di operazioni di interrogazione o di modifica del
+database che devono essere eseguite unitariamente come se fossero un’unica operazione.
+
+![[Pasted image 20240117103738.png]]
 

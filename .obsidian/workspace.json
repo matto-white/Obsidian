@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "571960b8c69bcabc",
+        "id": "5f836153dfcc06d9",
         "type": "tabs",
         "children": [
           {
-            "id": "26ed00a540a8da67",
+            "id": "5e9583d3aacde890",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Rivoluzione Russa.md",
+                "file": "Informatica/Informatica.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "4a56230024100544",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Rivoluzione Russa.md",
+                "file": "Informatica/Informatica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Rivoluzione Russa.md",
+                "file": "Informatica/Informatica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Rivoluzione Russa.md"
+                "file": "Informatica/Informatica.md"
               }
             }
           },
@@ -156,14 +157,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "26ed00a540a8da67",
+  "active": "5e9583d3aacde890",
   "lastOpenFiles": [
+    "Pasted image 20240117103738.png",
+    "Pasted image 20240117103611.png",
+    "Pasted image 20240117103102.png",
+    "Informatica per Istituti Tecnici Tecnologici - Indirizzo Informatica e Telecomunicazioni - Volume C (atlas-91705) (1).pdf",
+    "Storia/Rivoluzione Russa.md",
     "Informatica/Informatica.md",
     "Pasted image 20240116142819.png",
     "Pasted image 20240116142633.png",
     "Italiano/Verga/I Malavoglia.md",
     "Informatica",
-    "Storia/Rivoluzione Russa.md",
     "Storia/Prima guerra mondiale.md",
     "Italiano/Verga/Verga.md",
     "Sistemi e Reti/Crittografia.md",
@@ -196,13 +201,10 @@
     "Chart Tue Sep 26 2023.png",
     "Italiano/Leopardi/leopardi_operette_morali.pdf",
     "Italiano/Leopardi/G.A.Levi_Leopardi. Una biografia per immagini.pdf",
-    "Excalidraw",
     "Untitled.canvas",
     "GPOI/offerta.png",
     "GPOI/domanda.png",
     "Obsidian/_resources/tcp_data_transfer.png",
-    "Obsidian/_resources/tcp_data_transfer 1.png",
-    "Obsidian/_resources/TCP Header.png",
-    "Obsidian/_resources/Handshake.png"
+    "Obsidian/_resources/tcp_data_transfer 1.png"
   ]
 }
