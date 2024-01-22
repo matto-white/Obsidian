@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "76334d02b91f210e",
+        "id": "3012d34ac4c4a2f1",
         "type": "tabs",
         "children": [
           {
-            "id": "d91f2e20cb470319",
+            "id": "1713d42c368ae645",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Verga/I Malavoglia.md",
+                "file": "GPOI/Business idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Verga/I Malavoglia.md",
+                "file": "GPOI/Business idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Verga/I Malavoglia.md",
+                "file": "GPOI/Business idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Verga/I Malavoglia.md"
+                "file": "GPOI/Business idea.md"
               }
             }
           },
@@ -156,8 +156,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d91f2e20cb470319",
+  "active": "1713d42c368ae645",
   "lastOpenFiles": [
+    "GPOI/Business idea.md",
+    "Italiano/Verga/I Malavoglia.md",
     "Storia/Rivoluzione Russa.md",
     "Informatica/Informatica.md",
     "Pasted image 20240117103738.png",
@@ -166,7 +168,6 @@
     "Informatica per Istituti Tecnici Tecnologici - Indirizzo Informatica e Telecomunicazioni - Volume C (atlas-91705) (1).pdf",
     "Pasted image 20240116142819.png",
     "Pasted image 20240116142633.png",
-    "Italiano/Verga/I Malavoglia.md",
     "Informatica",
     "Storia/Prima guerra mondiale.md",
     "Italiano/Verga/Verga.md",
