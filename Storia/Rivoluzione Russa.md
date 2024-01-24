@@ -28,5 +28,11 @@ All'inizio del 18 viene varata una nuova costituzione, che prevede uno stato fed
 Inizia a nascere il problema della legittimazione del governo. Davanti a molti che chiedono una votazione, Lenin risponde che è arrivato il tempo della dittatura del proletariato (Giustifica la dittatura dei Bolscevichi)
 Il potere viene dato al "consiglio dei commissari del popolo" che procede in maniera serrata ad una serie di confische agli aristocratici e agli ecclesiastici, e al controllo di vari servizi (giornali, radio...), viene istituita una polizia politica, la CEKA, per valutare i crimini politici, e i tribunali ...., vengono anche cambiati i diritti delle donne, che avevano gli stessi diritti e doveri degli uomini.
 
-Viene creata "l'AGITPROP" l'ufficio per la gestione dell'agitazione e della propaganda 
+Viene creata "l'AGITPROP" l'ufficio per la gestione dell'agitazione e della propaganda
+
+Nasce l'Armata Bianca, per contrastare la rivoluzione Bolscevica
+
+Scoppia una Guerra civile che dura 3 anni (Fino al 1922)
+
+Trotzki, un componete del governo Bolscevico, aiuta a fondare l'Armata Rossa
 # Seconda Rivoluzione
