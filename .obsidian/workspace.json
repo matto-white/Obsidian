@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3012d34ac4c4a2f1",
+        "id": "1fff54d99faf6537",
         "type": "tabs",
         "children": [
           {
-            "id": "1713d42c368ae645",
+            "id": "709b254fb04d2548",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPOI/Business idea.md",
+                "file": "Storia/Rivoluzione Russa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPOI/Business idea.md",
+                "file": "Storia/Rivoluzione Russa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPOI/Business idea.md",
+                "file": "Storia/Rivoluzione Russa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPOI/Business idea.md"
+                "file": "Storia/Rivoluzione Russa.md"
               }
             }
           },
@@ -156,8 +156,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1713d42c368ae645",
+  "active": "709b254fb04d2548",
   "lastOpenFiles": [
+    "Sistemi e Reti/NAT.md",
     "GPOI/Business idea.md",
     "Italiano/Verga/I Malavoglia.md",
     "Storia/Rivoluzione Russa.md",
@@ -174,7 +175,6 @@
     "Sistemi e Reti/Crittografia.md",
     "Sistemi e Reti/Esercizi.md",
     "GPOI/Project Management.md",
-    "Sistemi e Reti/NAT.md",
     "Excalidraw/NAT 2024-01-09 08.33.28.excalidraw.md",
     "Excalidraw/Project Management 2024-01-08 10.28.28.excalidraw.md",
     "GPOI/Guadagno.md",

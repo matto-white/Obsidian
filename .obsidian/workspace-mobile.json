@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e Reti/Crittografia.md",
+                "file": "Storia/Rivoluzione Russa.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "byCreatedTime"
           }
         }
       },
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sistemi e Reti/Crittografia.md",
+            "file": "Storia/Rivoluzione Russa.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Sistemi e Reti/Crittografia.md",
+            "file": "Storia/Rivoluzione Russa.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Sistemi e Reti/Crittografia.md"
+            "file": "Storia/Rivoluzione Russa.md"
           }
         }
       }
@@ -140,8 +140,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7d0d78a65fdae7a",
+  "active": "1915fb20b46a24ff",
   "lastOpenFiles": [
+    "Sistemi e Reti/Crittografia.md",
     "Storia/Cap. 13 e 17.md",
     "GPOI/Microeconomia.md",
     "Sistemi e Reti/Nomi di dominio e DNS.md",
@@ -170,7 +171,6 @@
     "Italiano/Leopardi/Alla sua donna.md",
     "Sistemi e Reti/Esercizi.md",
     "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md",
-    "Italiano/Leopardi/Leopardi.md",
     "GPOI/domanda.png",
     "Untitled.canvas",
     "Italiano/Leopardi",
