@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1fff54d99faf6537",
+        "id": "7f891bfac260e2c1",
         "type": "tabs",
         "children": [
           {
-            "id": "709b254fb04d2548",
+            "id": "b0727e4051bf8e26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Rivoluzione Russa.md",
+                "file": "Italiano/Verga/Libertà.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Rivoluzione Russa.md",
+                "file": "Italiano/Verga/Libertà.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Rivoluzione Russa.md",
+                "file": "Italiano/Verga/Libertà.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Rivoluzione Russa.md"
+                "file": "Italiano/Verga/Libertà.md"
               }
             }
           },
@@ -156,12 +156,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "709b254fb04d2548",
+  "active": "b0727e4051bf8e26",
   "lastOpenFiles": [
+    "Storia/Rivoluzione Russa.md",
+    "Italiano/Verga/Libertà.md",
     "Sistemi e Reti/NAT.md",
     "GPOI/Business idea.md",
     "Italiano/Verga/I Malavoglia.md",
-    "Storia/Rivoluzione Russa.md",
     "Informatica/Informatica.md",
     "Pasted image 20240117103738.png",
     "Pasted image 20240117103611.png",
@@ -193,7 +194,6 @@
     "Storia/Ripasso Libro 12 14 16.md",
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
     "GPOI/~syncthing~Project Management.md.tmp",
-    "Storia/Stati Uniti.md",
     "Italiano/Verga",
     "Italiano/Leopardi/leopardi_canti.pdf",
     "_resources/Handshake.png",
