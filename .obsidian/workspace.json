@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a8e92a0c8762921b",
+        "id": "4eff40043654fc9a",
         "type": "tabs",
         "children": [
           {
-            "id": "9eb67653cb411a98",
+            "id": "f6e7a8c70a911a11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Verga/La Roba.md",
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Verga/La Roba.md",
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Verga/La Roba.md",
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Verga/La Roba.md"
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md"
               }
             }
           },
@@ -156,8 +156,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9eb67653cb411a98",
+  "active": "f6e7a8c70a911a11",
   "lastOpenFiles": [
+    "Sistemi e Reti/Progettazione Reti Sicure.md",
     "Italiano/Verga/La Roba.md",
     "Italiano/Verga/Libertà.md",
     "Storia/Rivoluzione Russa.md",
@@ -190,7 +191,6 @@
     "Sistemi e Reti/TCP.md",
     "Sistemi e Reti/Sistemi di autenticazione.md",
     "Sistemi e Reti/VLAN.md",
-    "Italiano/Verga/L'alfier nero.md",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
     "GPOI/~syncthing~Project Management.md.tmp",
