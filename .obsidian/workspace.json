@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7855161715c6eae1",
+        "id": "d61e572ab542eb0e",
         "type": "tabs",
         "children": [
           {
-            "id": "5d387d7656339430",
+            "id": "34b63f23de262ce8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Verga/La Roba.md",
+                "file": "GPOI/Business idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Verga/La Roba.md",
+                "file": "GPOI/Business idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Verga/La Roba.md",
+                "file": "GPOI/Business idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Verga/La Roba.md"
+                "file": "GPOI/Business idea.md"
               }
             }
           },
@@ -156,11 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d387d7656339430",
+  "active": "34b63f23de262ce8",
   "lastOpenFiles": [
+    "Italiano/Verga/La Roba.md",
     "Storia/Rivoluzione Russa.md",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
-    "Italiano/Verga/La Roba.md",
     "Italiano/Verga/Libertà.md",
     "Sistemi e Reti/NAT.md",
     "GPOI/Business idea.md",
