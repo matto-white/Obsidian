@@ -8,3 +8,17 @@ Nelle LAN aziendali viene realizzato attraverso un software incluso nel router o
 - application level firewall
 - packet filter firewall
 - stateful packet inspection firewall
+
+# ACL
+## ACL Standard
+Hanno numero da 1 a 99 e da 1300 a 1999
+Controllano solo l'ip sorgente
+## ACL Estese
+hanno numero da 100 a 199 e da 2000 a 2699
+Controllano l'ip e possono indicare anche protocolli L4-L7
+
+Sintassi acl router: ..# access-list numero {permit | deny} ip-sorgente \[wildcard mask]
+
+## Wildcard Mask
+32bit stabilisce se i bit dell'indirizzo il devono essere controllati o no
+
