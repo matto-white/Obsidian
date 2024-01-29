@@ -8,5 +8,5 @@ Baseline(ammontare preponderante) + management reserve = Budget di Base
 
 BCWS = Budgeted cost of work schedulation
 
-ACWP = curva del lavoro effettivamente realizzato e a costi effettivi
-BCWP = Corva del lavoro effettivamente realizzato, ma a costi previsti
+ACWP = Curva del lavoro effettivamente realizzato e a costi effettivi
+BCWP = Curva del lavoro effettivamente realizzato, ma a costi previsti
