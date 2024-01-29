@@ -22,3 +22,12 @@ Sintassi acl router: ..# access-list numero {permit | deny} ip-sorgente \[wildca
 ## Wildcard Mask
 32bit stabilisce se i bit dell'indirizzo il devono essere controllati o no
 
+Es. voglio controllare l'indirizzo ip 169.12.5.0/24
+
+voglio bloccare il traffico in arrivo dai seguenti indirizzi ip: da 169.12.5.4 fino a 169.12.5.7
+
+.4    00000100
+.5    00000101
+.6    00000110
+.7    00000111
+00000011 = 0.0.0.3
