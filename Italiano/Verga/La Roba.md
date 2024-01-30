@@ -1,1 +1,1 @@
-L'inizio è quello di una favola
+L'inizio sembra quello di una favola
