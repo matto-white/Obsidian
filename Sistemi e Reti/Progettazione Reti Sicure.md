@@ -31,3 +31,8 @@ voglio bloccare il traffico in arrivo dai seguenti indirizzi ip: da 169.12.5.4 f
 .6    00000110
 .7    00000111
 00000011 = 0.0.0.3
+
+# DMZ
+(Demilitarized Zone)
+La DMZ contiene ed espone dei servizi ad una rete ritenuta non sicura.
+Lo scopo di una DMZ è proteggere la rete
