@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md",
+                "file": "GPOI/Microeconomia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md",
+                "file": "GPOI/Microeconomia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md",
+                "file": "GPOI/Microeconomia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md"
+                "file": "GPOI/Microeconomia.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +157,9 @@
   },
   "active": "6a6948b4df5cee47",
   "lastOpenFiles": [
-    "Storia/Cap 1 & 2(Libro 3).md",
+    "GPOI/domanda.png",
     "Storia/Prima guerra mondiale.md",
+    "Storia/Cap 1 & 2(Libro 3).md",
     "Italiano/Verga/Mastro don Gesualdo.md",
     "Italiano/Verga/I Malavoglia.md",
     "Italiano/Verga/La Roba.md",
@@ -190,7 +190,6 @@
     "conflict-files-obsidian-git.md",
     "Sistemi e Reti/Nomi di dominio e DNS.md",
     "Sistemi e Reti/TCP.md",
-    "Sistemi e Reti/Sistemi di autenticazione.md",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
     "GPOI/~syncthing~Project Management.md.tmp",
@@ -203,7 +202,6 @@
     "Italiano/Leopardi/G.A.Levi_Leopardi. Una biografia per immagini.pdf",
     "Untitled.canvas",
     "GPOI/offerta.png",
-    "GPOI/domanda.png",
     "Obsidian/_resources/tcp_data_transfer.png"
   ]
 }
