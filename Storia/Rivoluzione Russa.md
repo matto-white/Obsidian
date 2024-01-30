@@ -37,3 +37,11 @@ Scoppia una Guerra civile che dura 3 anni (Fino al 1922)
 Trotzki, un componete del governo Bolscevico, aiuta a fondare l'Armata Rossa
 
 La guerra civile Russa ha ucciso più di 7000000 di persone
+
+In Russia e dintorni viene ritirato il cibo prodotto in eccesso, questo crea una serie di problemi come la carestia in Ucraina che porta a 7 milioni di morti
+
+I marinai della base di Kronstadt si ribellano, ma la rivolta viene sedata in fretta
+Lenin annuncia la NEP (Nuova economia), che permette piccole aziende private
+1922 - Viene ripensata la struttura nazionale politica, e nasce l'URSS (Unione delle Repubbliche Socialiste Sovietiche, o CCCP/USSR) (Russia, Siberia, Ucraina, Bielorussia, Transcaucasica. In futuro Kazakistan, Uzbekistan...)
+1924 - Viene approvata la nuova costituzione dell'URSS.
+1924 - Muore Lenin
