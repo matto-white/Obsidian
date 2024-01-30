@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d61e572ab542eb0e",
+        "id": "d0d8ab4e53bc4fcb",
         "type": "tabs",
         "children": [
           {
-            "id": "34b63f23de262ce8",
+            "id": "0b53055f64685dcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Storia/Rivoluzione Russa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Storia/Rivoluzione Russa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Storia/Rivoluzione Russa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md"
+                "file": "Storia/Rivoluzione Russa.md"
               }
             }
           },
@@ -156,12 +156,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34b63f23de262ce8",
+  "active": "0b53055f64685dcf",
   "lastOpenFiles": [
+    "Sistemi e Reti/Progettazione Reti Sicure.md",
     "GPOI/Business idea.md",
     "Italiano/Verga/La Roba.md",
     "Storia/Rivoluzione Russa.md",
-    "Sistemi e Reti/Progettazione Reti Sicure.md",
     "Italiano/Verga/Libertà.md",
     "Sistemi e Reti/NAT.md",
     "Italiano/Verga/I Malavoglia.md",

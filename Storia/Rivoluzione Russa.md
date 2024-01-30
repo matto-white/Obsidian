@@ -18,7 +18,7 @@ Tesi di aprile:
 3) Governo dei Soviet
 4) Presa del potere con la rivoluzione
 Insurrezione di Luglio: Fallisce perchè la maggioranza dei Soviet è ancora dalla parte dei socialisti rivoluzionari. Ha due risultati: 1, I Bolscevichi devono scappare, e Lenin trova rifugio in Finlandia; 2, L'Vov si dimette e lascia la presidenza a Kerenskj, che spinge per andare avanti con la guerra.
-Questa insistenza provoca grandi perdite per l'esercito russo, quindi le truppo di Kornilov (Cosacchi) decidono di fare un colpo di stato verso Kerenskj. Kerenskj decide di far tornare i Bolscevichi perchè erano quelli con più controllo sulle masse popolari. Grazie ai Bolscevichi il coplo di stato viene fermato e Kornilov si ritira.
+Questa insistenza provoca grandi perdite per l'esercito russo, quindi le truppo di Kornilov (Cosacchi) decidono di fare un colpo di stato verso Kerenskj. Kerenskj decide di far tornare i Bolscevichi perchè erano quelli con più controllo sulle masse popolari. Grazie ai Bolscevichi il colpo di stato viene fermato e Kornilov si ritira.
 A fine estate nascono una serie di rivolte agrarie
 Ottobre - A questo punto Lenin dice che è ora di attaccare, e i Bolscevichi assaltano il "Palazzo d'Inverno" e prendono il controllo. Nasce il governo dei Bolscevichi
 
@@ -35,4 +35,5 @@ Nasce l'Armata Bianca, per contrastare la rivoluzione Bolscevica
 Scoppia una Guerra civile che dura 3 anni (Fino al 1922)
 
 Trotzki, un componete del governo Bolscevico, aiuta a fondare l'Armata Rossa
-# Seconda Rivoluzione
+
+La guerra civile Russa ha ucciso più di 7000000 di persone
