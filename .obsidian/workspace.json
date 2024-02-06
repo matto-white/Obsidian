@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14cab618d2a3c527",
+        "id": "1711e165c7fb13df",
         "type": "tabs",
         "children": [
           {
-            "id": "633fa1c52abd7769",
+            "id": "6d980b51b0d69a35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Italiano/Verga/Mastro don Gesualdo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Italiano/Verga/Mastro don Gesualdo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Italiano/Verga/Mastro don Gesualdo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md"
+                "file": "Italiano/Verga/Mastro don Gesualdo.md"
               }
             }
           },
@@ -156,11 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "633fa1c52abd7769",
+  "active": "6d980b51b0d69a35",
   "lastOpenFiles": [
+    "Sistemi e Reti/Progettazione Reti Sicure.md",
     "Italiano/Verga/Mastro don Gesualdo.md",
     "Storia/Prima guerra mondiale.md",
-    "Sistemi e Reti/Progettazione Reti Sicure.md",
     "GPOI/Microeconomia.md",
     "GPOI/domanda.png",
     "Storia/Cap 1 & 2(Libro 3).md",
