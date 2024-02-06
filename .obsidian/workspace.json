@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1711e165c7fb13df",
+        "id": "479b9d55f1be51e8",
         "type": "tabs",
         "children": [
           {
-            "id": "6d980b51b0d69a35",
+            "id": "7a0e3d8bcb68492a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Verga/Mastro don Gesualdo.md",
+                "file": "Storia/Primo dopoguerra in Italia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Verga/Mastro don Gesualdo.md",
+                "file": "Storia/Primo dopoguerra in Italia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Verga/Mastro don Gesualdo.md",
+                "file": "Storia/Primo dopoguerra in Italia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Verga/Mastro don Gesualdo.md"
+                "file": "Storia/Primo dopoguerra in Italia.md"
               }
             }
           },
@@ -156,17 +156,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d980b51b0d69a35",
+  "active": "7a0e3d8bcb68492a",
   "lastOpenFiles": [
-    "Sistemi e Reti/Progettazione Reti Sicure.md",
-    "Italiano/Verga/Mastro don Gesualdo.md",
     "Storia/Prima guerra mondiale.md",
+    "Storia/Primo dopoguerra in Italia.md",
+    "Storia/Rivoluzione Russa.md",
+    "Italiano/Verga/Mastro don Gesualdo.md",
+    "Sistemi e Reti/Progettazione Reti Sicure.md",
     "GPOI/Microeconomia.md",
     "GPOI/domanda.png",
     "Storia/Cap 1 & 2(Libro 3).md",
     "Italiano/Verga/I Malavoglia.md",
     "Italiano/Verga/La Roba.md",
-    "Storia/Rivoluzione Russa.md",
     "GPOI/Business idea.md",
     "Italiano/Verga/Libertà.md",
     "Sistemi e Reti/NAT.md",
