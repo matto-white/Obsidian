@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "deb333ba3671e8f3",
+        "id": "ac2f1c635f48753f",
         "type": "tabs",
         "children": [
           {
-            "id": "9bc960bbf280ebdf",
+            "id": "253cb9b64b567841",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md",
+                "file": "Italiano/Verga/Mastro don Gesualdo.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "4a56230024100544",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md",
+                "file": "Italiano/Verga/Mastro don Gesualdo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md",
+                "file": "Italiano/Verga/Mastro don Gesualdo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md"
+                "file": "Italiano/Verga/Mastro don Gesualdo.md"
               }
             }
           },
@@ -157,10 +156,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e4b7df608794846",
+  "active": "253cb9b64b567841",
   "lastOpenFiles": [
-    "Sistemi e Reti/Progettazione Reti Sicure.md",
     "Storia/Prima guerra mondiale.md",
+    "Sistemi e Reti/Progettazione Reti Sicure.md",
     "GPOI/Microeconomia.md",
     "GPOI/domanda.png",
     "Storia/Cap 1 & 2(Libro 3).md",
