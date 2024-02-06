@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ac2f1c635f48753f",
+        "id": "14cab618d2a3c527",
         "type": "tabs",
         "children": [
           {
-            "id": "253cb9b64b567841",
+            "id": "633fa1c52abd7769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Verga/Mastro don Gesualdo.md",
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Verga/Mastro don Gesualdo.md",
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Verga/Mastro don Gesualdo.md",
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Verga/Mastro don Gesualdo.md"
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md"
               }
             }
           },
@@ -156,14 +156,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "253cb9b64b567841",
+  "active": "633fa1c52abd7769",
   "lastOpenFiles": [
+    "Italiano/Verga/Mastro don Gesualdo.md",
     "Storia/Prima guerra mondiale.md",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
     "GPOI/Microeconomia.md",
     "GPOI/domanda.png",
     "Storia/Cap 1 & 2(Libro 3).md",
-    "Italiano/Verga/Mastro don Gesualdo.md",
     "Italiano/Verga/I Malavoglia.md",
     "Italiano/Verga/La Roba.md",
     "Storia/Rivoluzione Russa.md",

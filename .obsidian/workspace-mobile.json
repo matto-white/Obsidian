@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Rivoluzione Russa.md",
+                "file": "Storia/Prima guerra mondiale.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Storia/Rivoluzione Russa.md",
+            "file": "Storia/Prima guerra mondiale.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Storia/Rivoluzione Russa.md",
+            "file": "Storia/Prima guerra mondiale.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Storia/Rivoluzione Russa.md"
+            "file": "Storia/Prima guerra mondiale.md"
           }
         }
       }
@@ -142,6 +142,8 @@
   },
   "active": "1915fb20b46a24ff",
   "lastOpenFiles": [
+    "Storia/Rivoluzione Russa.md",
+    "Storia/Prima guerra mondiale.md",
     "Sistemi e Reti/Crittografia.md",
     "Storia/Cap. 13 e 17.md",
     "GPOI/Microeconomia.md",
@@ -169,8 +171,6 @@
     "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
     "Excalidraw/Microeconomia 2023-10-02 10.40.18.excalidraw.md",
     "Italiano/Leopardi/Alla sua donna.md",
-    "Sistemi e Reti/Esercizi.md",
-    "Excalidraw/Guadagno 2023-10-09 12.17.30.excalidraw.md",
     "GPOI/domanda.png",
     "Untitled.canvas",
     "Italiano/Leopardi",
