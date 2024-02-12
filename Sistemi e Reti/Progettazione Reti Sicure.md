@@ -42,9 +42,10 @@ Lo scopo di una DMZ è proteggere la rete
 Esistono 2 tipi:
 ## 1) Remote access VPN
 porta qualsiasi applicazione (Dati, voce, video...) al desktop remoto, emulando il desktop dell'ufficio principale
-Consente ai singoli utenti di stabilire connessioni sicure con la lan aziendale remota
+Consente ai singoli utenti di stabilire connessioni sicure con la lan aziendale remota. Sfrutta un sistema di autentificazione interno oppure un servizio esterno come un AAA (Authentication Authorization Accounting) server
 ![[Progettazione Reti Sicure 2024-02-12 12.01.45.excalidraw]]
 ### N.B. 2 componenti indispensabili
-1) Server di accesso alla rete => NAS (Network Access Server)
+1) Server di accesso alla rete => NAS (Network Access Server). 
 ## 2) Site to site VPN
 l'artenativa alle WAN. Consente alle aziende di ampliare le risorse di rete alle filiali
+![[Progettazione Reti Sicure 2024-02-12 12.27.12.excalidraw]]
