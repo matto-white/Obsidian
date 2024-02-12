@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Primo dopoguerra in Italia.md",
+                "file": "Italiano/Italo Svevo/Italo Svevo.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Aron Hector Schmitz\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Primo dopoguerra in Italia.md",
+                "file": "Italiano/Italo Svevo/Italo Svevo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Primo dopoguerra in Italia.md",
+                "file": "Italiano/Italo Svevo/Italo Svevo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Primo dopoguerra in Italia.md"
+                "file": "Italiano/Italo Svevo/Italo Svevo.md"
               }
             }
           },
@@ -155,10 +156,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05c3cb959f838947",
+  "active": "58f2798abf836b00",
   "lastOpenFiles": [
-    "Storia/Prima guerra mondiale.md",
     "Storia/Primo dopoguerra in Italia.md",
+    "Italiano/Italo Svevo/Italo Svevo.md",
+    "Italiano/Italo Svevo",
+    "Storia/Prima guerra mondiale.md",
     "conflict-files-obsidian-git.md",
     "Storia/Rivoluzione Russa.md",
     "Italiano/Verga/Mastro don Gesualdo.md",
@@ -190,7 +193,6 @@
     "Italiano/Verga/Prefazione alla fortuna dei Rugon.md",
     "Italiano/Verga/Vita dei Campi.md",
     "Sistemi e Reti/Nomi di dominio e DNS.md",
-    "Sistemi e Reti/TCP.md",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
     "GPOI/~syncthing~Project Management.md.tmp",
@@ -200,7 +202,6 @@
     "_resources/TCP.pdf",
     "Chart Tue Sep 26 2023.png",
     "Italiano/Leopardi/leopardi_operette_morali.pdf",
-    "Italiano/Leopardi/G.A.Levi_Leopardi. Una biografia per immagini.pdf",
     "Untitled.canvas",
     "GPOI/offerta.png",
     "Obsidian/_resources/tcp_data_transfer.png"
