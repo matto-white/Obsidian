@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Inglese/Spices in the middle ages.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Inglese/Spices in the middle ages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Inglese/Spices in the middle ages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md"
+                "file": "Inglese/Spices in the middle ages.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "7516da31595d36a8",
   "lastOpenFiles": [
-    "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.27.12.excalidraw.md",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
+    "Inglese/Spices in the middle ages.md",
+    "Inglese",
+    "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.27.12.excalidraw.md",
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.01.45.excalidraw.md",
     "Excalidraw/Drawing 2024-02-12 12.00.33.excalidraw.md",
     "GPOI/Tempi.md",
@@ -191,7 +193,6 @@
     "GPOI/Project Management.md",
     "Excalidraw/NAT 2024-01-09 08.33.28.excalidraw.md",
     "Excalidraw/Project Management 2024-01-08 10.28.28.excalidraw.md",
-    "GPOI/Guadagno.md",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
     "GPOI/~syncthing~Project Management.md.tmp",
@@ -200,7 +201,6 @@
     "_resources/Handshake.png",
     "_resources/TCP.pdf",
     "Chart Tue Sep 26 2023.png",
-    "Italiano/Leopardi/leopardi_operette_morali.pdf",
     "Untitled.canvas",
     "GPOI/offerta.png",
     "Obsidian/_resources/tcp_data_transfer.png"
