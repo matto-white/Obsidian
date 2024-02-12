@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/Spices in the middle ages.md",
+                "file": "Inglese/The geography of spices and erbs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inglese/Spices in the middle ages.md",
+                "file": "Inglese/The geography of spices and erbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inglese/Spices in the middle ages.md",
+                "file": "Inglese/The geography of spices and erbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inglese/Spices in the middle ages.md"
+                "file": "Inglese/The geography of spices and erbs.md"
               }
             }
           },
@@ -146,19 +146,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7516da31595d36a8",
   "lastOpenFiles": [
-    "Sistemi e Reti/Progettazione Reti Sicure.md",
     "Inglese/Spices in the middle ages.md",
+    "Inglese/The geography of spices and erbs.md",
+    "Sistemi e Reti/Progettazione Reti Sicure.md",
     "Inglese",
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.27.12.excalidraw.md",
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.01.45.excalidraw.md",
@@ -192,7 +193,6 @@
     "Sistemi e Reti/Esercizi.md",
     "GPOI/Project Management.md",
     "Excalidraw/NAT 2024-01-09 08.33.28.excalidraw.md",
-    "Excalidraw/Project Management 2024-01-08 10.28.28.excalidraw.md",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
     "GPOI/~syncthing~Project Management.md.tmp",
