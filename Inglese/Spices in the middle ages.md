@@ -1,2 +1,3 @@
+https://www.historicalcookingclasses.com/spices-middle-ages/
 Spices were a vital part of medieval life. They were expensive and luxurious, and were used in cooking, medicine, perfumes, and religious rituals. The most popular spices were cinnamon, ginger, cloves, nutmeg, and pepper, and they were used to flavor a wide variety of dishes.
 Spices were also used to preserve food, and they were an important part of trade between Europe and the East. They were a symbol of wealth and status, and were often used as gifts between important people.
