@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7913c996d75d97f1",
+        "id": "5b67c1439c2bcb96",
         "type": "tabs",
         "children": [
           {
-            "id": "7516da31595d36a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7426e9e240071edb",
+            "id": "875fb18409f0cad5",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,9 +147,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7426e9e240071edb",
+  "active": "875fb18409f0cad5",
   "lastOpenFiles": [
+    "Chart Tue Sep 26 2023.png",
+    "Untitled.md",
     "conflict-files-obsidian-git.md",
+    "Inglese/The geography of spices and erbs.sync-conflict-20240213-151245-C5LEHAY.md",
+    "Inglese/The geography of spices and erbs.pdf",
+    "Inglese/Spices in the middle ages.pdf",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
     "Inglese/The geography of spices and erbs.md",
     "Inglese/Spices in the middle ages.md",
@@ -195,17 +187,11 @@
     "Informatica",
     "Italiano/Verga/Verga.md",
     "Sistemi e Reti/Crittografia.md",
-    "Sistemi e Reti/Esercizi.md",
-    "GPOI/Project Management.md",
-    "Excalidraw/NAT 2024-01-09 08.33.28.excalidraw.md",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
     "GPOI/~syncthing~Project Management.md.tmp",
     "Italiano/Verga",
-    "Italiano/Leopardi/leopardi_canti.pdf",
     "_resources/Handshake.png",
-    "_resources/TCP.pdf",
-    "Chart Tue Sep 26 2023.png",
     "Untitled.canvas",
     "GPOI/offerta.png",
     "Obsidian/_resources/tcp_data_transfer.png"
