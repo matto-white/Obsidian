@@ -49,3 +49,5 @@ Consente ai singoli utenti di stabilire connessioni sicure con la lan aziendale 
 ## 2) Site to site VPN
 l'artenativa alle WAN. Consente alle aziende di ampliare le risorse di rete alle filiali
 ![[Progettazione Reti Sicure 2024-02-12 12.27.12.excalidraw]]
+# IPsec
+IPsec non è un singolo protocollo ma un architettura di sicurezza a livello network
