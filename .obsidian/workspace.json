@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29fa6dc26e2ce1db",
+        "id": "8aba84a2e58414e5",
         "type": "tabs",
         "children": [
           {
-            "id": "c6ec4567ae6bc4a1",
+            "id": "bccbc865481f4874",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Primo dopoguerra in Italia.md",
+                "file": "Inglese/Spices in the middle ages.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Primo dopoguerra in Italia.md",
+                "file": "Inglese/Spices in the middle ages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Primo dopoguerra in Italia.md",
+                "file": "Inglese/Spices in the middle ages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Primo dopoguerra in Italia.md"
+                "file": "Inglese/Spices in the middle ages.md"
               }
             }
           },
@@ -155,14 +155,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6ec4567ae6bc4a1",
+  "active": "bccbc865481f4874",
   "lastOpenFiles": [
-    "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
+    "Inglese/Spices in the middle ages.pdf",
+    "Inglese/The geography of spices and erbs.md",
+    "Inglese/The geography of spices and erbs.pdf",
+    "Inglese/Spices in the middle ages.md",
     "Storia/Primo dopoguerra in Italia.md",
+    "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
     "conflict-files-obsidian-git.md",
-    "Inglese/The geography of spices and erbs.md",
-    "Inglese/Spices in the middle ages.md",
     "Inglese",
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.27.12.excalidraw.md",
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.01.45.excalidraw.md",
@@ -192,14 +194,12 @@
     "Italiano/Verga/Verga.md",
     "Sistemi e Reti/Crittografia.md",
     "Sistemi e Reti/Esercizi.md",
-    "GPOI/Project Management.md",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
     "GPOI/~syncthing~Project Management.md.tmp",
     "Italiano/Verga",
     "Italiano/Leopardi/leopardi_canti.pdf",
     "_resources/Handshake.png",
-    "_resources/TCP.pdf",
     "Chart Tue Sep 26 2023.png",
     "Untitled.canvas",
     "GPOI/offerta.png",
