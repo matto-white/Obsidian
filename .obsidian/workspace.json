@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "35b16bd4a35010e6",
+        "id": "b68abaa2b346b885",
         "type": "tabs",
         "children": [
           {
-            "id": "ac840b9d8b4bbe0e",
+            "id": "e9ab1b4f64ed0a85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
+                "file": "Storia/Il Fascismo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
+                "file": "Storia/Il Fascismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
+                "file": "Storia/Il Fascismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md"
+                "file": "Storia/Il Fascismo.md"
               }
             }
           },
@@ -156,18 +156,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac840b9d8b4bbe0e",
+  "active": "e9ab1b4f64ed0a85",
   "lastOpenFiles": [
+    "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
+    "Storia/Il Fascismo.md",
+    "Storia/Primo dopoguerra in Italia.md",
+    "Italiano/Italo Svevo/La coscienza di Zeno.md",
     "Inglese/IoT.md",
     "conflict-files-obsidian-git.md",
-    "Italiano/Italo Svevo/La coscienza di Zeno.md",
     "Italiano/Italo Svevo/Italo Svevo.md",
     "Inglese/Spices in the middle ages.md",
     "Inglese/The geography of spices and erbs.md",
     "Inglese/Spices in the middle ages.pdf",
     "Inglese/The geography of spices and erbs.pdf",
-    "Storia/Primo dopoguerra in Italia.md",
-    "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
     "Inglese",
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.27.12.excalidraw.md",
@@ -195,7 +196,6 @@
     "Pasted image 20240116142633.png",
     "Informatica",
     "Italiano/Verga/Verga.md",
-    "Sistemi e Reti/Crittografia.md",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
     "GPOI/~syncthing~Project Management.md.tmp",
