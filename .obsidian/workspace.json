@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "705f3797e95514d8",
+        "id": "35b16bd4a35010e6",
         "type": "tabs",
         "children": [
           {
-            "id": "a36fe2bf41344216",
+            "id": "ac840b9d8b4bbe0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/IoT.md",
+                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inglese/IoT.md",
+                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inglese/IoT.md",
+                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inglese/IoT.md"
+                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md"
               }
             }
           },
@@ -156,10 +156,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a36fe2bf41344216",
+  "active": "ac840b9d8b4bbe0e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Inglese/IoT.md",
+    "conflict-files-obsidian-git.md",
     "Italiano/Italo Svevo/La coscienza di Zeno.md",
     "Italiano/Italo Svevo/Italo Svevo.md",
     "Inglese/Spices in the middle ages.md",
