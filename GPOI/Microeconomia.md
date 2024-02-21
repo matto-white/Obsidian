@@ -1,4 +1,4 @@
-Studia i comportamenti dei singoli agenti economici (consumatore, produttore, singola azienda)
+/Studia i comportamenti dei singoli agenti economici (consumatore, produttore, singola azienda)
 
 ## Legge della domanda e dell'offerta (di un bene)
 ### Domanda di mercato di un bene:
