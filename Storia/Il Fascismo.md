@@ -11,3 +11,4 @@ Parte una campagna di indignazione verso il Governo
 Secessione dell'Aventino
 3 gennaio 1925 - Fa un colpo, e in un discorso annuncia di assumere la piena responsabilità dei quanto accaduto.
 Da qui inizia il regime Fascista
+Vengono annunciate le leggi fascistissime
