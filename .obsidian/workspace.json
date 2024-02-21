@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b68abaa2b346b885",
+        "id": "742edf8f72e3ca66",
         "type": "tabs",
         "children": [
           {
-            "id": "e9ab1b4f64ed0a85",
+            "id": "8ca6955024a8d1f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Informatica/Informatica.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Informatica/Informatica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Informatica/Informatica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Il Fascismo.md"
+                "file": "Informatica/Informatica.md"
               }
             }
           },
@@ -156,12 +156,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9ab1b4f64ed0a85",
+  "active": "8ca6955024a8d1f8",
   "lastOpenFiles": [
-    "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
-    "Storia/Il Fascismo.md",
-    "Storia/Primo dopoguerra in Italia.md",
     "Italiano/Italo Svevo/La coscienza di Zeno.md",
+    "Storia/Il Fascismo.md",
+    "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
+    "Storia/Primo dopoguerra in Italia.md",
     "Inglese/IoT.md",
     "conflict-files-obsidian-git.md",
     "Italiano/Italo Svevo/Italo Svevo.md",
