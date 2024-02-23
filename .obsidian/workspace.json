@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPOI/Microeconomia.md",
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPOI/Microeconomia.md",
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPOI/Microeconomia.md",
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPOI/Microeconomia.md"
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md"
               }
             }
           },
@@ -158,6 +158,9 @@
   },
   "active": "5ad9c4c78502a224",
   "lastOpenFiles": [
+    "Sistemi e Reti/Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md",
+    "Sistemi e Reti/Progettazione Reti Sicure.md",
+    "GPOI/Microeconomia.md",
     "Storia/Il Fascismo.md",
     "Informatica/Informatica.md",
     "Italiano/Italo Svevo/La coscienza di Zeno.md",
@@ -170,7 +173,6 @@
     "Inglese/The geography of spices and erbs.md",
     "Inglese/Spices in the middle ages.pdf",
     "Inglese/The geography of spices and erbs.pdf",
-    "Sistemi e Reti/Progettazione Reti Sicure.md",
     "Inglese",
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.27.12.excalidraw.md",
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.01.45.excalidraw.md",
@@ -180,7 +182,6 @@
     "Storia/Prima guerra mondiale.md",
     "Storia/Rivoluzione Russa.md",
     "Italiano/Verga/Mastro don Gesualdo.md",
-    "GPOI/Microeconomia.md",
     "GPOI/domanda.png",
     "Storia/Cap 1 & 2(Libro 3).md",
     "Italiano/Verga/I Malavoglia.md",
@@ -195,7 +196,6 @@
     "Pasted image 20240116142819.png",
     "Pasted image 20240116142633.png",
     "Informatica",
-    "Italiano/Verga/Verga.md",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
     "GPOI/~syncthing~Project Management.md.tmp",

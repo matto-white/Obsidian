@@ -1,4 +1,4 @@
-do lnterface gi0/1# Firewall
+# Firewall
 Separa la LAN aziendale dalla WAN pubblica.
 Filtra tutti i pacchetti entranti e uscenti da e verso una rete secondo regole prestabilite (Policy)
 Un firewall può essere realizzato con 1 pc (con almeno due schede di rete) e il software opportuno
@@ -51,3 +51,6 @@ l'artenativa alle WAN. Consente alle aziende di ampliare le risorse di rete alle
 ![[Progettazione Reti Sicure 2024-02-12 12.27.12.excalidraw]]
 # IPsec
 IPsec non è un singolo protocollo ma un architettura di sicurezza a livello network
+# SSL/TLS
+Secure Socket Layer / Transport Layer Security
+Opera a livello sessione
