@@ -26,3 +26,4 @@ Patti Lateranensi
 Riforma gentile, viene creata la scuola di stato.
 vengono messi obbligatori 5 anni di elementari e poi 3 anni di avviamento al lavoro o 5 anni di ginnasio con 3 anni di liceo
 Opera nazionale Balilla
+Palazzo Venezia (Palazzo di Mussolini) in Piazza Venezia, il palazzo da cui faceva discorsi dal balconcino
