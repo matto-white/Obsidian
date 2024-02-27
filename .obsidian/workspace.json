@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "017e68e985e84b2c",
+        "id": "4bc1f1068fcbdc76",
         "type": "tabs",
         "children": [
           {
-            "id": "6241c172102e1d32",
+            "id": "e5ef29e1a1434575",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Storia/Il Fascismo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Storia/Il Fascismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Storia/Il Fascismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md"
+                "file": "Storia/Il Fascismo.md"
               }
             }
           },
@@ -156,12 +156,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6241c172102e1d32",
+  "active": "e5ef29e1a1434575",
   "lastOpenFiles": [
+    "Sistemi e Reti/Progettazione Reti Sicure.md",
     "GPOI/Business idea.md",
     "GPOI/Project Management.md",
     "GPOI/Guadagno.md",
-    "Sistemi e Reti/Progettazione Reti Sicure.md",
     "Sistemi e Reti/Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md",
     "GPOI/Microeconomia.md",
     "Storia/Il Fascismo.md",

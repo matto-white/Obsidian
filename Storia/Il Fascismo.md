@@ -22,3 +22,4 @@ In Francia viene fondato un partito chiamato "Giustizia e Libertà"
 1928 - Il gran consiglio del fascismo diventa organo di stato, che coordina tutte le attività del regno dalla rivoluzione (Marcia su Roma)
 cambiano il modo in cui si vota il governo, dando la possibilità di votare si o no all'unica lista presente
 marzo 1929 - vincono con il 98% dei Si
+Patti Lateranensi
