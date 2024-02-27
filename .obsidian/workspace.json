@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1079391e00f0ea90",
+            "id": "6241c172102e1d32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPOI/Business idea.md",
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPOI/Business idea.md",
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPOI/Business idea.md",
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPOI/Business idea.md"
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md"
               }
             }
           },
@@ -156,10 +156,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1079391e00f0ea90",
+  "active": "6241c172102e1d32",
   "lastOpenFiles": [
-    "GPOI/Project Management.md",
     "GPOI/Business idea.md",
+    "GPOI/Project Management.md",
     "GPOI/Guadagno.md",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
     "Sistemi e Reti/Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md",

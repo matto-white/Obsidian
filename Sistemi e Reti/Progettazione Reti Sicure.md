@@ -54,3 +54,6 @@ IPsec non è un singolo protocollo ma un architettura di sicurezza a livello net
 # SSL/TLS
 Secure Socket Layer / Transport Layer Security
 Opera a livello sessione
+# NAS
+NAS funziona come un gateway per limitare l'accesso a un dispositivo protetto (In questo caso la vpn)
+Quando un client si collega il NAS effettua un collegamento con un altro dispositivo
