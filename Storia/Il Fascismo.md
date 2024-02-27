@@ -23,3 +23,6 @@ In Francia viene fondato un partito chiamato "Giustizia e Libertà"
 cambiano il modo in cui si vota il governo, dando la possibilità di votare si o no all'unica lista presente
 marzo 1929 - vincono con il 98% dei Si
 Patti Lateranensi
+Riforma gentile, viene creata la scuola di stato.
+vengono messi obbligatori 5 anni di elementari e poi 3 anni di avviamento al lavoro o 5 anni di ginnasio con 3 anni di liceo
+Opera nazionale Balilla
