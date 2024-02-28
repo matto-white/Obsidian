@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4bc1f1068fcbdc76",
+        "id": "4f894d6819b48db6",
         "type": "tabs",
         "children": [
           {
-            "id": "e5ef29e1a1434575",
+            "id": "efa0ad75e0f64f87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Inglese/IoT a Gruppi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Inglese/IoT a Gruppi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Inglese/IoT a Gruppi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Il Fascismo.md"
+                "file": "Inglese/IoT a Gruppi.md"
               }
             }
           },
@@ -156,20 +156,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e5ef29e1a1434575",
+  "active": "efa0ad75e0f64f87",
   "lastOpenFiles": [
+    "Inglese/IoT.md",
+    "Inglese/IoT a Gruppi.md",
+    "Storia/Il Fascismo.md",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
     "GPOI/Business idea.md",
     "GPOI/Project Management.md",
     "GPOI/Guadagno.md",
     "Sistemi e Reti/Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md",
     "GPOI/Microeconomia.md",
-    "Storia/Il Fascismo.md",
     "Informatica/Informatica.md",
     "Italiano/Italo Svevo/La coscienza di Zeno.md",
     "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
     "Storia/Primo dopoguerra in Italia.md",
-    "Inglese/IoT.md",
     "conflict-files-obsidian-git.md",
     "Italiano/Italo Svevo/Italo Svevo.md",
     "Inglese/Spices in the middle ages.md",
@@ -188,7 +189,6 @@
     "GPOI/domanda.png",
     "Storia/Cap 1 & 2(Libro 3).md",
     "Italiano/Verga/I Malavoglia.md",
-    "Italiano/Verga/La Roba.md",
     "Pasted image 20240117103738.png",
     "Pasted image 20240117103611.png",
     "Pasted image 20240117103102.png",
