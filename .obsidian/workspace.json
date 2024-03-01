@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4f894d6819b48db6",
+        "id": "70a5f67f85fc16ea",
         "type": "tabs",
         "children": [
           {
-            "id": "efa0ad75e0f64f87",
+            "id": "5956d9ac81c46690",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inglese/IoT a Gruppi.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inglese/IoT a Gruppi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inglese/IoT a Gruppi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inglese/IoT a Gruppi.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +148,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efa0ad75e0f64f87",
+  "active": "5956d9ac81c46690",
   "lastOpenFiles": [
-    "Inglese/IoT.md",
+    "Italiano/Italo Svevo/La coscienza di Zeno.md",
     "Inglese/IoT a Gruppi.md",
+    "Inglese/IoT.md",
     "Storia/Il Fascismo.md",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
     "GPOI/Business idea.md",
@@ -168,7 +161,6 @@
     "Sistemi e Reti/Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md",
     "GPOI/Microeconomia.md",
     "Informatica/Informatica.md",
-    "Italiano/Italo Svevo/La coscienza di Zeno.md",
     "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
     "Storia/Primo dopoguerra in Italia.md",
     "conflict-files-obsidian-git.md",
