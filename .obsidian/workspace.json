@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "00de46e4755a7b81",
+        "id": "70a5f67f85fc16ea",
         "type": "tabs",
         "children": [
           {
-            "id": "e752acab687569da",
+            "id": "5956d9ac81c46690",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md",
+                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md",
+                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md",
+                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md"
+                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md"
               }
             }
           },
@@ -142,54 +142,53 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e752acab687569da",
+  "active": "5956d9ac81c46690",
   "lastOpenFiles": [
+    "Italiano/Verga/Mastro don Gesualdo.md",
+    "Italiano/Italo Svevo/La coscienza di Zeno.md",
+    "Inglese/IoT a Gruppi.md",
+    "Inglese/IoT.md",
+    "Storia/Il Fascismo.md",
+    "Sistemi e Reti/Progettazione Reti Sicure.md",
+    "GPOI/Business idea.md",
     "GPOI/Project Management.md",
     "GPOI/Guadagno.md",
-    "GPOI/Tempi.md",
-    "Storia/Primo dopoguerra in Italia.md",
     "Sistemi e Reti/Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md",
-    "Sistemi e Reti/~syncthing~Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md.tmp",
-    "Chart Tue Sep 26 2023.png",
-    "Untitled.md",
+    "GPOI/Microeconomia.md",
+    "Informatica/Informatica.md",
+    "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
+    "Storia/Primo dopoguerra in Italia.md",
     "conflict-files-obsidian-git.md",
-    "Inglese/The geography of spices and erbs.sync-conflict-20240213-151245-C5LEHAY.md",
-    "Inglese/The geography of spices and erbs.pdf",
-    "Inglese/Spices in the middle ages.pdf",
-    "Sistemi e Reti/Progettazione Reti Sicure.md",
-    "Inglese/The geography of spices and erbs.md",
+    "Italiano/Italo Svevo/Italo Svevo.md",
     "Inglese/Spices in the middle ages.md",
+    "Inglese/The geography of spices and erbs.md",
+    "Inglese/Spices in the middle ages.pdf",
+    "Inglese/The geography of spices and erbs.pdf",
     "Inglese",
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.27.12.excalidraw.md",
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.01.45.excalidraw.md",
     "Excalidraw/Drawing 2024-02-12 12.00.33.excalidraw.md",
-    "Italiano/Italo Svevo/Italo Svevo.md",
+    "GPOI/Tempi.md",
     "Italiano/Italo Svevo",
     "Storia/Prima guerra mondiale.md",
     "Storia/Rivoluzione Russa.md",
-    "Italiano/Verga/Mastro don Gesualdo.md",
-    "GPOI/Microeconomia.md",
     "GPOI/domanda.png",
     "Storia/Cap 1 & 2(Libro 3).md",
     "Italiano/Verga/I Malavoglia.md",
-    "Italiano/Verga/La Roba.md",
-    "GPOI/Business idea.md",
-    "Italiano/Verga/Libertà.md",
-    "Sistemi e Reti/NAT.md",
-    "Informatica/Informatica.md",
     "Pasted image 20240117103738.png",
     "Pasted image 20240117103611.png",
     "Pasted image 20240117103102.png",
@@ -200,7 +199,9 @@
     "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
     "GPOI/~syncthing~Project Management.md.tmp",
+    "Italiano/Verga",
     "_resources/Handshake.png",
+    "Chart Tue Sep 26 2023.png",
     "Untitled.canvas",
     "GPOI/offerta.png",
     "Obsidian/_resources/tcp_data_transfer.png"
