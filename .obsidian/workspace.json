@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "70a5f67f85fc16ea",
+        "id": "a66ca16cf2b7d3eb",
         "type": "tabs",
         "children": [
           {
-            "id": "5956d9ac81c46690",
+            "id": "3b3bb91e3f33b01b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
+                "file": "Storia/Il Fascismo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
+                "file": "Storia/Il Fascismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
+                "file": "Storia/Il Fascismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md"
+                "file": "Storia/Il Fascismo.md"
               }
             }
           },
@@ -156,10 +156,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5956d9ac81c46690",
+  "active": "3b3bb91e3f33b01b",
   "lastOpenFiles": [
-    "Italiano/Verga/Mastro don Gesualdo.md",
     "Italiano/Italo Svevo/La coscienza di Zeno.md",
+    "Italiano/Verga/Mastro don Gesualdo.md",
     "Inglese/IoT a Gruppi.md",
     "Inglese/IoT.md",
     "Storia/Il Fascismo.md",
