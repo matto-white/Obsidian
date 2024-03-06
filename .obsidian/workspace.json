@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
+                "file": "Inglese/IoT a Gruppi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
+                "file": "Inglese/IoT a Gruppi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
+                "file": "Inglese/IoT a Gruppi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md"
+                "file": "Inglese/IoT a Gruppi.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "f4b3ee494b6c48e2",
   "lastOpenFiles": [
-    "Storia/Il Fascismo.md",
     "Italiano/Italo Svevo/La coscienza di Zeno.md",
+    "Storia/Il Fascismo.md",
     "Italiano/Verga/Mastro don Gesualdo.md",
     "Inglese/IoT a Gruppi.md",
     "Inglese/IoT.md",
