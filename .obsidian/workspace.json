@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a66ca16cf2b7d3eb",
+        "id": "8c0d6c110524bb78",
         "type": "tabs",
         "children": [
           {
-            "id": "3b3bb91e3f33b01b",
+            "id": "f4b3ee494b6c48e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Il Fascismo.md"
+                "file": "Italiano/Italo Svevo/La coscienza di Zeno.md"
               }
             }
           },
@@ -156,13 +156,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b3bb91e3f33b01b",
+  "active": "f4b3ee494b6c48e2",
   "lastOpenFiles": [
+    "Storia/Il Fascismo.md",
     "Italiano/Italo Svevo/La coscienza di Zeno.md",
     "Italiano/Verga/Mastro don Gesualdo.md",
     "Inglese/IoT a Gruppi.md",
     "Inglese/IoT.md",
-    "Storia/Il Fascismo.md",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
     "GPOI/Business idea.md",
     "GPOI/Project Management.md",
