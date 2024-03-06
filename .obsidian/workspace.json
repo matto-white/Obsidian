@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c0d6c110524bb78",
+        "id": "065bad520d5d8419",
         "type": "tabs",
         "children": [
           {
-            "id": "f4b3ee494b6c48e2",
+            "id": "48aa1c5cd4b84727",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/IoT a Gruppi.md",
+                "file": "Storia/Il Fascismo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inglese/IoT a Gruppi.md",
+                "file": "Storia/Il Fascismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inglese/IoT a Gruppi.md",
+                "file": "Storia/Il Fascismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inglese/IoT a Gruppi.md"
+                "file": "Storia/Il Fascismo.md"
               }
             }
           },
@@ -156,12 +156,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4b3ee494b6c48e2",
+  "active": "48aa1c5cd4b84727",
   "lastOpenFiles": [
+    "Inglese/IoT a Gruppi.md",
     "Italiano/Italo Svevo/La coscienza di Zeno.md",
     "Storia/Il Fascismo.md",
     "Italiano/Verga/Mastro don Gesualdo.md",
-    "Inglese/IoT a Gruppi.md",
     "Inglese/IoT.md",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
     "GPOI/Business idea.md",
