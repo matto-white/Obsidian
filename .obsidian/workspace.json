@@ -4,18 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "065bad520d5d8419",
+        "id": "df19b0628d39f3b0",
         "type": "tabs",
         "children": [
           {
-            "id": "48aa1c5cd4b84727",
+            "id": "0c22db85325d4966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "GPOI/Organigramma.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "760781fbf60459a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90a949940a775d35",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Organigramma 2024-03-06 12.29.15.excalidraw.md"
               }
             }
           }
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Excalidraw/Organigramma 2024-03-06 12.29.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Excalidraw/Organigramma 2024-03-06 12.29.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Il Fascismo.md"
+                "file": "Excalidraw/Organigramma 2024-03-06 12.29.15.excalidraw.md"
               }
             }
           },
@@ -156,16 +172,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48aa1c5cd4b84727",
+  "active": "90a949940a775d35",
   "lastOpenFiles": [
+    "GPOI/Organigramma.md",
+    "Excalidraw/Organigramma 2024-03-06 12.29.15.excalidraw.md",
+    "Excalidraw/Organigramma 2024-03-06 12.26.25.excalidraw.md",
+    "GPOI/Project Management.md",
+    "Excalidraw/Organigramma 2024-03-06 12.14.05.excalidraw.md",
+    "GPOI/Business idea.md",
+    "GPOI/Tempi.md",
+    "Storia/Il Fascismo.md",
     "Inglese/IoT a Gruppi.md",
     "Italiano/Italo Svevo/La coscienza di Zeno.md",
-    "Storia/Il Fascismo.md",
     "Italiano/Verga/Mastro don Gesualdo.md",
     "Inglese/IoT.md",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
-    "GPOI/Business idea.md",
-    "GPOI/Project Management.md",
     "GPOI/Guadagno.md",
     "Sistemi e Reti/Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md",
     "GPOI/Microeconomia.md",
@@ -182,13 +203,8 @@
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.27.12.excalidraw.md",
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.01.45.excalidraw.md",
     "Excalidraw/Drawing 2024-02-12 12.00.33.excalidraw.md",
-    "GPOI/Tempi.md",
     "Italiano/Italo Svevo",
-    "Storia/Prima guerra mondiale.md",
-    "Storia/Rivoluzione Russa.md",
     "GPOI/domanda.png",
-    "Storia/Cap 1 & 2(Libro 3).md",
-    "Italiano/Verga/I Malavoglia.md",
     "Pasted image 20240117103738.png",
     "Pasted image 20240117103611.png",
     "Pasted image 20240117103102.png",
