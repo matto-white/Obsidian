@@ -4,35 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "df19b0628d39f3b0",
+        "id": "982bd081207798aa",
         "type": "tabs",
         "children": [
           {
-            "id": "0c22db85325d4966",
+            "id": "3d7cfb2ce3ca77be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GPOI/Organigramma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "760781fbf60459a2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "90a949940a775d35",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Organigramma 2024-03-06 12.29.15.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Organigramma 2024-03-06 12.29.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Organigramma 2024-03-06 12.29.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Organigramma 2024-03-06 12.29.15.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,7 +148,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90a949940a775d35",
+  "active": "3d7cfb2ce3ca77be",
   "lastOpenFiles": [
     "GPOI/Organigramma.md",
     "Excalidraw/Organigramma 2024-03-06 12.29.15.excalidraw.md",
