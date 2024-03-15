@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Sistemi e Reti/802.11.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Sistemi e Reti/802.11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Sistemi e Reti/802.11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Il Fascismo.md"
+                "file": "Sistemi e Reti/802.11.md"
               }
             }
           },
@@ -157,8 +156,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58f2798abf836b00",
+  "active": "3d7cfb2ce3ca77be",
   "lastOpenFiles": [
+    "Storia/Il Fascismo.md",
+    "Sistemi e Reti/802.11.md",
     "GPOI/Organigramma.md",
     "Excalidraw/Organigramma 2024-03-06 12.29.15.excalidraw.md",
     "Excalidraw/Organigramma 2024-03-06 12.26.25.excalidraw.md",
@@ -166,7 +167,6 @@
     "Excalidraw/Organigramma 2024-03-06 12.14.05.excalidraw.md",
     "GPOI/Business idea.md",
     "GPOI/Tempi.md",
-    "Storia/Il Fascismo.md",
     "Inglese/IoT a Gruppi.md",
     "Italiano/Italo Svevo/La coscienza di Zeno.md",
     "Italiano/Verga/Mastro don Gesualdo.md",
@@ -187,7 +187,6 @@
     "Inglese",
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.27.12.excalidraw.md",
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.01.45.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-12 12.00.33.excalidraw.md",
     "Italiano/Italo Svevo",
     "GPOI/domanda.png",
     "Pasted image 20240117103738.png",
