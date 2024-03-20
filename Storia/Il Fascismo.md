@@ -43,4 +43,8 @@ Mussolini con un trattato riesce a farsi dare Fiume
 Ha anche degli interessi sull'Albania, perchè insieme alla Puglia chiude l'Adriatico
 1934 - I nazisti Austriaci, riescono ad assassinare il primo ministro Austriaco. Questo fa temere che Hitler voglia occupare l'Austria. Mussolini manda le truppe al Brennero. Con questa mossa si presenta come l'argine a Hitler. Italia, Francia e Inghilterra firmano l'accordo di Stresa.
 1935 - Tutto cambia. Prende il controllo della Libia (Pacificazione della libia 1923 - 1932), con l'idea di creare delle colonie, per poter mandare lì gli emigranti.
-Rodolfo Graziani, insieme a Badoglio vengono mandati a conquistare l'Etiopia. Per evitare di fare di nuovo brutta figura, vengono spesi molti soldi. Viene fatto uso ache di armi chimiche, che porta le nazioni unite a sanzionare l'Italia fino a espellerla. 51 nazioni su 54 votano per dare sanzioni all'Italia, che viene isolata sempre di più. Qui inizia l'avvicinamento alla Germania.
+Rodolfo Graziani, insieme a Badoglio vengono mandati a conquistare l'Etiopia. Per evitare di fare di nuovo brutta figura, vengono spesi molti soldi. Viene fatto uso ache di armi chimiche, che porta le nazioni unite a sanzionare l'Italia fino a espellerla. 51 nazioni su 54 votano per dare sanzioni all'Italia, che viene espulsa e. Questo porta Mussolini ad avvicinarsi di più all aGer isolata sempre di più. Qui inizia l'avvicinamento alla Germania.
+Mussolini si accorge che le sanzioni gli tornano comode per la politica interna.
+Questo porta Mussolini ad avvicinarsi di più alla Germania e a creare l'asse Roma-Berlino
+
+Sotto l'influenza della cultura Nazista, vengono create le leggi razziali, inizialmente valide solo per le colonie, e poi estese anche all'Italia. 
