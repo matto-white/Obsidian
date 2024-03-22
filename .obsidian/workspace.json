@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3c5a1a6d47f2e022",
+        "id": "e3d89ae2c4dd5b86",
         "type": "tabs",
         "children": [
           {
-            "id": "e48233329723ae3a",
+            "id": "bc9c700162d9948b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Sistemi e Reti/e-mail.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Sistemi e Reti/e-mail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Sistemi e Reti/e-mail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Il Fascismo.md"
+                "file": "Sistemi e Reti/e-mail.md"
               }
             }
           },
@@ -156,10 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e48233329723ae3a",
+  "active": "bc9c700162d9948b",
   "lastOpenFiles": [
-    "Sistemi e Reti/802.11.md",
+    "Sistemi e Reti/e-mail.md",
     "Storia/Il Fascismo.md",
+    "Sistemi e Reti/802.11.md",
     "GPOI/Organigramma.md",
     "Excalidraw/Organigramma 2024-03-06 12.29.15.excalidraw.md",
     "Excalidraw/Organigramma 2024-03-06 12.26.25.excalidraw.md",
@@ -186,7 +187,6 @@
     "Inglese/The geography of spices and erbs.pdf",
     "Inglese",
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.27.12.excalidraw.md",
-    "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.01.45.excalidraw.md",
     "Italiano/Italo Svevo",
     "GPOI/domanda.png",
     "Pasted image 20240117103738.png",
