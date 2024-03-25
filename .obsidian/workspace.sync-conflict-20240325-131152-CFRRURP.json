@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6da2cbd9605b33af",
+        "id": "5b67c1439c2bcb96",
         "type": "tabs",
         "children": [
           {
-            "id": "10bc9d407e2a5e22",
+            "id": "875fb18409f0cad5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Storia/Primo dopoguerra in Italia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Storia/Primo dopoguerra in Italia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Storia/Primo dopoguerra in Italia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md"
+                "file": "Storia/Primo dopoguerra in Italia.md"
               }
             }
           },
@@ -155,13 +155,8 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "10bc9d407e2a5e22",
+  "active": "875fb18409f0cad5",
   "lastOpenFiles": [
-    "Storia/Prima guerra mondiale.md",
-    "GPOI/Project Management.md",
-    "GPOI/Guadagno.md",
-    "GPOI/Tempi.md",
-    "Storia/Primo dopoguerra in Italia.md",
     "Sistemi e Reti/Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md",
     "Sistemi e Reti/~syncthing~Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md.tmp",
     "Chart Tue Sep 26 2023.png",
@@ -177,8 +172,11 @@
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.27.12.excalidraw.md",
     "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.01.45.excalidraw.md",
     "Excalidraw/Drawing 2024-02-12 12.00.33.excalidraw.md",
+    "GPOI/Tempi.md",
     "Italiano/Italo Svevo/Italo Svevo.md",
+    "Storia/Primo dopoguerra in Italia.md",
     "Italiano/Italo Svevo",
+    "Storia/Prima guerra mondiale.md",
     "Storia/Rivoluzione Russa.md",
     "Italiano/Verga/Mastro don Gesualdo.md",
     "GPOI/Microeconomia.md",
@@ -197,6 +195,8 @@
     "Pasted image 20240116142819.png",
     "Pasted image 20240116142633.png",
     "Informatica",
+    "Italiano/Verga/Verga.md",
+    "Sistemi e Reti/Crittografia.md",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
     "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
     "GPOI/~syncthing~Project Management.md.tmp",
