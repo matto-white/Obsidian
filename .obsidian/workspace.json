@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e9f987a900b9d53",
+        "id": "3b848aa85ec03867",
         "type": "tabs",
         "children": [
           {
-            "id": "e97f6423d7f3a172",
+            "id": "78d6d2321aa024b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Il Nazismo.md",
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Il Nazismo.md",
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Il Nazismo.md",
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Il Nazismo.md"
+                "file": "Sistemi e Reti/Progettazione Reti Sicure.md"
               }
             }
           },
@@ -156,10 +156,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e97f6423d7f3a172",
+  "active": "78d6d2321aa024b2",
   "lastOpenFiles": [
-    "Storia/Primo dopoguerra in Italia.md",
+    "Excalidraw/Progettazione Reti Sicure 2024-04-05 09.14.18.excalidraw.md",
+    "Sistemi e Reti/Progettazione Reti Sicure.md",
     "Storia/Il Nazismo.md",
+    "Storia/Primo dopoguerra in Italia.md",
     "Storia/Primo dopoguerra in Italia.sync-conflict-20240325-131147-C5LEHAY.md",
     "Inglese/Bianco - Eftimie_IoT a Gruppi.pdf",
     "GPOI/Macroeconomia.md",
@@ -178,7 +180,6 @@
     "Italiano/Italo Svevo/La coscienza di Zeno.md",
     "Italiano/Verga/Mastro don Gesualdo.md",
     "Inglese/IoT.md",
-    "Sistemi e Reti/Progettazione Reti Sicure.md",
     "GPOI/Guadagno.md",
     "Sistemi e Reti/Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md",
     "GPOI/Microeconomia.md",

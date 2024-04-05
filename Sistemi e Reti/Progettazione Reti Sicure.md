@@ -57,3 +57,9 @@ Opera a livello sessione
 # NAS
 NAS funziona come un gateway per limitare l'accesso a un dispositivo protetto (In questo caso la vpn)
 Quando un client si collega il NAS effettua un collegamento con un altro dispositivo
+# Proxy
+
+1) Il client si collega al proxy e gli manda la richiesta
+2) Il proxy inoltra la richiesta al server
+![[Progettazione Reti Sicure 2024-04-05 09.14.18.excalidraw|40%]]
+
