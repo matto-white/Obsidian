@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b848aa85ec03867",
+        "id": "32b9cbbc45b60618",
         "type": "tabs",
         "children": [
           {
-            "id": "78d6d2321aa024b2",
+            "id": "2bdf831b0bb217b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Storia/Il Fascismo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Storia/Il Fascismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md",
+                "file": "Storia/Il Fascismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e Reti/Progettazione Reti Sicure.md"
+                "file": "Storia/Il Fascismo.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,10 +155,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78d6d2321aa024b2",
+  "active": "2bdf831b0bb217b1",
   "lastOpenFiles": [
-    "Excalidraw/Progettazione Reti Sicure 2024-04-05 09.14.18.excalidraw.md",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
+    "Excalidraw/Progettazione Reti Sicure 2024-04-05 09.14.18.excalidraw.md",
     "Storia/Il Nazismo.md",
     "Storia/Primo dopoguerra in Italia.md",
     "Storia/Primo dopoguerra in Italia.sync-conflict-20240325-131147-C5LEHAY.md",
