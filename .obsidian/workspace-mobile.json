@@ -11,11 +11,9 @@
             "id": "d7d0d78a65fdae7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Storia/Prima guerra mondiale.md",
-                "mode": "source",
-                "source": false
+                "file": "Inglese/Bianco - Eftimie_IoT a Gruppi.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Storia/Prima guerra mondiale.md",
+            "file": "Inglese/Bianco - Eftimie_IoT a Gruppi.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Storia/Prima guerra mondiale.md",
+            "file": "Inglese/Bianco - Eftimie_IoT a Gruppi.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +120,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Storia/Prima guerra mondiale.md"
+            "file": "Inglese/Bianco - Eftimie_IoT a Gruppi.pdf"
           }
         }
       }
@@ -140,10 +138,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1915fb20b46a24ff",
+  "active": "d7d0d78a65fdae7a",
   "lastOpenFiles": [
-    "Storia/Rivoluzione Russa.md",
+    "Italiano/Italo Svevo/Italo Svevo.md",
+    "Sistemi e Reti/Progettazione Reti Sicure.md",
+    "Excalidraw/Progettazione Reti Sicure 2024-02-12 12.27.12.excalidraw.md",
     "Storia/Prima guerra mondiale.md",
+    "Storia/Rivoluzione Russa.md",
     "Sistemi e Reti/Crittografia.md",
     "Storia/Cap. 13 e 17.md",
     "GPOI/Microeconomia.md",
@@ -168,9 +169,6 @@
     "Italiano/Leopardi/Poesie.md",
     "Storia/Cap. 11.md",
     "Chart Tue Sep 26 2023.png",
-    "Italiano/Leopardi/Dialogo di Torquato Tasso e del suo Genio familiare.md",
-    "Excalidraw/Microeconomia 2023-10-02 10.40.18.excalidraw.md",
-    "Italiano/Leopardi/Alla sua donna.md",
     "GPOI/domanda.png",
     "Untitled.canvas",
     "Italiano/Leopardi",

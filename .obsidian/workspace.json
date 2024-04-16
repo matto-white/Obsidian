@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32b9cbbc45b60618",
+        "id": "80092c143853b8a8",
         "type": "tabs",
         "children": [
           {
-            "id": "2bdf831b0bb217b1",
+            "id": "5ab880063f504fc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Il Fascismo.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,17 +155,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2bdf831b0bb217b1",
+  "active": "5ab880063f504fc7",
   "lastOpenFiles": [
+    "Sistemi e Reti/Simulazione esame di stato.md",
+    "Excalidraw/Drawing 2024-04-15 11.12.40.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "GPOI/Macroeconomia.md",
+    "Excalidraw/Macroeconomia 2024-04-15 10.26.13.excalidraw.md",
+    "Excalidraw/Macroeconomia 2024-04-15 10.11.09.excalidraw.md",
+    "Informatica/Attività sportive studenti.md",
+    "Storia/Il Fascismo.md",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
     "Excalidraw/Progettazione Reti Sicure 2024-04-05 09.14.18.excalidraw.md",
     "Storia/Il Nazismo.md",
     "Storia/Primo dopoguerra in Italia.md",
     "Storia/Primo dopoguerra in Italia.sync-conflict-20240325-131147-C5LEHAY.md",
     "Inglese/Bianco - Eftimie_IoT a Gruppi.pdf",
-    "GPOI/Macroeconomia.md",
     "Excalidraw/Macroeconomia 2024-03-25 10.21.02.excalidraw.md",
-    "Storia/Il Fascismo.md",
     "Sistemi e Reti/e-mail.md",
     "Sistemi e Reti/802.11.md",
     "GPOI/Organigramma.md",
@@ -178,12 +184,6 @@
     "Inglese/IoT a Gruppi.md",
     "Italiano/Italo Svevo/La coscienza di Zeno.md",
     "Italiano/Verga/Mastro don Gesualdo.md",
-    "Inglese/IoT.md",
-    "GPOI/Guadagno.md",
-    "Sistemi e Reti/Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md",
-    "GPOI/Microeconomia.md",
-    "Informatica/Informatica.md",
-    "Storia/Date.sync-conflict-20230531-190043-CFRRURP.md",
     "Inglese/Spices in the middle ages.pdf",
     "Inglese/The geography of spices and erbs.pdf",
     "Inglese",
