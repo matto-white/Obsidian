@@ -1,2 +1,3 @@
+#WW1
 Svevo si trova senza un'occupazione pratica durante la guerra, quindi si rimette a studiare.
 IL libro viene pubblicato 3 volte, ma nessuno lo ha mai calcolato. Decide di inviarlo al suo amico Joyce che intanto si era trasferito a Parigi. Joyce fa leggere il libro ai suoi amici scrittori, e Svevo viene invitato ad una convention solo per lui. Montale, un giovane scrittore italiano, si accorge di questo testo che sta diventando famoso in tutta Europa, tranne che in italia. 
