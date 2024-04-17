@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +157,9 @@
   },
   "active": "e31b315a1ac05762",
   "lastOpenFiles": [
-    "Italiano/Clemente Rebora/Dall'immagine tesa.md",
+    "Untitled 1.md",
     "Italiano/Giuseppe Ungaretti/Giuseppe Ungaretti.md",
+    "Italiano/Clemente Rebora/Dall'immagine tesa.md",
     "Italiano/Giuseppe Ungaretti",
     "2024-04-17.md",
     "Excalidraw/Drawing 2024-04-17 11.09.14.excalidraw.md",
@@ -186,7 +186,6 @@
     "Excalidraw/Organigramma 2024-03-06 12.29.15.excalidraw.md",
     "Excalidraw/Organigramma 2024-03-06 12.26.25.excalidraw.md",
     "GPOI/Project Management.md",
-    "Excalidraw/Organigramma 2024-03-06 12.14.05.excalidraw.md",
     "Inglese/Spices in the middle ages.pdf",
     "Inglese/The geography of spices and erbs.pdf",
     "Inglese",
