@@ -26,3 +26,6 @@ una poesia in memoria della sua città natale, Alessandria d'Egitto
 
 ![[attachments/Il porto sepolto 2024-04-30 10.52.15.excalidraw.svg]]
 %%[[attachments/Il porto sepolto 2024-04-30 10.52.15.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+![](attachments/Il%20porto%20sepolto%202024-04-30%2010.54.12.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/Il%20porto%20sepolto%202024-04-30%2010.54.12.excalidraw.md)%%
