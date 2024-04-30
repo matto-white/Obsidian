@@ -13,4 +13,4 @@ Hindemburg, avendo dalla sua parte l'esercito, viene eletto Presidente della Rep
 1929 - Crollo della borsa di Wall Street (Crisi del 29'). Il valore del marco Tedesco di conseguenza scende ancora più in basso di quanto già fosse, la disoccupazione sale fino a 6Mil.
 1930 - Sale al governo Broning
 1932 - Hitler si candida come Presidente della Repubblica, e prende 13Mil di voti (Il secondo più votato dopo Hidenburg che viene rieletto)
-marzo 1933 - Hitler scioglie il parlamento e vengono indette nuove elezioni, dove il partito nazista prende quasi il 44% dei voti. 
+marzo 1933 - Hitler scioglie il parlamento e vengono indette nuove elezioni, dove il partito nazista prende quasi il 44% dei voti.

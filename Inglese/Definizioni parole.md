@@ -1,0 +1,5 @@
+- AI (Artificial Intelligence): The development of computer systems that can perform tasks requiring human intelligence, such as visual perception, speech recognition, decision-making, and language translation.
+- Automation: The use of technology to perform tasks without human intervention, typically involving the integration of machines into a self-governing system.
+- Automatization: A less common variant of automation, with the same meaning.
+- Mechanization: The process of using machines to perform tasks that were previously done by hand, often involving the replacement of human labor with mechanical power.
+- IoT (Internet of Things): The network of physical devices, vehicles, buildings, and other objects that are embedded with sensors, software, and other technologies to connect and exchange data with other devices and systems over the internet.
