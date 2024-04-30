@@ -17,15 +17,3 @@ una poesia in memoria della sua città natale, Alessandria d'Egitto
 
 # San Martino del Carso
 è il paese sotto monte san Michele, proprio sul fronte, ed è stato distrutto con i bombardamenti
-
-![](Excalidraw/Il%20porto%20sepolto%202024-04-30%2010.39.53.excalidraw.svg)
-%%[🖋 Edit in Excalidraw](Excalidraw/Il%20porto%20sepolto%202024-04-30%2010.39.53.excalidraw.md)%%
-
-![](Il%20porto%20sepolto%202024-04-30%2010.42.58.excalidraw.svg)
-%%[🖋 Edit in Excalidraw](Excalidraw/Il%20porto%20sepolto%202024-04-30%2010.42.58.excalidraw.md)%%
-
-![[attachments/Il porto sepolto 2024-04-30 10.52.15.excalidraw.svg]]
-%%[[attachments/Il porto sepolto 2024-04-30 10.52.15.excalidraw.md|🖋 Edit in Excalidraw]]%%
-
-![](attachments/Il%20porto%20sepolto%202024-04-30%2010.54.12.excalidraw.svg)
-%%[🖋 Edit in Excalidraw](attachments/Il%20porto%20sepolto%202024-04-30%2010.54.12.excalidraw.md)%%
