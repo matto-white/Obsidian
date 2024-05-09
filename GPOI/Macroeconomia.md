@@ -21,7 +21,7 @@ e - Tasso di cambio: rapporto di cambio tra valute
 Banca centrale: controlla l'offerta di moneta. Decide i livelli di tassi d'interesse
 
 i bassi: alta quantità di moneta -> aumenta la spesa 
-i alti:
+i alti: bassa quantità di moneta -> diminuisce la spesa
 
 
 ![[Macroeconomia 2024-04-15 10.26.13.excalidraw]]
