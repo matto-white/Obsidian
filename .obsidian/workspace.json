@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "GPOI/Microeconomia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "GPOI/Microeconomia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "GPOI/Microeconomia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Il Fascismo.md"
+                "file": "GPOI/Microeconomia.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "f159f1b314c5ec31",
   "lastOpenFiles": [
-    "Informatica/Autori.pdf",
     "Storia/Il Fascismo.md",
+    "Informatica/Autori.pdf",
     "Storia/Primo dopoguerra in Italia.md",
     "Storia/Seconda Guerra Mondiale.md",
     "Italiano/Eugenio Montale/Ossi di seppia.md",
@@ -199,7 +199,6 @@
     "Pasted image 20240116142633.png",
     "Informatica",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
-    "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
     "_resources/Handshake.png",
     "Untitled.canvas",
     "GPOI/offerta.png",
