@@ -1,5 +1,7 @@
 [
-  "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "obsidian-charts"
+  "obsidian-git",
+  "calendar",
+  "table-editor-obsidian",
+  "cm-editor-syntax-highlight-obsidian"
 ]

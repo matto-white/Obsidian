@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "9881664b7bd12e48",
+    "id": "663c4969fb904bba",
     "type": "split",
     "children": [
       {
-        "id": "9339a084e0069a9f",
+        "id": "c72004bb12fa4f20",
         "type": "tabs",
         "children": [
           {
-            "id": "f159f1b314c5ec31",
+            "id": "e9607fe0193aa77a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Italiano/Eugenio Montale/Satura.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6c3e2644f1439391",
+    "id": "d623b406e0893a6a",
     "type": "split",
     "children": [
       {
-        "id": "5ddbeff4253c8bd0",
+        "id": "d4ce27b9014a1cd1",
         "type": "tabs",
         "children": [
           {
-            "id": "6a2f85d9ae1f32c3",
+            "id": "1498e56c9e9b6181",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "58f2798abf836b00",
+            "id": "ec525e34e0253818",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "b507df3364d966df",
+            "id": "7f262af0562dd8ca",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 300
   },
   "right": {
-    "id": "4a56230024100544",
+    "id": "b6139fd517a4db12",
     "type": "split",
     "children": [
       {
-        "id": "bbb3ac60f0c8d3d8",
+        "id": "479e2fe0297bcb2b",
         "type": "tabs",
         "children": [
           {
-            "id": "d176212b6041616d",
+            "id": "d97512395e1ea6bb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Italiano/Eugenio Montale/Satura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "e59049336945556d",
+            "id": "2e06bd51e4e0bef5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "Italiano/Eugenio Montale/Satura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "964dd70ded261c04",
+            "id": "33673eb72a5a0ff2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,89 +120,106 @@
             }
           },
           {
-            "id": "a49ec87d2aedf2c9",
+            "id": "eb2e32c7210c84be",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Il Fascismo.md"
+                "file": "Italiano/Eugenio Montale/Satura.md"
               }
             }
           },
           {
-            "id": "ade3f9e4e69cea70",
+            "id": "533178ab475dd472",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "41b9c3c5c779ada2",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "245fdd5c2df48efa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f159f1b314c5ec31",
+  "active": "e9607fe0193aa77a",
   "lastOpenFiles": [
-    "Informatica/Autori.pdf",
-    "Storia/Il Fascismo.md",
-    "Storia/Primo dopoguerra in Italia.md",
-    "Storia/Seconda Guerra Mondiale.md",
+    "Italiano/Eugenio Montale/L'alluvione ha sommerso il pack dei mobili.md",
+    "Italiano/Eugenio Montale/Satura.md",
+    "Italiano/Eugenio Montale/Ti libero la fronte dai ghiaccioli.md",
     "Italiano/Eugenio Montale/Ossi di seppia.md",
-    "Inglese/Agenda 2030.md",
+    "Inglese/Traduzione 14-05-2024.md",
+    "Sistemi e Reti/Prova 13 maggio 2024.md",
+    "Sistemi e Reti/attachments/Prova 13 maggio 2024 2024-05-13 11.51.49.excalidraw.md",
+    "Informatica/Autori.md",
+    "Informatica/Autori.pdf",
+    "Sistemi e Reti/attachments/Prova 13 maggio 2024 2024-05-13 11.51.49.excalidraw.svg",
+    "Sistemi e Reti/attachments",
+    "Informatica/attachments/Autori 2024-05-09 10.25.20.excalidraw.md",
+    "Informatica/Cooperativa Immobiliare.md",
+    "Storia/Seconda Guerra Mondiale.md",
+    "Storia/Il Nazismo.md",
+    "Informatica/attachments/Autori 2024-05-09 10.25.20.excalidraw.svg",
+    "Informatica/attachments",
     "Inglese/Frasi pag 101.md",
-    "GPOI/Macroeconomia.md",
-    "GPOI/Project Management.md",
-    "GPOI/Business idea.md",
-    "Informatica/Informatica.md",
+    "Inglese/Frasi da tradurre dalla lavagna 30-04-2024.md",
+    "Italiano/Eugenio Montale/Eugenio Montale.md",
+    "Sistemi e Reti/IoT.md",
+    "Italiano/Eugenio Montale",
+    "Italiano/Giuseppe Ungaretti/Il porto sepolto.md",
+    "Inglese/Leaders and machines.md",
+    "Excalidraw/Il porto sepolto 2024-04-30 10.39.53.excalidraw.md",
+    "Excalidraw/Il porto sepolto 2024-04-30 10.42.58.excalidraw.md",
+    "Italiano/Giuseppe Ungaretti/attachments/Il porto sepolto 2024-04-30 10.52.15.excalidraw.md",
+    "Italiano/Giuseppe Ungaretti/Il porto sepolto 2024-04-30 10.42.58.excalidraw.svg",
+    "Italiano/Giuseppe Ungaretti/attachments/Il porto sepolto 2024-04-30 10.54.12.excalidraw.md",
+    "Italiano/Giuseppe Ungaretti/attachments/Il porto sepolto 2024-04-30 10.54.12.excalidraw.svg",
+    "Italiano/Giuseppe Ungaretti/attachments/Il porto sepolto 2024-04-30 10.52.15.excalidraw.svg",
+    "Italiano/Giuseppe Ungaretti/attachments",
+    "Excalidraw/Il porto sepolto 2024-04-30 10.42.58.excalidraw.svg",
+    "Excalidraw/Il porto sepolto 2024-04-30 10.39.53.excalidraw.svg",
+    "Excalidraw/Il porto sepolto 2024-04-30 10.25.11.excalidraw.md",
+    "Excalidraw/Il porto sepolto 2024-04-30 10.25.11.excalidraw.svg",
+    "Excalidraw/Il porto sepolto 2024-04-30 10.20.24.excalidraw.md",
+    "Excalidraw/Il porto sepolto 2024-04-30 10.20.24.excalidraw.svg",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
-    "Sistemi e Reti/NAT.md",
-    "Sistemi e Reti/e-mail.md",
-    "Sistemi e Reti/VLAN.md",
-    "Sistemi e Reti/Sistemi di autenticazione.md",
-    "Inglese/IoT a Gruppi.md",
-    "Inglese/Bianco - Eftimie_IoT a Gruppi.pdf",
-    "Inglese/Spices in the middle ages.sync-conflict-20240325-131150-C5LEHAY.md",
-    "Inglese/The geography of spices and erbs.sync-conflict-20240325-131148-C5LEHAY.md",
-    "Storia/Prima guerra mondiale.md",
-    "GPOI/Guadagno.md",
-    "GPOI/Tempi.md",
-    "Sistemi e Reti/Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md",
-    "Sistemi e Reti/~syncthing~Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md.tmp",
-    "Chart Tue Sep 26 2023.png",
-    "Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "Inglese/The geography of spices and erbs.sync-conflict-20240213-151245-C5LEHAY.md",
-    "Inglese/The geography of spices and erbs.pdf",
-    "Inglese/Spices in the middle ages.pdf",
-    "Inglese",
-    "Italiano/Italo Svevo",
-    "GPOI/domanda.png",
-    "Pasted image 20240117103738.png",
-    "Pasted image 20240117103611.png",
-    "Pasted image 20240117103102.png",
-    "Informatica per Istituti Tecnici Tecnologici - Indirizzo Informatica e Telecomunicazioni - Volume C (atlas-91705) (1).pdf",
-    "Pasted image 20240116142819.png",
-    "Pasted image 20240116142633.png",
-    "Informatica",
-    "Italiano/Verga/boito_l_alfier_nero.pdf",
-    "Italiano/Verga/~syncthing~L'alfier nero.md.tmp",
-    "_resources/Handshake.png",
-    "Untitled.canvas",
-    "GPOI/offerta.png",
-    "Obsidian/_resources/tcp_data_transfer.png"
+    "Sistemi e Reti/802.11.md",
+    "Italiano/Giuseppe Ungaretti/12-GIUSEPPE-UNGARETTI.pdf",
+    "Italiano/Giuseppe Ungaretti/12-GIUSEPPE-UNGARETTI.pdf.crdownload",
+    "Italiano/Giuseppe Ungaretti/Ungaretti_1914-1919__L_allegria.pdf",
+    "Italiano/Giuseppe Ungaretti/Ungaretti_1914-1919__L_allegria.pdf.crdownload",
+    "Italiano/Giuseppe Ungaretti/Introduzioneossola.pdf"
   ]
 }
