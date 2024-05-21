@@ -14,3 +14,4 @@ Poi, come s'uno schermo, s'accamperanno di gitto
 alberi, case, colli per l'inganno consueto.
 Ma sarà troppo tardi; ed io me n'andrò zitto
 tra gli uomini che non si voltano, col mio segreto.
+
