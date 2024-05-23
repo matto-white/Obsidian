@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "31fd714cd229089e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
+                "file": "Informatica/Società Aeroportuale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
+                "file": "Informatica/Società Aeroportuale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md"
+                "file": "Informatica/Società Aeroportuale.md"
               }
             }
           },
@@ -154,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +156,7 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "31fd714cd229089e",
+  "active": "f159f1b314c5ec31",
   "lastOpenFiles": [
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
     "Informatica/Società Aeroportuale.md",
