@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "663c4969fb904bba",
+    "id": "9881664b7bd12e48",
     "type": "split",
     "children": [
       {
-        "id": "1c8fa2172683c2b1",
+        "id": "9339a084e0069a9f",
         "type": "tabs",
         "children": [
           {
-            "id": "afc7c87aadce1218",
+            "id": "f159f1b314c5ec31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Cap 10.md",
+                "file": "GPOI/Macroeconomia.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d623b406e0893a6a",
+    "id": "6c3e2644f1439391",
     "type": "split",
     "children": [
       {
-        "id": "d4ce27b9014a1cd1",
+        "id": "5ddbeff4253c8bd0",
         "type": "tabs",
         "children": [
           {
-            "id": "1498e56c9e9b6181",
+            "id": "6a2f85d9ae1f32c3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "ec525e34e0253818",
+            "id": "58f2798abf836b00",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "7f262af0562dd8ca",
+            "id": "b507df3364d966df",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,24 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
-    "id": "b6139fd517a4db12",
+    "id": "4a56230024100544",
     "type": "split",
     "children": [
       {
-        "id": "479e2fe0297bcb2b",
+        "id": "bbb3ac60f0c8d3d8",
         "type": "tabs",
         "children": [
           {
-            "id": "d97512395e1ea6bb",
+            "id": "d176212b6041616d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Cap 10.md",
+                "file": "GPOI/Macroeconomia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +97,19 @@
             }
           },
           {
-            "id": "2e06bd51e4e0bef5",
+            "id": "e59049336945556d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Cap 10.md",
+                "file": "GPOI/Macroeconomia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "33673eb72a5a0ff2",
+            "id": "964dd70ded261c04",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,107 +120,89 @@
             }
           },
           {
-            "id": "eb2e32c7210c84be",
+            "id": "a49ec87d2aedf2c9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Cap 10.md"
+                "file": "GPOI/Macroeconomia.md"
               }
             }
           },
           {
-            "id": "533178ab475dd472",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "41b9c3c5c779ada2",
+            "id": "ade3f9e4e69cea70",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "245fdd5c2df48efa",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "afc7c87aadce1218",
+  "active": "f159f1b314c5ec31",
   "lastOpenFiles": [
-    "Informatica/Società Aeroportuale.md",
-    "Excalidraw/Drawing 2024-05-22 10.31.24.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-22 10.31.24.excalidraw.svg",
-    "Informatica/Autori.md",
+    "GPOI/Organigramma.md",
+    "GPOI/Tempi.md",
+    "GPOI/Business idea.md",
+    "GPOI/Project Management.md",
+    "GPOI/Guadagno.md",
+    "GPOI/offerta.png",
+    "GPOI/domanda.png",
+    "GPOI/Microeconomia.md",
+    "Storia/Il Fascismo.md",
     "Informatica/Autori.pdf",
-    "Storia/Cap 10.md",
-    "Italiano/Studio per Esame.md",
-    "Italiano/Eugenio Montale/Satura.md",
-    "Italiano/Eugenio Montale/Ho sceso, dandoti il braccio, almeno un milione di scale.md",
-    "Italiano/Eugenio Montale/Prima del viaggio.md",
+    "Storia/Primo dopoguerra in Italia.md",
+    "Storia/Seconda Guerra Mondiale.md",
     "Italiano/Eugenio Montale/Ossi di seppia.md",
-    "Italiano/Eugenio Montale/Eugenio Montale.md",
-    "Italiano/Eugenio Montale/Ti libero la fronte dai ghiaccioli.md",
-    "Italiano/Eugenio Montale/L'alluvione ha sommerso il pack dei mobili.md",
-    "Storia/Unione Sovietica.md",
-    "Storia/PRE Seconda Guerra Mondiale.md",
-    "conflict-files-obsidian-git.md",
-    "Inglese/Traduzione 14-05-2024.md",
-    "Sistemi e Reti/Prova 13 maggio 2024.md",
-    "Sistemi e Reti/attachments/Prova 13 maggio 2024 2024-05-13 11.51.49.excalidraw.md",
-    "Sistemi e Reti/attachments/Prova 13 maggio 2024 2024-05-13 11.51.49.excalidraw.svg",
-    "Sistemi e Reti/attachments",
-    "Informatica/attachments/Autori 2024-05-09 10.25.20.excalidraw.md",
-    "Informatica/Cooperativa Immobiliare.md",
-    "Storia/Il Nazismo.md",
-    "Informatica/attachments/Autori 2024-05-09 10.25.20.excalidraw.svg",
-    "Informatica/attachments",
+    "Inglese/Agenda 2030.md",
     "Inglese/Frasi pag 101.md",
-    "Inglese/Frasi da tradurre dalla lavagna 30-04-2024.md",
-    "Sistemi e Reti/IoT.md",
-    "Italiano/Eugenio Montale",
-    "Italiano/Giuseppe Ungaretti/Il porto sepolto.md",
-    "Italiano/Giuseppe Ungaretti/Il porto sepolto 2024-04-30 10.42.58.excalidraw.svg",
-    "Italiano/Giuseppe Ungaretti/attachments/Il porto sepolto 2024-04-30 10.54.12.excalidraw.svg",
-    "Italiano/Giuseppe Ungaretti/attachments/Il porto sepolto 2024-04-30 10.52.15.excalidraw.svg",
-    "Italiano/Giuseppe Ungaretti/attachments",
-    "Excalidraw/Il porto sepolto 2024-04-30 10.42.58.excalidraw.svg",
-    "Excalidraw/Il porto sepolto 2024-04-30 10.39.53.excalidraw.svg",
-    "Excalidraw/Il porto sepolto 2024-04-30 10.25.11.excalidraw.svg",
-    "Excalidraw/Il porto sepolto 2024-04-30 10.20.24.excalidraw.svg",
-    "Italiano/Giuseppe Ungaretti/12-GIUSEPPE-UNGARETTI.pdf",
-    "Italiano/Giuseppe Ungaretti/12-GIUSEPPE-UNGARETTI.pdf.crdownload",
-    "Italiano/Giuseppe Ungaretti/Ungaretti_1914-1919__L_allegria.pdf",
-    "Italiano/Giuseppe Ungaretti/Ungaretti_1914-1919__L_allegria.pdf.crdownload",
-    "Italiano/Giuseppe Ungaretti/Introduzioneossola.pdf"
+    "GPOI/Macroeconomia.md",
+    "Informatica/Informatica.md",
+    "Sistemi e Reti/Progettazione Reti Sicure.md",
+    "Sistemi e Reti/NAT.md",
+    "Sistemi e Reti/e-mail.md",
+    "Sistemi e Reti/VLAN.md",
+    "Sistemi e Reti/Sistemi di autenticazione.md",
+    "Inglese/IoT a Gruppi.md",
+    "Inglese/Bianco - Eftimie_IoT a Gruppi.pdf",
+    "Inglese/Spices in the middle ages.sync-conflict-20240325-131150-C5LEHAY.md",
+    "Inglese/The geography of spices and erbs.sync-conflict-20240325-131148-C5LEHAY.md",
+    "Storia/Prima guerra mondiale.md",
+    "Sistemi e Reti/Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md",
+    "Sistemi e Reti/~syncthing~Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md.tmp",
+    "Chart Tue Sep 26 2023.png",
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Inglese/The geography of spices and erbs.pdf",
+    "Inglese/Spices in the middle ages.pdf",
+    "Inglese",
+    "Italiano/Italo Svevo",
+    "Pasted image 20240117103738.png",
+    "Pasted image 20240117103611.png",
+    "Pasted image 20240117103102.png",
+    "Informatica per Istituti Tecnici Tecnologici - Indirizzo Informatica e Telecomunicazioni - Volume C (atlas-91705) (1).pdf",
+    "Pasted image 20240116142819.png",
+    "Pasted image 20240116142633.png",
+    "Informatica",
+    "Italiano/Verga/boito_l_alfier_nero.pdf",
+    "_resources/Handshake.png",
+    "Untitled.canvas",
+    "Obsidian/_resources/tcp_data_transfer.png"
   ]
 }
