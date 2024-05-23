@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPOI/Macroeconomia.md",
+                "file": "Informatica/Società Aeroportuale.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "31fd714cd229089e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "4a56230024100544",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPOI/Macroeconomia.md",
+                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPOI/Macroeconomia.md",
+                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPOI/Macroeconomia.md"
+                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md"
               }
             }
           },
@@ -142,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,8 +168,13 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "f159f1b314c5ec31",
+  "active": "31fd714cd229089e",
   "lastOpenFiles": [
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
+    "Informatica/Società Aeroportuale.md",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg",
+    "Excalidraw/Drawing 2024-05-23 16.37.09.excalidraw.md",
+    "GPOI/Macroeconomia.md",
     "GPOI/Organigramma.md",
     "GPOI/Tempi.md",
     "GPOI/Business idea.md",
@@ -172,7 +190,6 @@
     "Italiano/Eugenio Montale/Ossi di seppia.md",
     "Inglese/Agenda 2030.md",
     "Inglese/Frasi pag 101.md",
-    "GPOI/Macroeconomia.md",
     "Informatica/Informatica.md",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
     "Sistemi e Reti/NAT.md",
@@ -183,12 +200,8 @@
     "Inglese/Bianco - Eftimie_IoT a Gruppi.pdf",
     "Inglese/Spices in the middle ages.sync-conflict-20240325-131150-C5LEHAY.md",
     "Inglese/The geography of spices and erbs.sync-conflict-20240325-131148-C5LEHAY.md",
-    "Storia/Prima guerra mondiale.md",
-    "Sistemi e Reti/Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md",
     "Sistemi e Reti/~syncthing~Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md.tmp",
     "Chart Tue Sep 26 2023.png",
-    "Untitled.md",
-    "conflict-files-obsidian-git.md",
     "Inglese/The geography of spices and erbs.pdf",
     "Inglese/Spices in the middle ages.pdf",
     "Inglese",
@@ -202,7 +215,6 @@
     "Informatica",
     "Italiano/Verga/boito_l_alfier_nero.pdf",
     "_resources/Handshake.png",
-    "Untitled.canvas",
-    "Obsidian/_resources/tcp_data_transfer.png"
+    "Untitled.canvas"
   ]
 }
