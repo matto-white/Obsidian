@@ -20,16 +20,17 @@
             }
           },
           {
-            "id": "101cc2b46f050d86",
+            "id": "8f2cce6af1679efc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg"
+                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatica/Società Aeroportuale.md",
+                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatica/Società Aeroportuale.md",
+                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatica/Società Aeroportuale.md"
+                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md"
               }
             }
           },
@@ -181,10 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ce29892323beed4",
+  "active": "8f2cce6af1679efc",
   "lastOpenFiles": [
-    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg",
     "Informatica/Società Aeroportuale.md",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg",
     "Sistemi e Reti/Soluzione prima prova.md",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
     "Sistemi e Reti/Prova 13 maggio 2024.md",
