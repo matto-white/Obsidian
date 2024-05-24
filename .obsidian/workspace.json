@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "cd4498edae9648c3",
+        "id": "cb0a57e1a422794f",
         "type": "tabs",
         "children": [
           {
-            "id": "04edf04635683462",
+            "id": "0ce29892323beed4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e Reti/Soluzione prima prova.md",
+                "file": "Informatica/Società Aeroportuale.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "101cc2b46f050d86",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e Reti/Soluzione prima prova.md",
+                "file": "Informatica/Società Aeroportuale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e Reti/Soluzione prima prova.md",
+                "file": "Informatica/Società Aeroportuale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e Reti/Soluzione prima prova.md"
+                "file": "Informatica/Società Aeroportuale.md"
               }
             }
           },
@@ -171,14 +181,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04edf04635683462",
+  "active": "0ce29892323beed4",
   "lastOpenFiles": [
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg",
     "Informatica/Società Aeroportuale.md",
-    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
     "Sistemi e Reti/Soluzione prima prova.md",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
     "Sistemi e Reti/Prova 13 maggio 2024.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg",
     "Excalidraw/Drawing 2024-05-23 16.37.09.excalidraw.md",
     "Untitled 1.md",
     "Storia/Cap 10.md",
@@ -205,7 +215,6 @@
     "Storia/Il Nazismo.md",
     "Informatica/attachments/Autori 2024-05-09 10.25.20.excalidraw.svg",
     "Informatica/attachments",
-    "Inglese/Frasi pag 101.md",
     "Italiano/Eugenio Montale",
     "Italiano/Giuseppe Ungaretti/Il porto sepolto 2024-04-30 10.42.58.excalidraw.svg",
     "Italiano/Giuseppe Ungaretti/attachments/Il porto sepolto 2024-04-30 10.54.12.excalidraw.svg",
