@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa6d74a5a919f19d",
+        "id": "715aba4cb37b4b0c",
         "type": "tabs",
         "children": [
           {
-            "id": "13757efbe7f7f68e",
+            "id": "a8841db06249b4ca",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,8 +166,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13757efbe7f7f68e",
+  "active": "41b9c3c5c779ada2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-23 16.37.09.excalidraw.md",
     "Untitled 1.md",
     "Storia/Cap 10.md",
     "Informatica/Società Aeroportuale.md",
@@ -185,7 +189,6 @@
     "Italiano/Eugenio Montale/L'alluvione ha sommerso il pack dei mobili.md",
     "Storia/Unione Sovietica.md",
     "Storia/PRE Seconda Guerra Mondiale.md",
-    "conflict-files-obsidian-git.md",
     "Inglese/Traduzione 14-05-2024.md",
     "Sistemi e Reti/Prova 13 maggio 2024.md",
     "Sistemi e Reti/attachments/Prova 13 maggio 2024 2024-05-13 11.51.49.excalidraw.md",
@@ -197,10 +200,7 @@
     "Informatica/attachments/Autori 2024-05-09 10.25.20.excalidraw.svg",
     "Informatica/attachments",
     "Inglese/Frasi pag 101.md",
-    "Inglese/Frasi da tradurre dalla lavagna 30-04-2024.md",
-    "Sistemi e Reti/IoT.md",
     "Italiano/Eugenio Montale",
-    "Italiano/Giuseppe Ungaretti/Il porto sepolto.md",
     "Italiano/Giuseppe Ungaretti/Il porto sepolto 2024-04-30 10.42.58.excalidraw.svg",
     "Italiano/Giuseppe Ungaretti/attachments/Il porto sepolto 2024-04-30 10.54.12.excalidraw.svg",
     "Italiano/Giuseppe Ungaretti/attachments/Il porto sepolto 2024-04-30 10.52.15.excalidraw.svg",
@@ -208,7 +208,6 @@
     "Excalidraw/Il porto sepolto 2024-04-30 10.42.58.excalidraw.svg",
     "Excalidraw/Il porto sepolto 2024-04-30 10.39.53.excalidraw.svg",
     "Excalidraw/Il porto sepolto 2024-04-30 10.25.11.excalidraw.svg",
-    "Excalidraw/Il porto sepolto 2024-04-30 10.20.24.excalidraw.svg",
     "Italiano/Giuseppe Ungaretti/12-GIUSEPPE-UNGARETTI.pdf",
     "Italiano/Giuseppe Ungaretti/12-GIUSEPPE-UNGARETTI.pdf.crdownload",
     "Italiano/Giuseppe Ungaretti/Ungaretti_1914-1919__L_allegria.pdf",
