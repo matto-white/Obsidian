@@ -11,8 +11,12 @@
             "id": "845d61a7ff923adf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sistemi e Reti/Soluzione prima prova.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sistemi e Reti/Soluzione prima prova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sistemi e Reti/Soluzione prima prova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sistemi e Reti/Soluzione prima prova.md"
+              }
             }
           },
           {
@@ -160,14 +168,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "845d61a7ff923adf",
   "lastOpenFiles": [
+    "Sistemi e Reti/Prova 13 maggio 2024.md",
+    "Sistemi e Reti/Soluzione prima prova.md",
     "Informatica/Società Aeroportuale.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg",
@@ -190,7 +197,6 @@
     "Storia/Unione Sovietica.md",
     "Storia/PRE Seconda Guerra Mondiale.md",
     "Inglese/Traduzione 14-05-2024.md",
-    "Sistemi e Reti/Prova 13 maggio 2024.md",
     "Sistemi e Reti/attachments/Prova 13 maggio 2024 2024-05-13 11.51.49.excalidraw.md",
     "Sistemi e Reti/attachments/Prova 13 maggio 2024 2024-05-13 11.51.49.excalidraw.svg",
     "Sistemi e Reti/attachments",
