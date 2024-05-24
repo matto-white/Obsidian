@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1c8fa2172683c2b1",
+        "id": "aa6d74a5a919f19d",
         "type": "tabs",
         "children": [
           {
-            "id": "afc7c87aadce1218",
+            "id": "13757efbe7f7f68e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storia/Cap 10.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6139fd517a4db12",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Cap 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Cap 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Storia/Cap 10.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,14 +167,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afc7c87aadce1218",
+  "active": "13757efbe7f7f68e",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Storia/Cap 10.md",
     "Informatica/Società Aeroportuale.md",
     "Excalidraw/Drawing 2024-05-22 10.31.24.excalidraw.md",
     "Excalidraw/Drawing 2024-05-22 10.31.24.excalidraw.svg",
     "Informatica/Autori.md",
     "Informatica/Autori.pdf",
-    "Storia/Cap 10.md",
     "Italiano/Studio per Esame.md",
     "Italiano/Eugenio Montale/Satura.md",
     "Italiano/Eugenio Montale/Ho sceso, dandoti il braccio, almeno un milione di scale.md",
