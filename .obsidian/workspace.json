@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "92b57e498bd62e38",
+        "id": "cd4498edae9648c3",
         "type": "tabs",
         "children": [
           {
-            "id": "845d61a7ff923adf",
+            "id": "04edf04635683462",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,14 +171,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "845d61a7ff923adf",
+  "active": "04edf04635683462",
   "lastOpenFiles": [
-    "Sistemi e Reti/Prova 13 maggio 2024.md",
-    "Sistemi e Reti/Soluzione prima prova.md",
     "Informatica/Società Aeroportuale.md",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
+    "Sistemi e Reti/Soluzione prima prova.md",
+    "Sistemi e Reti/Prova 13 maggio 2024.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg",
-    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
     "Excalidraw/Drawing 2024-05-23 16.37.09.excalidraw.md",
     "Untitled 1.md",
     "Storia/Cap 10.md",
