@@ -11,8 +11,10 @@
             "id": "1612799a497f49ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md"
+              }
             }
           },
           {
@@ -138,6 +144,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
@@ -149,6 +156,7 @@
   },
   "active": "1612799a497f49ca",
   "lastOpenFiles": [
+    "Informatica/Società Aeroportuale.md",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/~syncthing~Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg.tmp",
@@ -159,7 +167,6 @@
     "Excalidraw/~syncthing~Società Aeroportuale 2024-05-23 16.37.22.excalidraw.sync-conflict-20240525-172628-CFRRURP.svg.tmp",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.sync-conflict-20240525-172627-C5LEHAY.md",
     "Excalidraw/~syncthing~Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md.tmp",
-    "Informatica/Società Aeroportuale.md",
     "Sistemi e Reti/Soluzione prima prova.md",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg",
     "Excalidraw/Drawing 2024-05-23 16.37.09.excalidraw.md",
