@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6139fd517a4db12",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
+                "file": "Informatica/Società Aeroportuale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
+                "file": "Informatica/Società Aeroportuale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md"
+                "file": "Informatica/Società Aeroportuale.md"
               }
             }
           },
@@ -169,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 355.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,11 +184,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "daa2abbc2499e43a",
+  "active": "8f2cce6af1679efc",
   "lastOpenFiles": [
     "Informatica/Società Aeroportuale.md",
-    "2024-05-24.md",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
+    "2024-05-24.md",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg",
     "Sistemi e Reti/Soluzione prima prova.md",
     "Sistemi e Reti/Prova 13 maggio 2024.md",
