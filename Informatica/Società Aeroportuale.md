@@ -14,3 +14,13 @@
 **Controllo**(**ID**, *Punto*, Data_Inizio, Ora_Inizio, *EsitoID*, Dazio, *Passeggero_N_Doc*, *FunzionarioID*, *AddettoID*)
 
 
+**Città**(**ID**)
+**Aeroporto**(**ID**, Luogo, Quantita_Piste, _CittaID_)
+**Passeggero**(**N_Doc**, Nome, Cognome, Nazionalita, Motivo, Bagaglio_a_mano, _Controllo_ID_)
+**Addetto**(**ID**, Nome, Cognome, _Controllo_ID_)
+**Punto_di_Controllo**(**ID**)
+**Funzionario**(**ID**, Nome, Cognome, _Controllo_ID_)
+**Esito**(**ID**, Nome, Descrizione, _Controllo_ID_)
+**Categoria**(**ID**, Nome, Descrizione)
+**Merce**(**ID**, _CategoriaID_, Descrizione, Quantita, Ritirata)
+**Controllo**(**ID**, Punto, Data_Inizio, Ora_Inizio, _EsitoID_, Dazio, _Passeggero_N_Doc_, _FunzionarioID_, _AddettoID_, _Merce_ID_)
