@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7f763dae2fa58ca8",
+        "id": "d057a3f1e93bcb4a",
         "type": "tabs",
         "children": [
           {
-            "id": "1612799a497f49ca",
+            "id": "d9cb73b788a4cf20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatica/Società Aeroportuale.md",
+                "file": "Italiano/Leopardi/Leopardi.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f92fef231ded7ad8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md"
               }
             }
           }
@@ -79,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "4a56230024100544",
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatica/Società Aeroportuale.md",
+                "file": "Italiano/Leopardi/Leopardi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatica/Società Aeroportuale.md",
+                "file": "Italiano/Leopardi/Leopardi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatica/Società Aeroportuale.md"
+                "file": "Italiano/Leopardi/Leopardi.md"
               }
             }
           },
@@ -153,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,15 +156,16 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "1612799a497f49ca",
+  "active": "d9cb73b788a4cf20",
   "lastOpenFiles": [
+    "Storia/Cap 10.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
+    "Informatica/Società Aeroportuale.md",
     "Informatica/Società Aeroportuale.pdf",
     "Informatica/Autori.md",
-    "Informatica/Società Aeroportuale.md",
-    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
     "Informatica/Autori.pdf",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.png",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/~syncthing~Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg.tmp",
     "Sistemi e Reti/~syncthing~Soluzione prima prova.md.tmp",
     "Sistemi e Reti/Soluzione prima prova.sync-conflict-20240525-172628-CFRRURP.md",
@@ -211,7 +200,6 @@
     "Sistemi e Reti/~syncthing~Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md.tmp",
     "Chart Tue Sep 26 2023.png",
     "Inglese/The geography of spices and erbs.pdf",
-    "Inglese/Spices in the middle ages.pdf",
     "Pasted image 20240117103738.png",
     "Pasted image 20240117103611.png",
     "Pasted image 20240117103102.png",
