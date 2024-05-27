@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Storia/Cap 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Storia/Cap 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Storia/Cap 10.md"
               }
             }
           },
@@ -170,10 +172,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41b9c3c5c779ada2",
+  "active": "52d60c161c04949f",
   "lastOpenFiles": [
-    "Storia/Cap 10.md",
     "conflict-files-obsidian-git.md",
+    "Storia/Cap 10.md",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.png",
     "Informatica/Società Aeroportuale.md",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.sync-conflict-20240525-172627-C5LEHAY.md",
