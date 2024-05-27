@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "565e648ffca70617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Cap 10.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Cap 10.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Cap 10.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -172,10 +185,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52d60c161c04949f",
+  "active": "565e648ffca70617",
   "lastOpenFiles": [
-    "Informatica/Società Aeroportuale.md",
+    "Storia/Cap 10.md",
     "conflict-files-obsidian-git.md",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.png",
+    "Informatica/Società Aeroportuale.md",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.sync-conflict-20240525-172627-C5LEHAY.md",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.sync-conflict-20240525-172628-CFRRURP.svg",
     "Sistemi e Reti/Soluzione prima prova.sync-conflict-20240525-172628-CFRRURP.md",
@@ -186,7 +201,6 @@
     "Sistemi e Reti/Prova 13 maggio 2024.md",
     "Excalidraw/Drawing 2024-05-23 16.37.09.excalidraw.md",
     "Untitled 1.md",
-    "Storia/Cap 10.md",
     "Excalidraw/Drawing 2024-05-22 10.31.24.excalidraw.md",
     "Excalidraw/Drawing 2024-05-22 10.31.24.excalidraw.svg",
     "Informatica/Autori.md",
@@ -205,7 +219,6 @@
     "Sistemi e Reti/attachments/Prova 13 maggio 2024 2024-05-13 11.51.49.excalidraw.md",
     "Sistemi e Reti/attachments/Prova 13 maggio 2024 2024-05-13 11.51.49.excalidraw.svg",
     "Sistemi e Reti/attachments",
-    "Informatica/attachments/Autori 2024-05-09 10.25.20.excalidraw.md",
     "Informatica/attachments/Autori 2024-05-09 10.25.20.excalidraw.svg",
     "Informatica/attachments",
     "Italiano/Eugenio Montale",
@@ -214,7 +227,6 @@
     "Italiano/Giuseppe Ungaretti/attachments/Il porto sepolto 2024-04-30 10.52.15.excalidraw.svg",
     "Italiano/Giuseppe Ungaretti/attachments",
     "Excalidraw/Il porto sepolto 2024-04-30 10.42.58.excalidraw.svg",
-    "Excalidraw/Il porto sepolto 2024-04-30 10.39.53.excalidraw.svg",
     "Italiano/Giuseppe Ungaretti/12-GIUSEPPE-UNGARETTI.pdf",
     "Italiano/Giuseppe Ungaretti/12-GIUSEPPE-UNGARETTI.pdf.crdownload",
     "Italiano/Giuseppe Ungaretti/Ungaretti_1914-1919__L_allegria.pdf",
