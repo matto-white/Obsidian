@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d057a3f1e93bcb4a",
+        "id": "9a274b2e2963a737",
         "type": "tabs",
         "children": [
           {
-            "id": "d9cb73b788a4cf20",
+            "id": "65a98d5d01c639bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Leopardi/Leopardi.md",
+                "file": "Storia/Il Fascismo.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Leopardi/Leopardi.md",
+                "file": "Storia/Il Fascismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Leopardi/Leopardi.md",
+                "file": "Storia/Il Fascismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Leopardi/Leopardi.md"
+                "file": "Storia/Il Fascismo.md"
               }
             }
           },
@@ -137,9 +137,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "2c6c67264d284749",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -158,13 +166,14 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "6a2f85d9ae1f32c3",
+  "active": "65a98d5d01c639bd",
   "lastOpenFiles": [
     "Storia/Cap 10.md",
+    "Informatica/Società Aeroportuale.pdf",
+    "Italiano/Leopardi/Leopardi.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
     "Informatica/Società Aeroportuale.md",
-    "Informatica/Società Aeroportuale.pdf",
     "Informatica/Autori.md",
     "Informatica/Autori.pdf",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.png",
@@ -196,8 +205,6 @@
     "Inglese/Frasi pag 101.md",
     "Informatica/Informatica.md",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
-    "Sistemi e Reti/NAT.md",
-    "Sistemi e Reti/e-mail.md",
     "Inglese/Bianco - Eftimie_IoT a Gruppi.pdf",
     "Sistemi e Reti/~syncthing~Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md.tmp",
     "Chart Tue Sep 26 2023.png",
