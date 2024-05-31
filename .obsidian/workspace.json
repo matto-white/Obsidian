@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "9881664b7bd12e48",
+    "id": "663c4969fb904bba",
     "type": "split",
     "children": [
       {
-        "id": "9a274b2e2963a737",
+        "id": "29bc16229ac26bd4",
         "type": "tabs",
         "children": [
           {
-            "id": "65a98d5d01c639bd",
+            "id": "52d60c161c04949f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "GPOI/Project Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6c3e2644f1439391",
+    "id": "d623b406e0893a6a",
     "type": "split",
     "children": [
       {
-        "id": "5ddbeff4253c8bd0",
+        "id": "d4ce27b9014a1cd1",
         "type": "tabs",
         "children": [
           {
-            "id": "6a2f85d9ae1f32c3",
+            "id": "1498e56c9e9b6181",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "58f2798abf836b00",
+            "id": "ec525e34e0253818",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "b507df3364d966df",
+            "id": "7f262af0562dd8ca",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,24 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "4a56230024100544",
+    "id": "b6139fd517a4db12",
     "type": "split",
     "children": [
       {
-        "id": "bbb3ac60f0c8d3d8",
+        "id": "479e2fe0297bcb2b",
         "type": "tabs",
         "children": [
           {
-            "id": "d176212b6041616d",
+            "id": "d97512395e1ea6bb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "GPOI/Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +97,19 @@
             }
           },
           {
-            "id": "e59049336945556d",
+            "id": "2e06bd51e4e0bef5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Il Fascismo.md",
+                "file": "GPOI/Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "964dd70ded261c04",
+            "id": "33673eb72a5a0ff2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,17 +120,25 @@
             }
           },
           {
-            "id": "a49ec87d2aedf2c9",
+            "id": "eb2e32c7210c84be",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Il Fascismo.md"
+                "file": "GPOI/Project Management.md"
               }
             }
           },
           {
-            "id": "ade3f9e4e69cea70",
+            "id": "533178ab475dd472",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "41b9c3c5c779ada2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -139,7 +146,7 @@
             }
           },
           {
-            "id": "2c6c67264d284749",
+            "id": "245fdd5c2df48efa",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -151,68 +158,66 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65a98d5d01c639bd",
+  "active": "52d60c161c04949f",
   "lastOpenFiles": [
     "Storia/Cap 10.md",
-    "Informatica/Società Aeroportuale.pdf",
-    "Italiano/Leopardi/Leopardi.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.png",
     "Informatica/Società Aeroportuale.md",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.sync-conflict-20240525-172627-C5LEHAY.md",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.sync-conflict-20240525-172628-CFRRURP.svg",
+    "Sistemi e Reti/Soluzione prima prova.sync-conflict-20240525-172628-CFRRURP.md",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
+    "2024-05-24.md",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg",
+    "Sistemi e Reti/Soluzione prima prova.md",
+    "Sistemi e Reti/Prova 13 maggio 2024.md",
+    "Excalidraw/Drawing 2024-05-23 16.37.09.excalidraw.md",
+    "Untitled 1.md",
+    "Excalidraw/Drawing 2024-05-22 10.31.24.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-22 10.31.24.excalidraw.svg",
     "Informatica/Autori.md",
     "Informatica/Autori.pdf",
-    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.png",
-    "Excalidraw/~syncthing~Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg.tmp",
-    "Sistemi e Reti/~syncthing~Soluzione prima prova.md.tmp",
-    "Sistemi e Reti/Soluzione prima prova.sync-conflict-20240525-172628-CFRRURP.md",
-    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.sync-conflict-20240525-172628-CFRRURP.svg",
-    "Sistemi e Reti/~syncthing~Soluzione prima prova.sync-conflict-20240525-172628-CFRRURP.md.tmp",
-    "Excalidraw/~syncthing~Società Aeroportuale 2024-05-23 16.37.22.excalidraw.sync-conflict-20240525-172628-CFRRURP.svg.tmp",
-    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.sync-conflict-20240525-172627-C5LEHAY.md",
-    "Excalidraw/~syncthing~Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md.tmp",
-    "Sistemi e Reti/Soluzione prima prova.md",
-    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg",
-    "Excalidraw/Drawing 2024-05-23 16.37.09.excalidraw.md",
-    "GPOI/Macroeconomia.md",
-    "GPOI/Organigramma.md",
-    "GPOI/Tempi.md",
-    "GPOI/Business idea.md",
-    "GPOI/Project Management.md",
-    "GPOI/Guadagno.md",
-    "GPOI/offerta.png",
-    "GPOI/domanda.png",
-    "GPOI/Microeconomia.md",
-    "Storia/Il Fascismo.md",
-    "Storia/Primo dopoguerra in Italia.md",
-    "Storia/Seconda Guerra Mondiale.md",
+    "Italiano/Studio per Esame.md",
+    "Italiano/Eugenio Montale/Satura.md",
+    "Italiano/Eugenio Montale/Ho sceso, dandoti il braccio, almeno un milione di scale.md",
+    "Italiano/Eugenio Montale/Prima del viaggio.md",
     "Italiano/Eugenio Montale/Ossi di seppia.md",
-    "Inglese/Agenda 2030.md",
-    "Inglese/Frasi pag 101.md",
-    "Informatica/Informatica.md",
-    "Sistemi e Reti/Progettazione Reti Sicure.md",
-    "Inglese/Bianco - Eftimie_IoT a Gruppi.pdf",
-    "Sistemi e Reti/~syncthing~Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md.tmp",
-    "Chart Tue Sep 26 2023.png",
-    "Inglese/The geography of spices and erbs.pdf",
-    "Pasted image 20240117103738.png",
-    "Pasted image 20240117103611.png",
-    "Pasted image 20240117103102.png",
-    "Pasted image 20240116142819.png",
-    "Untitled.canvas"
+    "Italiano/Eugenio Montale/Eugenio Montale.md",
+    "Italiano/Eugenio Montale/Ti libero la fronte dai ghiaccioli.md",
+    "Italiano/Eugenio Montale/L'alluvione ha sommerso il pack dei mobili.md",
+    "Storia/Unione Sovietica.md",
+    "Storia/PRE Seconda Guerra Mondiale.md",
+    "Inglese/Traduzione 14-05-2024.md",
+    "Sistemi e Reti/attachments/Prova 13 maggio 2024 2024-05-13 11.51.49.excalidraw.md",
+    "Sistemi e Reti/attachments/Prova 13 maggio 2024 2024-05-13 11.51.49.excalidraw.svg",
+    "Sistemi e Reti/attachments",
+    "Informatica/attachments/Autori 2024-05-09 10.25.20.excalidraw.svg",
+    "Informatica/attachments",
+    "Italiano/Eugenio Montale",
+    "Italiano/Giuseppe Ungaretti/Il porto sepolto 2024-04-30 10.42.58.excalidraw.svg",
+    "Italiano/Giuseppe Ungaretti/attachments/Il porto sepolto 2024-04-30 10.54.12.excalidraw.svg",
+    "Italiano/Giuseppe Ungaretti/attachments/Il porto sepolto 2024-04-30 10.52.15.excalidraw.svg",
+    "Italiano/Giuseppe Ungaretti/attachments",
+    "Excalidraw/Il porto sepolto 2024-04-30 10.42.58.excalidraw.svg",
+    "Italiano/Giuseppe Ungaretti/12-GIUSEPPE-UNGARETTI.pdf",
+    "Italiano/Giuseppe Ungaretti/12-GIUSEPPE-UNGARETTI.pdf.crdownload",
+    "Italiano/Giuseppe Ungaretti/Ungaretti_1914-1919__L_allegria.pdf",
+    "Italiano/Giuseppe Ungaretti/Ungaretti_1914-1919__L_allegria.pdf.crdownload",
+    "Italiano/Giuseppe Ungaretti/Introduzioneossola.pdf"
   ]
 }
