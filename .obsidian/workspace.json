@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Il Nazismo.md",
+                "file": "GPOI/Project Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 474.49999618530273
   },
   "right": {
     "id": "4a56230024100544",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Il Nazismo.md",
+                "file": "GPOI/Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Il Nazismo.md",
+                "file": "GPOI/Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Il Nazismo.md"
+                "file": "GPOI/Project Management.md"
               }
             }
           },
@@ -168,9 +167,10 @@
   },
   "active": "65a98d5d01c639bd",
   "lastOpenFiles": [
+    "GPOI/Business idea.md",
+    "Storia/Il Nazismo.md",
     "Storia/Cap 10.md",
     "Storia/Unione Sovietica.md",
-    "Storia/Il Nazismo.md",
     "Storia/Il Fascismo.md",
     "Informatica/Società Aeroportuale.pdf",
     "Italiano/Leopardi/Leopardi.md",
@@ -194,7 +194,6 @@
     "GPOI/Macroeconomia.md",
     "GPOI/Organigramma.md",
     "GPOI/Tempi.md",
-    "GPOI/Business idea.md",
     "GPOI/Project Management.md",
     "GPOI/Guadagno.md",
     "GPOI/offerta.png",
