@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPOI/Project Management.md",
+                "file": "GPOI/Guadagno.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPOI/Project Management.md",
+                "file": "GPOI/Guadagno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPOI/Project Management.md",
+                "file": "GPOI/Guadagno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPOI/Project Management.md"
+                "file": "GPOI/Guadagno.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "65a98d5d01c639bd",
   "lastOpenFiles": [
+    "GPOI/Microeconomia.md",
+    "GPOI/Project Management.md",
     "GPOI/Business idea.md",
     "Storia/Il Nazismo.md",
     "Storia/Cap 10.md",
@@ -194,11 +196,9 @@
     "GPOI/Macroeconomia.md",
     "GPOI/Organigramma.md",
     "GPOI/Tempi.md",
-    "GPOI/Project Management.md",
     "GPOI/Guadagno.md",
     "GPOI/offerta.png",
     "GPOI/domanda.png",
-    "GPOI/Microeconomia.md",
     "Storia/Primo dopoguerra in Italia.md",
     "Storia/Seconda Guerra Mondiale.md",
     "Italiano/Eugenio Montale/Ossi di seppia.md",
