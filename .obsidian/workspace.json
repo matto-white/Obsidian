@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87607e84305974ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GPOI/Business idea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3450be7e2bafb2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPOI/Project Management.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPOI/Project Management.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPOI/Project Management.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -172,15 +197,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55f280791734cda7",
+  "active": "e3450be7e2bafb2b",
   "lastOpenFiles": [
+    "GPOI/Business idea.md",
+    "conflict-files-obsidian-git.md",
+    "GPOI/Macroeconomia.md",
+    "GPOI/Project Management.md",
     "Sistemi e Reti/802.11.md",
     "Sistemi e Reti/Progettazione Reti Sicure.md",
     "Sistemi e Reti/Sistemi di autenticazione.md",
     "Informatica/Autori.pdf",
-    "GPOI/Project Management.md",
     "Storia/Cap 10.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.png",
     "Informatica/Società Aeroportuale.md",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.sync-conflict-20240525-172627-C5LEHAY.md",
@@ -203,8 +230,6 @@
     "Italiano/Eugenio Montale/Ossi di seppia.md",
     "Italiano/Eugenio Montale/Eugenio Montale.md",
     "Italiano/Eugenio Montale/Ti libero la fronte dai ghiaccioli.md",
-    "Italiano/Eugenio Montale/L'alluvione ha sommerso il pack dei mobili.md",
-    "Storia/Unione Sovietica.md",
     "Sistemi e Reti/attachments/Prova 13 maggio 2024 2024-05-13 11.51.49.excalidraw.svg",
     "Sistemi e Reti/attachments",
     "Informatica/attachments/Autori 2024-05-09 10.25.20.excalidraw.svg",
