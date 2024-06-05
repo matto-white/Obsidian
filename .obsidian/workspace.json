@@ -11,8 +11,12 @@
             "id": "55f280791734cda7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GPOI/Project Management.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GPOI/Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GPOI/Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GPOI/Project Management.md"
+              }
             }
           },
           {
@@ -166,6 +174,9 @@
   },
   "active": "55f280791734cda7",
   "lastOpenFiles": [
+    "Sistemi e Reti/802.11.md",
+    "Sistemi e Reti/Progettazione Reti Sicure.md",
+    "Sistemi e Reti/Sistemi di autenticazione.md",
     "Informatica/Autori.pdf",
     "GPOI/Project Management.md",
     "Storia/Cap 10.md",
@@ -194,8 +205,6 @@
     "Italiano/Eugenio Montale/Ti libero la fronte dai ghiaccioli.md",
     "Italiano/Eugenio Montale/L'alluvione ha sommerso il pack dei mobili.md",
     "Storia/Unione Sovietica.md",
-    "Storia/PRE Seconda Guerra Mondiale.md",
-    "Inglese/Traduzione 14-05-2024.md",
     "Sistemi e Reti/attachments/Prova 13 maggio 2024 2024-05-13 11.51.49.excalidraw.svg",
     "Sistemi e Reti/attachments",
     "Informatica/attachments/Autori 2024-05-09 10.25.20.excalidraw.svg",
