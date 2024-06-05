@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "663c4969fb904bba",
+    "id": "9881664b7bd12e48",
     "type": "split",
     "children": [
       {
-        "id": "607dcf86cfe2a0b4",
+        "id": "9a274b2e2963a737",
         "type": "tabs",
         "children": [
           {
-            "id": "55f280791734cda7",
+            "id": "65a98d5d01c639bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,35 +18,22 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "87607e84305974ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GPOI/Business idea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d623b406e0893a6a",
+    "id": "6c3e2644f1439391",
     "type": "split",
     "children": [
       {
-        "id": "d4ce27b9014a1cd1",
+        "id": "5ddbeff4253c8bd0",
         "type": "tabs",
         "children": [
           {
-            "id": "1498e56c9e9b6181",
+            "id": "6a2f85d9ae1f32c3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "ec525e34e0253818",
+            "id": "58f2798abf836b00",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "7f262af0562dd8ca",
+            "id": "b507df3364d966df",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 267.49999618530273
   },
   "right": {
-    "id": "b6139fd517a4db12",
+    "id": "4a56230024100544",
     "type": "split",
     "children": [
       {
-        "id": "479e2fe0297bcb2b",
+        "id": "bbb3ac60f0c8d3d8",
         "type": "tabs",
         "children": [
           {
-            "id": "d97512395e1ea6bb",
+            "id": "d176212b6041616d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPOI/Business idea.md",
+                "file": "GPOI/Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "2e06bd51e4e0bef5",
+            "id": "e59049336945556d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPOI/Business idea.md",
+                "file": "GPOI/Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "33673eb72a5a0ff2",
+            "id": "964dd70ded261c04",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,25 +120,17 @@
             }
           },
           {
-            "id": "eb2e32c7210c84be",
+            "id": "a49ec87d2aedf2c9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPOI/Business idea.md"
+                "file": "GPOI/Project Management.md"
               }
             }
           },
           {
-            "id": "533178ab475dd472",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "41b9c3c5c779ada2",
+            "id": "ade3f9e4e69cea70",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -159,7 +138,7 @@
             }
           },
           {
-            "id": "245fdd5c2df48efa",
+            "id": "2c6c67264d284749",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -171,67 +150,69 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "87607e84305974ec",
+  "active": "65a98d5d01c639bd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "GPOI/Business idea.md",
-    "GPOI/Macroeconomia.md",
+    "GPOI/Guadagno.md",
+    "GPOI/Microeconomia.md",
     "GPOI/Project Management.md",
-    "Sistemi e Reti/802.11.md",
-    "Sistemi e Reti/Progettazione Reti Sicure.md",
-    "Sistemi e Reti/Sistemi di autenticazione.md",
-    "Informatica/Autori.pdf",
+    "GPOI/Business idea.md",
+    "Storia/Il Nazismo.md",
     "Storia/Cap 10.md",
-    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.png",
-    "Informatica/Società Aeroportuale.md",
-    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.sync-conflict-20240525-172627-C5LEHAY.md",
-    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.sync-conflict-20240525-172628-CFRRURP.svg",
-    "Sistemi e Reti/Soluzione prima prova.sync-conflict-20240525-172628-CFRRURP.md",
+    "Storia/Unione Sovietica.md",
+    "Storia/Il Fascismo.md",
+    "Informatica/Società Aeroportuale.pdf",
+    "Italiano/Leopardi/Leopardi.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md",
-    "2024-05-24.md",
-    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg",
-    "Sistemi e Reti/Soluzione prima prova.md",
-    "Sistemi e Reti/Prova 13 maggio 2024.md",
-    "Excalidraw/Drawing 2024-05-23 16.37.09.excalidraw.md",
-    "Untitled 1.md",
-    "Excalidraw/Drawing 2024-05-22 10.31.24.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-22 10.31.24.excalidraw.svg",
+    "Informatica/Società Aeroportuale.md",
     "Informatica/Autori.md",
-    "Italiano/Studio per Esame.md",
-    "Italiano/Eugenio Montale/Satura.md",
-    "Italiano/Eugenio Montale/Ho sceso, dandoti il braccio, almeno un milione di scale.md",
-    "Italiano/Eugenio Montale/Prima del viaggio.md",
+    "Informatica/Autori.pdf",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.png",
+    "Excalidraw/~syncthing~Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg.tmp",
+    "Sistemi e Reti/~syncthing~Soluzione prima prova.md.tmp",
+    "Sistemi e Reti/Soluzione prima prova.sync-conflict-20240525-172628-CFRRURP.md",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.sync-conflict-20240525-172628-CFRRURP.svg",
+    "Sistemi e Reti/~syncthing~Soluzione prima prova.sync-conflict-20240525-172628-CFRRURP.md.tmp",
+    "Excalidraw/~syncthing~Società Aeroportuale 2024-05-23 16.37.22.excalidraw.sync-conflict-20240525-172628-CFRRURP.svg.tmp",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.sync-conflict-20240525-172627-C5LEHAY.md",
+    "Excalidraw/~syncthing~Società Aeroportuale 2024-05-23 16.37.22.excalidraw.md.tmp",
+    "Sistemi e Reti/Soluzione prima prova.md",
+    "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg",
+    "Excalidraw/Drawing 2024-05-23 16.37.09.excalidraw.md",
+    "GPOI/Macroeconomia.md",
+    "GPOI/Organigramma.md",
+    "GPOI/Tempi.md",
+    "GPOI/offerta.png",
+    "GPOI/domanda.png",
+    "Storia/Primo dopoguerra in Italia.md",
+    "Storia/Seconda Guerra Mondiale.md",
     "Italiano/Eugenio Montale/Ossi di seppia.md",
-    "Italiano/Eugenio Montale/Eugenio Montale.md",
-    "Italiano/Eugenio Montale/Ti libero la fronte dai ghiaccioli.md",
-    "Sistemi e Reti/attachments/Prova 13 maggio 2024 2024-05-13 11.51.49.excalidraw.svg",
-    "Sistemi e Reti/attachments",
-    "Informatica/attachments/Autori 2024-05-09 10.25.20.excalidraw.svg",
-    "Informatica/attachments",
-    "Italiano/Eugenio Montale",
-    "Italiano/Giuseppe Ungaretti/Il porto sepolto 2024-04-30 10.42.58.excalidraw.svg",
-    "Italiano/Giuseppe Ungaretti/attachments/Il porto sepolto 2024-04-30 10.54.12.excalidraw.svg",
-    "Italiano/Giuseppe Ungaretti/attachments/Il porto sepolto 2024-04-30 10.52.15.excalidraw.svg",
-    "Italiano/Giuseppe Ungaretti/attachments",
-    "Excalidraw/Il porto sepolto 2024-04-30 10.42.58.excalidraw.svg",
-    "Italiano/Giuseppe Ungaretti/12-GIUSEPPE-UNGARETTI.pdf",
-    "Italiano/Giuseppe Ungaretti/12-GIUSEPPE-UNGARETTI.pdf.crdownload",
-    "Italiano/Giuseppe Ungaretti/Ungaretti_1914-1919__L_allegria.pdf",
-    "Italiano/Giuseppe Ungaretti/Ungaretti_1914-1919__L_allegria.pdf.crdownload",
-    "Italiano/Giuseppe Ungaretti/Introduzioneossola.pdf"
+    "Inglese/Agenda 2030.md",
+    "Inglese/Frasi pag 101.md",
+    "Informatica/Informatica.md",
+    "Inglese/Bianco - Eftimie_IoT a Gruppi.pdf",
+    "Sistemi e Reti/~syncthing~Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md.tmp",
+    "Chart Tue Sep 26 2023.png",
+    "Inglese/The geography of spices and erbs.pdf",
+    "Pasted image 20240117103738.png",
+    "Pasted image 20240117103611.png",
+    "Pasted image 20240117103102.png",
+    "Pasted image 20240116142819.png",
+    "Untitled.canvas"
   ]
 }
