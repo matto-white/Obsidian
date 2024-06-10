@@ -1,4 +1,4 @@
-# Primo dopoguerra in Germania
+ # Primo dopoguerra in Germania
 La Germania perde la guerra, e poco dopo finisce il 2° Reich.
 Il parlamento decide di fondare una repubblica. Come presidente della repubblica viene scelto Hebert (Presidente dei social democratici)
 Viene fondata la lega di Spartaco da Karl Liebknecht e Rosa Luxemburg, e provano a organizzare la rivoluzione

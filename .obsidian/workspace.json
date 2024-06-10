@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1697e5a73a6a70d6",
+        "id": "c7e71f71c52127c7",
         "type": "tabs",
         "children": [
           {
-            "id": "c3286d43d79eca03",
+            "id": "8f98ea622f99b472",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,15 +165,15 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "c3286d43d79eca03",
+  "active": "8f98ea622f99b472",
   "lastOpenFiles": [
     "Storia/Il Fascismo.md",
+    "Storia/Il Nazismo.md",
     "Storia/Cap 10.md",
     "GPOI/Project Management.md",
     "GPOI/Guadagno.md",
     "GPOI/Microeconomia.md",
     "GPOI/Business idea.md",
-    "Storia/Il Nazismo.md",
     "Storia/Unione Sovietica.md",
     "Informatica/Società Aeroportuale.pdf",
     "Italiano/Leopardi/Leopardi.md",
