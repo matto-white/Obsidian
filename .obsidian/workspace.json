@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Il Nazismo.md",
+                "file": "Storia/Il Fascismo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Il Nazismo.md",
+                "file": "Storia/Il Fascismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Il Nazismo.md",
+                "file": "Storia/Il Fascismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Il Nazismo.md"
+                "file": "Storia/Il Fascismo.md"
               }
             }
           },
@@ -167,14 +167,14 @@
   },
   "active": "8f98ea622f99b472",
   "lastOpenFiles": [
-    "Storia/Il Fascismo.md",
+    "Storia/Unione Sovietica.md",
     "Storia/Il Nazismo.md",
+    "Storia/Il Fascismo.md",
     "Storia/Cap 10.md",
     "GPOI/Project Management.md",
     "GPOI/Guadagno.md",
     "GPOI/Microeconomia.md",
     "GPOI/Business idea.md",
-    "Storia/Unione Sovietica.md",
     "Informatica/Società Aeroportuale.pdf",
     "Italiano/Leopardi/Leopardi.md",
     "conflict-files-obsidian-git.md",
