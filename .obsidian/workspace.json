@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Italo Svevo/Italo Svevo.md",
+                "file": "Esame/Percorsi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Italo Svevo/Italo Svevo.md",
+                "file": "Esame/Percorsi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Italo Svevo/Italo Svevo.md",
+                "file": "Esame/Percorsi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Italo Svevo/Italo Svevo.md"
+                "file": "Esame/Percorsi.md"
               }
             }
           },
@@ -167,8 +167,10 @@
   },
   "active": "8f98ea622f99b472",
   "lastOpenFiles": [
-    "Italiano/Giuseppe Ungaretti/Giuseppe Ungaretti.md",
     "Italiano/Italo Svevo/Italo Svevo.md",
+    "Esame/Percorsi.md",
+    "Esame",
+    "Italiano/Giuseppe Ungaretti/Giuseppe Ungaretti.md",
     "Italiano/Leopardi/Leopardi.md",
     "Italiano/Leopardi/Canti.md",
     "Italiano/Leopardi/Alla sua donna.md",
@@ -204,11 +206,9 @@
     "GPOI/Tempi.md",
     "GPOI/offerta.png",
     "GPOI/domanda.png",
-    "Storia/Primo dopoguerra in Italia.md",
     "Inglese/Bianco - Eftimie_IoT a Gruppi.pdf",
     "Sistemi e Reti/~syncthing~Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md.tmp",
     "Chart Tue Sep 26 2023.png",
-    "Inglese/The geography of spices and erbs.pdf",
     "Pasted image 20240117103738.png",
     "Pasted image 20240117103611.png",
     "Pasted image 20240117103102.png",
