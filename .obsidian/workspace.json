@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7e71f71c52127c7",
+        "id": "0a8d99c4f52bf927",
         "type": "tabs",
         "children": [
           {
-            "id": "8f98ea622f99b472",
+            "id": "1cb9ad916e26c454",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,6 +16,22 @@
                 "file": "Esame/Percorsi.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "94fe3925a3d9aa13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cd456619e986ee6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Esame/attachments/Percorsi 2024-06-27 10.54.35.excalidraw.md"
               }
             }
           }
@@ -69,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.49999618530273
+    "width": 267.49999618530273,
+    "collapsed": true
   },
   "right": {
     "id": "4a56230024100544",
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Esame/Percorsi.md",
+                "file": "Esame/attachments/Percorsi 2024-06-27 10.54.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Esame/Percorsi.md",
+                "file": "Esame/attachments/Percorsi 2024-06-27 10.54.35.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Esame/Percorsi.md"
+                "file": "Esame/attachments/Percorsi 2024-06-27 10.54.35.excalidraw.md"
               }
             }
           },
@@ -165,10 +182,13 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "8f98ea622f99b472",
+  "active": "7cd456619e986ee6",
   "lastOpenFiles": [
-    "Italiano/Italo Svevo/Italo Svevo.md",
     "Esame/Percorsi.md",
+    "Esame/attachments/Percorsi 2024-06-27 10.54.35.excalidraw.svg",
+    "Esame/attachments/Percorsi 2024-06-27 10.54.35.excalidraw.md",
+    "Esame/attachments",
+    "Italiano/Italo Svevo/Italo Svevo.md",
     "Esame",
     "Italiano/Giuseppe Ungaretti/Giuseppe Ungaretti.md",
     "Italiano/Leopardi/Leopardi.md",
@@ -202,17 +222,13 @@
     "Excalidraw/Società Aeroportuale 2024-05-23 16.37.22.excalidraw.svg",
     "Excalidraw/Drawing 2024-05-23 16.37.09.excalidraw.md",
     "GPOI/Macroeconomia.md",
-    "GPOI/Organigramma.md",
-    "GPOI/Tempi.md",
     "GPOI/offerta.png",
     "GPOI/domanda.png",
     "Inglese/Bianco - Eftimie_IoT a Gruppi.pdf",
-    "Sistemi e Reti/~syncthing~Progettazione Reti Sicure.sync-conflict-20240214-232757-C5LEHAY.md.tmp",
     "Chart Tue Sep 26 2023.png",
     "Pasted image 20240117103738.png",
     "Pasted image 20240117103611.png",
     "Pasted image 20240117103102.png",
-    "Pasted image 20240116142819.png",
     "Untitled.canvas"
   ]
 }
