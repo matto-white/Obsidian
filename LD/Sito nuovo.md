@@ -1,3 +1,7 @@
 - tag con uuid generato dal db inserito nell'url come get
 - schermata tag con capo d'abbigliamento, linktree, tasto aggiungi all'account (se non già registrato)
-- Tutta la parte di gestione dell'account (modifica mail, modifica password, )
+- Tutta la parte di gestione dell'account (modifica mail, modifica password, eliminazione)
+- pagina inserimento capi nel db (per noi) con web-nfc
+- generatore otp per silvia
+- Nuova grafica (Burger menu)
+- Classifica
