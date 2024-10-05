@@ -1,0 +1,3 @@
+- tag con uuid generato dal db inserito nell'url come get
+- schermata tag con capo d'abbigliamento, linktree, tasto aggiungi all'account (se non già registrato)
+- Tutta la parte di gestione dell'account (modifica mail, modifica password, )
